@@ -4,8 +4,9 @@
 // type : whether the residue is an aminoacid or nucleotide
 // annoations: an object of key:value pairs for any annotations for this residue
 const residue = function(residue, type='aminoacid', annotations={}) {
-  if(! typeof(annotations) == "Object"){
-    throw("Annotations must be Object");
+
+  if(typeof(annotations) !== "object"){
+    throw("Annotations must be object");
   }
   if(residue.length > 1 || residue.length < 1)
   {

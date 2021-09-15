@@ -12,6 +12,7 @@ let residue = require('./residue.js');
 // source: A strong the defines where the data revord came from (i.e. a file
 //         name or URI
 const sequence = function(seq, type='aminoacid', annotations={}, source='', residue_annotations=[]) {
+
   if(!(type === "aminoacid" || type === "nucleotide"))
   {
      throw("Sequence type is not valid. Must be one of 'aminoacid' or 'nucleotide'");
@@ -29,6 +30,10 @@ const sequence = function(seq, type='aminoacid', annotations={}, source='', resi
   residue_array = [];
   Array.from(seq).forEach(function(letter, i){
     residue_array[i] = residue.residue(letter);
+    residue_array[i].type = type;
+    if(residue_annotations[i]){
+        residue_array[i].annotations = residue_annotations[i];
+    }
   });
   let seq_data = {
     sequence: seq,

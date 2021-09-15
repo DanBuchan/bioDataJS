@@ -13,7 +13,7 @@ nucres = bd.residue(residue='A', type="nucleotide",
 ///////////
 // Tests //
 ///////////
-describe('general residue generation', () => {
+describe('Residue: general residue generation', () => {
   it('should raise with invalid seq type', () => {
       expect(() => bd.residue(residue='A', type="argle")).to.throw("Residue type is not valid. Must be one of 'aminoacid' or 'nucleotide'");
   });
@@ -24,12 +24,8 @@ describe('general residue generation', () => {
       expect(() => bd.residue(residue='', type="aminoacid")).to.throw("Residues must be single characters");
   });
 
-  it('should raise with too few chracters', () => {
-      expect(() => bd.residue(residue='', type="aminoacid")).to.throw("Residues must be single characters");
-  });
-
   it('should raise with incorrect annotation types', () => {
-      expect(() => bd.residue(residue='A', type="aminoacid", annotations="hi")).to.throw("Residues must be single characters");
+      expect(() => bd.residue(residue='A', type="aminoacid", annotations="hi")).to.throw("Annotations must be object");
   });
 
   it('should have empty annotations', () => {
@@ -43,7 +39,7 @@ describe('general residue generation', () => {
   });
 });
 
-describe('amino acid residue generation', () => {
+describe('Residue: amino acid residue generation', () => {
     it('should return aminoacid', () => {
         expect(aares.type).to.equal("aminoacid");
     });
@@ -55,7 +51,7 @@ describe('amino acid residue generation', () => {
     });
 });
 
-describe('nucletide residue generation', () => {
+describe('Residue: nucletide residue generation', () => {
     it('should return nucleotide', () => {
         expect(nucres.type).to.equal("nucleotide");
     });
