@@ -1,0 +1,45 @@
+/*jshint esversion: 6 */
+let residue = require('./residue.js');
+
+// seq : A biological sequence
+// type : whether the residue is an aminoacid or nucleotide
+// annoations: an objects of key:value pairs. Of annotations for the whole
+//             sequence
+//             Each position in the array maps 1:1 to a positon in the Sequence
+// residue_annotations: an array of objects which are key:value pairs of
+//                      annotations. Each position in the array maps 1:1 to the
+//                      sequence
+// source: A strong the defines where the data revord came from (i.e. a file
+//         name or URI
+const sequence = function(seq, type='aminoacid', annotations={}, source='', residue_annotations=[]) {
+  if(!(type === "aminoacid" || type === "nucleotide"))
+  {
+     throw("Sequence type is not valid. Must be one of 'aminoacid' or 'nucleotide'");
+  }
+  if(type === "aminoacid") {
+    if(! /^[A,B,C,D,E,F,G,H,I,K,L,M,N,P,Q,R,S,T,V,W,X,Y,Z,_,-]+$/.test(seq.toUpperCase())){
+      throw("Input seq contains invalid amino acid characters");
+    }
+  }
+  if(type === "nucleotide") {
+    if(! /^[A,C,G,T,U,R,Y,S,W,K,M,B,D,H,V,N,X,_,-]+$/.test(seq.toUpperCase())){
+      throw("Input seq contains invalid nucleotide characters");
+    }
+  }
+  residue_array = [];
+  Array.from(seq).forEach(function(letter, i){
+    residue_array[i] = residue.residue(letter);
+  });
+  let seq_data = {
+    sequence: seq,
+    type: type,
+    source: source,
+    residues: residue_array,
+    annotations: annotations,
+  };
+  return(seq_data);
+};
+
+module.exports = {
+  sequence: sequence,
+};

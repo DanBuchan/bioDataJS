@@ -5,12 +5,16 @@
   "description": "Module for a common easy representation of bioinformatic data",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "keywords": [
     "Bioinformatics",
     "data"
   ],
   "author": "Daniel Buchan",
-  "license": "GPL-3.0-or-later"
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.1"
+  }
 }
