@@ -29,6 +29,7 @@ const residue = function(residue, type='aminoacid', annotations={}) {
   // TODO: Should build an array of atoms here for pdb type use
   //
   let seq_data = {
+    identity: "residue",
     residue: residue,
     type: type,
     annotations: annotations,

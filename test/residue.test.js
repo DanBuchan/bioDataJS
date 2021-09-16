@@ -6,26 +6,25 @@ let bd = require('../residue.js');
 // Fixtures //
 //////////////
 annotations_input = {DISOPRED: true};
-aares = bd.residue(residue='W', type="aminoacid");
-nucres = bd.residue(residue='A', type="nucleotide",
-                     annotations=annotations_input);
+aares = bd.residue('W', "aminoacid");
+nucres = bd.residue('A', "nucleotide", annotations_input);
 
 ///////////
 // Tests //
 ///////////
 describe('Residue: general residue generation', () => {
   it('should raise with invalid seq type', () => {
-      expect(() => bd.residue(residue='A', type="argle")).to.throw("Residue type is not valid. Must be one of 'aminoacid' or 'nucleotide'");
+      expect(() => bd.residue('A', "argle")).to.throw("Residue type is not valid. Must be one of 'aminoacid' or 'nucleotide'");
   });
   it('should raise with too many characters', () => {
-      expect(() => bd.residue(residue='AB', type="aminoacid")).to.throw("Residues must be single characters");
+      expect(() => bd.residue('AB', "aminoacid")).to.throw("Residues must be single characters");
   });
   it('should raise with too few chracters', () => {
-      expect(() => bd.residue(residue='', type="aminoacid")).to.throw("Residues must be single characters");
+      expect(() => bd.residue('', "aminoacid")).to.throw("Residues must be single characters");
   });
 
   it('should raise with incorrect annotation types', () => {
-      expect(() => bd.residue(residue='A', type="aminoacid", annotations="hi")).to.throw("Annotations must be object");
+      expect(() => bd.residue('A', "aminoacid", annotations="hi")).to.throw("Annotations must be object");
   });
 
   it('should have empty annotations', () => {
@@ -47,7 +46,7 @@ describe('Residue: amino acid residue generation', () => {
         expect(aares.residue).to.equal("W");
     });
     it('should raise with invalid aa seq', () => {
-        expect(() => bd.residue(residue='J', type="aminoacid")).to.throw("Input residue contains invalid amino acid characters");
+        expect(() => bd.residue('J', "aminoacid")).to.throw("Input residue contains invalid amino acid characters");
     });
 });
 
@@ -59,6 +58,6 @@ describe('Residue: nucletide residue generation', () => {
         expect(nucres.residue).to.equal("A");
     });
     it('should raise with invalid nuc seq', () => {
-        expect(() => bd.residue(residue='P', type="nucleotide")).to.throw("Input residue contains invalid nucleotide characters");
+        expect(() => bd.residue('P', "nucleotide")).to.throw("Input residue contains invalid nucleotide characters");
     });
 });

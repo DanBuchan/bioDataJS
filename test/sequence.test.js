@@ -7,23 +7,30 @@ let bd = require('../sequence.js');
 //////////////
 seq_annotations = {GO: ["GO:000012", "GO:1223423"]};
 source = "file.csv";
-residues = [ { residue: 'A', type: 'aminoacid', annotations: {} },
-     { residue: 'R', type: 'aminoacid', annotations: {} },
-     { residue: 'N', type: 'aminoacid', annotations: {} },
-     { residue: 'B', type: 'aminoacid', annotations: {} },
-     { residue: 'D', type: 'aminoacid', annotations: {} } ];
+residues = [ { residue: 'A', type: 'aminoacid', annotations: {}, identity: "residue" },
+     { residue: 'R', type: 'aminoacid', annotations: {}, identity: "residue" },
+     { residue: 'N', type: 'aminoacid', annotations: {}, identity: "residue" },
+     { residue: 'B', type: 'aminoacid', annotations: {}, identity: "residue" },
+     { residue: 'D', type: 'aminoacid', annotations: {}, identity: "residue" } ];
 res_annotations = [{disorder: true},{Helix: true},{strand: true},{coil: true}]
-aaseq = bd.sequence(seq='ARNBD', type="aminoacid");
-nucseq = bd.sequence(seq='ATCG', type="nucleotide",
-                     annotations=seq_annotations, source=source, residue_annotations=res_annotations);
+aaseq = bd.sequence('ARNBD', "aminoacid");
+nucseq = bd.sequence('ATCG', "nucleotide", seq_annotations, source,
+                     res_annotations);
 
 ///////////
 // Tests //
 ///////////
 describe('Sequence: general sequence generation', () => {
   it('should raise with invalid seq type', () => {
-      expect(() => bd.sequence(seq='ARN', type="argle")).to.throw("Sequence type is not valid. Must be one of 'aminoacid' or 'nucleotide'");
+      expect(() => bd.sequence('ARN', "argle")).to.throw("Sequence type is not valid. Must be one of 'aminoacid' or 'nucleotide'");
   });
+  it('should raise with invalid residue_annotations', () => {
+      expect(() => bd.sequence('AR', undefined, undefined, undefined, {})).to.throw("residue_annotations must be an array");
+  });
+  it('should raise with invalid residue_annotations', () => {
+      expect(() => bd.sequence('AR', undefined, undefined, 12, undefined)).to.throw("source must be a string");
+  });
+
   it('should have empty annotations', () => {
       expect(aaseq.annotations).to.be.empty;
   });
@@ -55,7 +62,7 @@ describe('Sequence: amino acid sequence generation', () => {
         expect(aaseq.sequence).to.equal("ARNBD");
     });
     it('should raise with invalid aa seq', () => {
-        expect(() => bd.sequence(seq='ARNBJ', type="aminoacid")).to.throw("Input seq contains invalid amino acid characters");
+        expect(() => bd.sequence('ARNBJ', "aminoacid")).to.throw("Input seq contains invalid amino acid characters");
     });
 });
 
@@ -67,6 +74,6 @@ describe('Sequence: nucletide sequence generation', () => {
         expect(nucseq.sequence).to.equal("ATCG");
     });
     it('should raise with invalid nuc seq', () => {
-        expect(() => bd.sequence(seq='ATCTP', type="nucleotide")).to.throw("Input seq contains invalid nucleotide characters");
+        expect(() => bd.sequence('ATCTP', "nucleotide")).to.throw("Input seq contains invalid nucleotide characters");
     });
 });
