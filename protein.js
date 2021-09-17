@@ -8,22 +8,39 @@ let sequence = require('./sequence.js');
 const protein = function(seq, annotations={}, source='') {
   let prot = seq;
 
-  // TODO: check if seq that has arrived is an array and if so
+  // check if seq that has arrived is an array and if so
   // ensure each item has the identity of sequence
   // and then skip the other tests
-
-  if(typeof prot === 'string' || prot instanceof String)
-  {//if we got a string try and make a sequence out of it
-    prot = sequence.sequence(prot);
+  if(Array.isArray(seq))
+  {
+    let pass = true;
+    let failed = '';
+    seq.forEach(function(item, i){
+      if(item.identity !== 'sequence'){
+        failed = failed+" "+i;
+        pass = false;
+      }
+    });
+    if(! pass)
+    {
+      throw("sequence array must contain only sequence type: error at "+failed);
+    }
   }
   else
-  {//otherwise check it is already a seq object
-    if(typeof(prot) !== "object"){
-      throw("protein seq must be object");
+  {
+    if(typeof prot === 'string' || prot instanceof String)
+    {//if we got a string try and make a sequence out of it
+      prot = sequence.sequence(prot);
     }
-    if(! prot.identity || prot.identity !== 'sequence')
-    {
-       throw("Input protein seq must have sequence identity");
+    else
+    {//otherwise check it is already a seq object
+      if(typeof(prot) !== "object"){
+        throw("protein seq must be object");
+      }
+      if((! prot.identity) || prot.identity !== 'sequence')
+      {
+         throw("Input protein seq must have sequence identity");
+      }
     }
   }
   if(! (typeof source === 'string' || source instanceof String))

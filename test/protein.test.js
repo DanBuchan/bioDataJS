@@ -17,7 +17,6 @@ prot2 = bd.protein(aaseq, seq_annotations, source)
 describe('Protein: general sequence generation', () => {
   it('protein should raise invalid seq types', () => {
     expect(() => bd.protein(2)).to.throw("protein seq must be object");
-    expect(() => bd.protein([])).to.throw("Input protein seq must have sequence identity");
   });
   it('protein should have a string source', () => {
     expect(() => bd.protein("ARNBD", undefined, 123)).to.throw("protein source must be a string");
@@ -36,6 +35,9 @@ describe('Protein: general sequence generation', () => {
   });
   it('protein should make a sequence object when given a string', () => {
       expect(prot.sequence.identity).to.equal("sequence");
+  });
+  it('protein should raise with invalid seq array', () => {
+    expect(() => bd.protein([aaseq, 12])).to.throw("sequence array must contain only sequence type: error at  1");
   });
 
 });

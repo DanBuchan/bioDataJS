@@ -31,7 +31,6 @@ const sequence = function(seq, type='aminoacid', annotations={}, source='', resi
   }
   if(type === "nucleotide") {
     if(! /^[A,B,C,D,G,H,K,M,N,R,S,T,U,V,W,X,Y,_,-]+$/.test(seq.toUpperCase())){
-      console.log("huh");
       throw("Input seq contains invalid nucleotide characters");
     }
   }

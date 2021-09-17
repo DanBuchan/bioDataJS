@@ -34,18 +34,36 @@ const rna = function(rna_sequence, rna_protein={}, annotations={}, source='', ty
     }
   }
 
-  if(typeof rna_sequence === 'string' || rna_sequence instanceof String)
-  {//if we got a string try and make a sequence out of it
-     rna_sequence = sequence.sequence(rna_sequence, 'nucleotide');
+  if(Array.isArray(rna_sequence))
+  {
+    let pass = true;
+    let failed = '';
+    rna_sequence.forEach(function(item, i){
+      if(item.identity !== 'sequence'){
+        failed = failed+" "+i;
+        pass = false;
+      }
+    });
+    if(! pass)
+    {
+      throw("rna_sequence array must contain only sequence type: error at "+failed);
+    }
   }
   else
-  {//otherwise check it is already a seq object
-    if(typeof(rna_sequence) !== "object"){
-      throw("rna_sequence must be object");
+  {
+    if(typeof rna_sequence === 'string' || rna_sequence instanceof String)
+    {//if we got a string try and make a sequence out of it
+       rna_sequence = sequence.sequence(rna_sequence, 'nucleotide');
     }
-    if(! rna_sequence.identity || rna_sequence.identity !== 'sequence')
-    {
-       throw("Input rna_sequence object must have sequence identity");
+    else
+    {//otherwise check it is already a seq object
+      if(typeof(rna_sequence) !== "object"){
+        throw("rna_sequence must be object");
+      }
+      if(! rna_sequence.identity || rna_sequence.identity !== 'sequence')
+      {
+         throw("Input rna_sequence object must have sequence identity");
+      }
     }
   }
 

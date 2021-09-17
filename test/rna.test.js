@@ -21,7 +21,6 @@ rna_prot = bd.rna('ATUG', "PPP", seq_annotations, source, "trna");
 describe('RNA: general sequence generation', () => {
   it('should raise invalid rna_sequence types', () => {
     expect(() => bd.rna(2)).to.throw("rna_sequence must be object");
-    expect(() => bd.rna([])).to.throw("Input rna_sequence object must have sequence identity");
   });
 
   it('rna should have a string source', () => {
@@ -49,5 +48,9 @@ describe('RNA: general sequence generation', () => {
   it('rna should make a protein object when given protein seq', () => {
       expect(rna_prot.protein.identity).to.equal("protein");
   });
+  it('rna should raise with invalid seq array', () => {
+    expect(() => bd.rna([rnaseq, 12])).to.throw("rna_sequence array must contain only sequence type: error at  1");
+  });
+
 
 });
