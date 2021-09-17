@@ -1,7 +1,9 @@
 # Things to do
 
+1. make rna class have multiple sequences (self splicing)
+2. make protein class have multiple sequences (inteins)
+
 1. Add Atom class, fold it in to the residue class
-2. Add mRNA class
 3. Add transcript class
 4. Add Gene class
 5. Add Chromosome class

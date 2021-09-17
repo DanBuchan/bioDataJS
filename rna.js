@@ -11,6 +11,10 @@ let sequence = require('./sequence.js');
 //         name or URI
 // type: default type of rna is mrna, overrrde for other classes
 const rna = function(rna_sequence, rna_protein={}, annotations={}, source='', type="mrna") {
+  // TODO: check if rna_sequence that has arrived is an array and if so
+  // ensure each item has the identity of sequence
+  // and then skip the other tests
+
 
   if(typeof rna_protein === 'string' || rna_protein instanceof String)
   {//if we got a string try and make a sequence out of it
