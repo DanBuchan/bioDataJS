@@ -6,7 +6,7 @@
 const residue = function(residue, type='aminoacid', annotations={}) {
 
   if(typeof(annotations) !== "object"){
-    throw("Annotations must be object");
+    throw("Residue annotations must be object");
   }
   if(residue.length > 1 || residue.length < 1)
   {

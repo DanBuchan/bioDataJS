@@ -16,11 +16,11 @@ prot2 = bd.protein(aaseq, seq_annotations, source)
 ///////////
 describe('Protein: general sequence generation', () => {
   it('protein should raise invalid seq types', () => {
-    expect(() => bd.protein(2)).to.throw("seq must be object");
-    expect(() => bd.protein([])).to.throw("Input seq must have sequence identity");
+    expect(() => bd.protein(2)).to.throw("protein seq must be object");
+    expect(() => bd.protein([])).to.throw("Input protein seq must have sequence identity");
   });
   it('protein should have a string source', () => {
-    expect(() => bd.protein("ARNBD", undefined, 123)).to.throw("source must be a string");
+    expect(() => bd.protein("ARNBD", undefined, 123)).to.throw("protein source must be a string");
   });
   it('protein should have empty annotations', () => {
       expect(prot.source).to.be.empty;

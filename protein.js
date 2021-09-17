@@ -14,16 +14,16 @@ const protein = function(seq, annotations={}, source='') {
   else
   {//otherwise check it is already a seq object
     if(typeof(prot) !== "object"){
-      throw("seq must be object");
+      throw("protein seq must be object");
     }
     if(! prot.identity || prot.identity !== 'sequence')
     {
-       throw("Input seq must have sequence identity");
+       throw("Input protein seq must have sequence identity");
     }
   }
   if(! (typeof source === 'string' || source instanceof String))
   {
-     throw("source must be a string");
+     throw("protein source must be a string");
   }
   let prot_data = {
     identity: "protein",

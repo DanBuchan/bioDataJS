@@ -25,10 +25,10 @@ describe('Sequence: general sequence generation', () => {
       expect(() => bd.sequence('ARN', "argle")).to.throw("Sequence type is not valid. Must be one of 'aminoacid' or 'nucleotide'");
   });
   it('should raise with invalid residue_annotations', () => {
-      expect(() => bd.sequence('AR', undefined, undefined, undefined, {})).to.throw("residue_annotations must be an array");
+      expect(() => bd.sequence('AR', undefined, undefined, undefined, {})).to.throw("sequence residue_annotations must be an array");
   });
   it('should raise with invalid residue_annotations', () => {
-      expect(() => bd.sequence('AR', undefined, undefined, 12, undefined)).to.throw("source must be a string");
+      expect(() => bd.sequence('AR', undefined, undefined, 12, undefined)).to.throw("sequence source must be a string");
   });
 
   it('should have empty annotations', () => {

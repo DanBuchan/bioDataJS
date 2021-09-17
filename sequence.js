@@ -14,11 +14,11 @@ let residue = require('./residue.js');
 const sequence = function(seq, type='aminoacid', annotations={}, source='', residue_annotations=[]) {
   if(! Array.isArray(residue_annotations))
   {
-    throw("residue_annotations must be an array");
+    throw("sequence residue_annotations must be an array");
   }
   if(! (typeof source === 'string' || source instanceof String))
   {
-     throw("source must be a string");
+     throw("sequence source must be a string");
   }
   if(!(type === "aminoacid" || type === "nucleotide"))
   {

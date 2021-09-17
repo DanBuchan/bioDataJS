@@ -24,7 +24,7 @@ describe('Residue: general residue generation', () => {
   });
 
   it('should raise with incorrect annotation types', () => {
-      expect(() => bd.residue('A', "aminoacid", annotations="hi")).to.throw("Annotations must be object");
+      expect(() => bd.residue('A', "aminoacid", annotations="hi")).to.throw("Residue annotations must be object");
   });
 
   it('should have empty annotations', () => {
