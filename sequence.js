@@ -18,25 +18,26 @@ const sequence = function(seq, type='aminoacid', annotations={}, source='', resi
   }
   if(! (typeof source === 'string' || source instanceof String))
   {
-     throw("source must be a string")
+     throw("source must be a string");
   }
   if(!(type === "aminoacid" || type === "nucleotide"))
   {
      throw("Sequence type is not valid. Must be one of 'aminoacid' or 'nucleotide'");
   }
   if(type === "aminoacid") {
-    if(! /^[A,B,C,D,E,F,G,H,I,K,L,M,N,P,Q,R,S,T,V,W,X,Y,Z,_,-]+$/.test(seq.toUpperCase())){
-      throw("Input seq contains invalid amino acid characters");
+      if(! /^[A,B,C,D,E,F,G,H,I,K,L,M,N,P,Q,R,S,T,V,W,X,Y,Z,_,-]+$/.test(seq.toUpperCase())){
+        throw("Input seq contains invalid amino acid characters");
     }
   }
   if(type === "nucleotide") {
-    if(! /^[A,C,G,T,U,R,Y,S,W,K,M,B,D,H,V,N,X,_,-]+$/.test(seq.toUpperCase())){
+    if(! /^[A,B,C,D,G,H,K,M,N,R,S,T,U,V,W,X,Y,_,-]+$/.test(seq.toUpperCase())){
+      console.log("huh");
       throw("Input seq contains invalid nucleotide characters");
     }
   }
   residue_array = [];
   Array.from(seq).forEach(function(letter, i){
-    residue_array[i] = residue.residue(letter);
+    residue_array[i] = residue.residue(letter, type);
     residue_array[i].type = type;
     if(residue_annotations[i]){
         residue_array[i].annotations = residue_annotations[i];
