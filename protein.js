@@ -7,6 +7,11 @@ let sequence = require('./sequence.js');
 //         name or URI
 const protein = function(seq, annotations={}, source='') {
   let prot = seq;
+
+  // TODO: check if seq that has arrived is an array and if so
+  // ensure each item has the identity of sequence
+  // and then skip the other tests
+
   if(typeof prot === 'string' || prot instanceof String)
   {//if we got a string try and make a sequence out of it
     prot = sequence.sequence(prot);
