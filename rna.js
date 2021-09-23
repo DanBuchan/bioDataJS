@@ -10,6 +10,9 @@ let sequence = require('./sequence.js');
 // source: A strong the defines where the data revord came from (i.e. a file
 //         name or URI
 // type: default type of rna is mrna, overrrde for other classes
+
+// to handle mapping of multiple rna-sequences to multiple proteins it is worth
+// ordering your rna_seqs with the same order as your protein_seqs
 const rna = function(rna_sequence, rna_protein={}, annotations={}, source='', type="mrna") {
   // TODO: check if rna_sequence that has arrived is an array and if so
   // ensure each item has the identity of sequence

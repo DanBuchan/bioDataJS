@@ -12,3 +12,9 @@
 8. Add pdb class
 9. readers for files
 10. readers for online resources
+
+
+Cells have chromosomes
+chromosomes have genes
+genes have transcripts
+transcripts have rnas

@@ -2,6 +2,7 @@
 let sequence = require('./sequence.js');
 
 // sequence : a sequence object creadted by db.sequence()
+//            or an array of sequences to support inteins
 // annoations: an objects of key:value pairs. Of annotations for the mRNA
 // source: A strong the defines where the data revord came from (i.e. a file
 //         name or URI
