@@ -7,7 +7,7 @@ this.annotations = {GO: ["GO:000012", "GO:1223423"]};
 source = "file.csv";
 gene = gbd.gene('ATUGGGGG');
 chrome_test = bd.chromosome();
-chrome_full = bd.chromosome([gene, gene, gene], this.annotations, source);
+chrome_full = bd.chromosome([gene, gene, gene], this.annotations, source, 'plasmid');
 
 
 ///////////
@@ -19,6 +19,9 @@ describe('Chromosome: general sequence generation', () => {
   });
   it('should raise invalid gene types', () => {
     expect(() => bd.chromosome([123,'ABC'])).to.throw("gene array must contain only gene type: error at  0 1");
+  });
+  it('should raise invalid chromosome types', () => {
+    expect(() => bd.chromosome(undefined, undefined, undefined, "argle")).to.throw("Chromosome type must be one of 'chromosome','plasmid', 'mitochondrial' or 'chloroplast'");
   });
 
   it('chromosome should have a string source', () => {

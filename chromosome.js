@@ -3,6 +3,12 @@ let sequence = require('./sequence.js');
 
 const chromosome = function(genes=[], annotations={}, source='', type="chromosome") {
 
+  let re = /chromosome|plasmid|mitochondrial|chloroplast/ig;
+  if(! type.match(re))
+  {
+    throw("Chromosome type must be one of 'chromosome','plasmid', 'mitochondrial' or 'chloroplast'");
+  }
+
   if(Array.isArray(genes))
   {
     let pass = true;
