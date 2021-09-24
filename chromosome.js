@@ -1,7 +1,7 @@
 /*jshint esversion: 6 */
 let sequence = require('./sequence.js');
 
-const chromosome = function(genes=[], annotations={}, source='') {
+const chromosome = function(genes=[], annotations={}, source='', type="chromosome") {
 
   if(Array.isArray(genes))
   {
@@ -28,6 +28,7 @@ const chromosome = function(genes=[], annotations={}, source='') {
   }
   let chromosome_data = {
     identity: "chromosome",
+    type: type,
     genes: genes,
     source: source,
     annotations: annotations,
