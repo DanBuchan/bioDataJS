@@ -1,8 +1,8 @@
 /*jshint esversion: 6 */
 const expect = require('chai').expect;
-let bd = require('../rna.js');
-let bds = require('../sequence.js');
-let bdp = require('../protein.js');
+let bd = require('../lib/rna.js');
+let bds = require('../lib/sequence.js');
+let bdp = require('../lib/protein.js');
 
 ///////////////
 // Fixtures //

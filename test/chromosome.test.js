@@ -1,7 +1,7 @@
 /*jshint esversion: 6 */
 const expect = require('chai').expect;
-let bd = require('../chromosome.js');
-let gbd = require('../gene.js');
+let bd = require('../lib/chromosome.js');
+let gbd = require('../lib/gene.js');
 
 this.annotations = {GO: ["GO:000012", "GO:1223423"]};
 source = "file.csv";

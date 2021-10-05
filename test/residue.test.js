@@ -1,6 +1,6 @@
 /*jshint esversion: 6 */
 const expect = require('chai').expect;
-let bd = require('../residue.js');
+let bd = require('../lib/residue.js');
 
 ///////////////
 // Fixtures //

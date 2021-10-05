@@ -1,7 +1,7 @@
 /*jshint esversion: 6 */
 const expect = require('chai').expect;
-let bd = require('../transcript.js');
-let rbd = require('../rna.js');
+let bd = require('../lib/transcript.js');
+let rbd = require('../lib/rna.js');
 
 this.annotations = {GO: ["GO:000012", "GO:1223423"]};
 source = "file.csv";
@@ -45,6 +45,6 @@ describe('Transcript: general sequence generation', () => {
   it('transcript should make a nucleotide sequence object when given a string', () => {
       expect(trans_full.sequence.type).to.equal("nucleotide");
   });
-  
+
 
 });

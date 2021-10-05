@@ -34,7 +34,7 @@ const sequence = function(seq, type='aminoacid', annotations={}, source='', resi
       throw("Input seq contains invalid nucleotide characters");
     }
   }
-  residue_array = [];
+  let residue_array = [];
   Array.from(seq).forEach(function(letter, i){
     residue_array[i] = residue.residue(letter, type);
     residue_array[i].type = type;

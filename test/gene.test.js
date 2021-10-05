@@ -1,7 +1,7 @@
 /*jshint esversion: 6 */
 const expect = require('chai').expect;
-let bd = require('../gene.js');
-let tbd = require('../transcript.js');
+let bd = require('../lib/gene.js');
+let tbd = require('../lib/transcript.js');
 
 this.annotations = {GO: ["GO:000012", "GO:1223423"]};
 source = "file.csv";
