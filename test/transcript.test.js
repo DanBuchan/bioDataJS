@@ -1,7 +1,7 @@
 /*jshint esversion: 6 */
 const expect = require('chai').expect;
-let bd = require('../lib/transcript.js');
-let rbd = require('../lib/rna.js');
+let bd = require('../src/transcript.js');
+let rbd = require('../src/rna.js');
 
 this.annotations = {GO: ["GO:000012", "GO:1223423"]};
 source = "file.csv";

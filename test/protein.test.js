@@ -1,7 +1,7 @@
 /*jshint esversion: 6 */
 const expect = require('chai').expect;
-let bd = require('../lib/protein.js');
-let bds = require('../lib/sequence.js');
+let bd = require('../src/protein.js');
+let bds = require('../src/sequence.js');
 
 ///////////////
 // Fixtures //

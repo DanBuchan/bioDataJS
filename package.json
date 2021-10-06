@@ -3,11 +3,9 @@
   "version": "1.0.0",
   "esversion": "6",
   "description": "Module for a common easy representation of bioinformatic data",
-  "main": "index.js",
   "scripts": {
-    "test": "mocha",
-    "build": "babel ./src/* -d lib",
-    "start" : "nodemon --exec 'babel ./src -d lib'"
+    "test": "mocha --require babel-register --require babel-polyfill",
+    "build": "babel ./src/* -d dist"
   },
   "keywords": [
     "Bioinformatics",
@@ -21,10 +19,17 @@
     "@babel/node": "^7.15.4",
     "@babel/preset-env": "^7.15.6",
     "chai": "^4.3.4",
-    "mocha": "^9.1.1",
+    "mocha": "^9.1.2",
     "nodemon": "^2.0.13"
   },
   "dependencies": {
+    "babel": "^6.23.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "esm": "^3.2.25",
+    "http": "0.0.1-security",
     "node-fetch": "^3.0.0"
-  }
+  },
+  "type": "module"
 }

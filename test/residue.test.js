@@ -1,13 +1,12 @@
 /*jshint esversion: 6 */
-const expect = require('chai').expect;
-let bd = require('../lib/residue.js');
-
+import { expect } from 'chai';
+import { residue } from '../lib/residue.js';
 ///////////////
 // Fixtures //
 //////////////
 annotations_input = {DISOPRED: true};
-aares = bd.residue('W', "aminoacid");
-nucres = bd.residue('A', "nucleotide", annotations_input);
+aares = Residue('W', "aminoacid");
+nucres = Residue('A', "nucleotide", annotations_input);
 
 ///////////
 // Tests //

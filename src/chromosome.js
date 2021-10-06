@@ -1,7 +1,8 @@
 /*jshint esversion: 6 */
-let sequence = require('./sequence.js');
+//let sequence = require('./sequence.js');
+import sequence from './sequence';
 
-const chromosome = function(genes=[], annotations={}, source='', type="chromosome") {
+export const chromosome = function(genes=[], annotations={}, source='', type="chromosome") {
 
   let re = /chromosome|plasmid|mitochondrial|chloroplast/ig;
   if(! type.match(re))
@@ -40,8 +41,4 @@ const chromosome = function(genes=[], annotations={}, source='', type="chromosom
     annotations: annotations,
   };
   return(chromosome_data);
-};
-
-module.exports = {
-  chromosome: chromosome,
 };

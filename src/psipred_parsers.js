@@ -1,5 +1,5 @@
 /*jshint esversion: 6 */
-const fetch = require('node-fetch');
+import fetch from 'node-fetch';
 
 function fetchData(uri)
 {

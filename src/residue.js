@@ -3,7 +3,7 @@
 // Residue : single letter code for the residue
 // type : whether the residue is an aminoacid or nucleotide
 // annoations: an object of key:value pairs for any annotations for this residue
-const residue = function(residue, type='aminoacid', annotations={}) {
+export const residue = function(residue, type='aminoacid', annotations={}) {
 
   if(typeof(annotations) !== "object"){
     throw("Residue annotations must be object");
@@ -37,6 +37,6 @@ const residue = function(residue, type='aminoacid', annotations={}) {
   return(seq_data);
 };
 
-module.exports = {
-  residue: residue,
-};
+// module.exports = {
+//   residue: residue,
+// };
