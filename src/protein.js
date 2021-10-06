@@ -1,12 +1,11 @@
 /*jshint esversion: 6 */
-let sequence = require('./sequence.js');
-
+import { sequence } from './sequence.js';
 // sequence : a sequence object creadted by db.sequence()
 //            or an array of sequences to support inteins
 // annoations: an objects of key:value pairs. Of annotations for the mRNA
 // source: A strong the defines where the data revord came from (i.e. a file
 //         name or URI
-const protein = function(seq, annotations={}, source='') {
+export const protein = function(seq, annotations={}, source='') {
   let prot = seq;
 
   // check if seq that has arrived is an array and if so
@@ -31,7 +30,7 @@ const protein = function(seq, annotations={}, source='') {
   {
     if(typeof prot === 'string' || prot instanceof String)
     {//if we got a string try and make a sequence out of it
-      prot = sequence.sequence(prot);
+      prot = sequence(prot);
     }
     else
     {//otherwise check it is already a seq object
@@ -55,8 +54,4 @@ const protein = function(seq, annotations={}, source='') {
     annotations: annotations,
   };
   return(prot_data);
-};
-
-module.exports = {
-  protein: protein,
 };

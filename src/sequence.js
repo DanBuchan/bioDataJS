@@ -1,5 +1,5 @@
 /*jshint esversion: 6 */
-let residue = require('./residue.js');
+import { residue } from './residue.js';
 
 // seq : A biological sequence
 // type : whether the residue is an aminoacid or nucleotide
@@ -11,7 +11,7 @@ let residue = require('./residue.js');
 //                      sequence
 // source: A strong the defines where the data revord came from (i.e. a file
 //         name or URI
-const sequence = function(seq, type='aminoacid', annotations={}, source='', residue_annotations=[]) {
+export const sequence = function(seq, type='aminoacid', annotations={}, source='', residue_annotations=[]) {
   if(! Array.isArray(residue_annotations))
   {
     throw("sequence residue_annotations must be an array");
@@ -36,7 +36,7 @@ const sequence = function(seq, type='aminoacid', annotations={}, source='', resi
   }
   let residue_array = [];
   Array.from(seq).forEach(function(letter, i){
-    residue_array[i] = residue.residue(letter, type);
+    residue_array[i] = residue(letter, type);
     residue_array[i].type = type;
     if(residue_annotations[i]){
         residue_array[i].annotations = residue_annotations[i];
@@ -51,8 +51,4 @@ const sequence = function(seq, type='aminoacid', annotations={}, source='', resi
     annotations: annotations,
   };
   return(seq_data);
-};
-
-module.exports = {
-  sequence: sequence,
 };

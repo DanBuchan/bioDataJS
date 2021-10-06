@@ -1,13 +1,13 @@
 /*jshint esversion: 6 */
-const expect = require('chai').expect;
-let bd = require('../src/genome.js');
-let gbd = require('../src/chromosome.js');
+import { expect } from 'chai';
+import { genome } from '../src/genome.js';
+import { chromosome } from '../src/chromosome.js';
 
-this.annotations = {GO: ["GO:000012", "GO:1223423"]};
-source = "file.csv";
-chrome = gbd.chromosome();
-genome_test = bd.genome();
-genome_full = bd.genome([chrome, chrome, chrome], this.annotations, source, 'homo', 'sapiens');
+let annotations = {GO: ["GO:000012", "GO:1223423"]};
+let source = "file.csv";
+let chrome = chromosome();
+let genome_test = genome();
+let genome_full = genome([chrome, chrome, chrome], annotations, source, 'homo', 'sapiens');
 
 
 ///////////
@@ -15,20 +15,20 @@ genome_full = bd.genome([chrome, chrome, chrome], this.annotations, source, 'hom
 ///////////
 describe('Genome: general sequence generation', () => {
   it('should raise invalid chromosome types', () => {
-    expect(() => bd.genome("123")).to.throw("chromosome must be array of chromosome objects");
+    expect(() => genome("123")).to.throw("chromosome must be array of chromosome objects");
   });
   it('should raise invalid chromosome types', () => {
-    expect(() => bd.genome([123,'ABC'])).to.throw("chromosome array must contain only chromosome type: error at  0 1");
+    expect(() => genome([123,'ABC'])).to.throw("chromosome array must contain only chromosome type: error at  0 1");
   });
 
   it('genome should have a string source', () => {
-    expect(() => bd.genome(undefined, undefined, 123)).to.throw("genome source must be a string");
+    expect(() => genome(undefined, undefined, 123)).to.throw("genome source must be a string");
   });
   it('genome should have a string source', () => {
-    expect(() => bd.genome(undefined, undefined, undefined, 123, 'this')).to.throw("genome genus must be a string");
+    expect(() => genome(undefined, undefined, undefined, 123, 'this')).to.throw("genome genus must be a string");
   });
   it('genome should have a string source', () => {
-    expect(() => bd.genome(undefined, undefined, undefined, 'this', 123)).to.throw("genome species must be a string");
+    expect(() => genome(undefined, undefined, undefined, 'this', 123)).to.throw("genome species must be a string");
   });
 
   it('genome should have empty annotations', () => {
@@ -38,7 +38,7 @@ describe('Genome: general sequence generation', () => {
       expect(genome_test.annotations).to.be.empty;
   });
   it('genome should have populated annotations', () => {
-      expect(genome_full.annotations).to.eql(this.annotations);
+      expect(genome_full.annotations).to.eql(annotations);
   });
   it('genome should have populated source', () => {
       expect(genome_full.source).to.eql(source);

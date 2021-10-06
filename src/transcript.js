@@ -1,8 +1,8 @@
 /*jshint esversion: 6 */
-let rna = require('./rna.js');
-let sequence = require('./sequence.js');
+import { rna } from './rna.js';
+import { sequence } from './sequence.js';
 
-const transcript = function(transcript_sequence, rna=[], annotations={}, source='') {
+export const transcript = function(transcript_sequence, rna=[], annotations={}, source='') {
 
   if(Array.isArray(rna))
   {
@@ -25,7 +25,7 @@ const transcript = function(transcript_sequence, rna=[], annotations={}, source=
 
   if(typeof transcript_sequence === 'string' || transcript_sequence instanceof String)
   {//if we got a string try and make a sequence out of it
-     transcript_sequence = sequence.sequence(transcript_sequence, 'nucleotide');
+     transcript_sequence = sequence(transcript_sequence, 'nucleotide');
   }
   else
   {//otherwise check it is already a seq object
@@ -51,8 +51,4 @@ const transcript = function(transcript_sequence, rna=[], annotations={}, source=
     annotations: annotations,
   };
   return(transcript_data);
-};
-
-module.exports = {
-  transcript: transcript,
 };

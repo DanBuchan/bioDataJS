@@ -1,0 +1,16 @@
+https://x-team.com/blog/setting-up-javascript-testing-tools-for-es6/
+https://babeljs.io/docs/en/babel-preset-env
+https://github.com/mochajs/mocha/wiki/compilers-deprecation
+
+npm init
+npm install --save @babel/core @babel/cli @babel/register @babel/preset-env @babel/polyfill
+npm install --save mocha chai
+
+.babelrc
+{ "presets": ["@babel/preset-env"] }
+
+
+package.json
+"scripts": {
+    "test": "mocha --require @babel/register --require @babel/polyfill",
+}}

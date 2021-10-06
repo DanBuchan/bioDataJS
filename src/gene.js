@@ -1,7 +1,7 @@
 /*jshint esversion: 6 */
-let sequence = require('./sequence.js');
+import { sequence } from './sequence.js';
 
-const gene = function(gene_sequence, transcripts=[], annotations={}, source='') {
+export const gene = function(gene_sequence, transcripts=[], annotations={}, source='') {
 
   if(Array.isArray(transcripts))
   {
@@ -24,7 +24,7 @@ const gene = function(gene_sequence, transcripts=[], annotations={}, source='') 
 
   if(typeof gene_sequence === 'string' || gene_sequence instanceof String)
   {//if we got a string try and make a sequence out of it
-     gene_sequence = sequence.sequence(gene_sequence, 'nucleotide');
+     gene_sequence = sequence(gene_sequence, 'nucleotide');
   }
   else
   {//otherwise check it is already a seq object
@@ -50,8 +50,4 @@ const gene = function(gene_sequence, transcripts=[], annotations={}, source='') 
     annotations: annotations,
   };
   return(gene_data);
-};
-
-module.exports = {
-  gene: gene,
 };

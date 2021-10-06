@@ -1,6 +1,6 @@
 /*jshint esversion: 6 */
-let protein = require('./protein.js');
-let sequence = require('./sequence.js');
+import { protein } from './protein.js';
+import { sequence } from './sequence.js';
 
 // nrna_sequence : an rna nucleotide sequence or a sequence object of
 //                 type nucleotide creadted by db.sequence()
@@ -13,7 +13,7 @@ let sequence = require('./sequence.js');
 
 // to handle mapping of multiple rna-sequences to multiple proteins it is worth
 // ordering your rna_seqs with the same order as your protein_seqs
-const rna = function(rna_sequence, rna_protein={}, annotations={}, source='', type="mrna") {
+export const rna = function(rna_sequence, rna_protein={}, annotations={}, source='', type="mrna") {
   // TODO: check if rna_sequence that has arrived is an array and if so
   // ensure each item has the identity of sequence
   // and then skip the other tests
@@ -21,7 +21,7 @@ const rna = function(rna_sequence, rna_protein={}, annotations={}, source='', ty
 
   if(typeof rna_protein === 'string' || rna_protein instanceof String)
   {//if we got a string try and make a sequence out of it
-    rna_protein = protein.protein(rna_protein);
+    rna_protein = protein(rna_protein);
   }
   else
   {//otherwise check it is already a seq object
@@ -56,7 +56,7 @@ const rna = function(rna_sequence, rna_protein={}, annotations={}, source='', ty
   {
     if(typeof rna_sequence === 'string' || rna_sequence instanceof String)
     {//if we got a string try and make a sequence out of it
-       rna_sequence = sequence.sequence(rna_sequence, 'nucleotide');
+       rna_sequence = sequence(rna_sequence, 'nucleotide');
     }
     else
     {//otherwise check it is already a seq object
@@ -83,8 +83,4 @@ const rna = function(rna_sequence, rna_protein={}, annotations={}, source='', ty
     annotations: annotations,
   };
   return(prot_data);
-};
-
-module.exports = {
-  rna: rna,
 };

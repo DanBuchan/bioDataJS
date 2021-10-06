@@ -1,6 +1,6 @@
 /*jshint esversion: 6 */
 //let sequence = require('./sequence.js');
-import sequence from './sequence';
+import { sequence } from './sequence.js';
 
 export const chromosome = function(genes=[], annotations={}, source='', type="chromosome") {
 

@@ -1,7 +1,7 @@
 /*jshint esversion: 6 */
-let sequence = require('./sequence.js');
+import { sequence } from './sequence.js';
 
-const genome = function(chromosome=[], annotations={}, source='', genus='', species='') {
+export const genome = function(chromosome=[], annotations={}, source='', genus='', species='') {
 
   if(Array.isArray(chromosome))
   {
@@ -43,8 +43,4 @@ const genome = function(chromosome=[], annotations={}, source='', genus='', spec
     species: species,
   };
   return(genome_data);
-};
-
-module.exports = {
-  genome: genome,
 };

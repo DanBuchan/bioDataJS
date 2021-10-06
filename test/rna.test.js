@@ -1,36 +1,36 @@
 /*jshint esversion: 6 */
-const expect = require('chai').expect;
-let bd = require('../src/rna.js');
-let bds = require('../src/sequence.js');
-let bdp = require('../src/protein.js');
+import { expect } from 'chai';
+import { rna } from '../src/rna.js';
+import { sequence } from '../src/sequence.js';
+import { protein } from '../src/protein.js';
 
 ///////////////
 // Fixtures //
 //////////////
-seq_annotations = {GO: ["GO:000012", "GO:1223423"]};
-source = "file.csv";
-prot = bdp.protein('ARNBD');
-rnaseq = bds.sequence('ATUG', "nucleotide");
-rna = bd.rna(rnaseq);
-rna_full = bd.rna('ATUG', prot, seq_annotations, source);
-rna_prot = bd.rna('ATUG', "PPP", seq_annotations, source, "trna");
+let seq_annotations = {GO: ["GO:000012", "GO:1223423"]};
+let source = "file.csv";
+let prot = protein('ARNBD');
+let rnaseq = sequence('ATUG', "nucleotide");
+let test_rna = rna(rnaseq);
+let rna_full = rna('ATUG', prot, seq_annotations, source);
+let rna_prot = rna('ATUG', "PPP", seq_annotations, source, "trna");
 
 ///////////
 // Tests //
 ///////////
 describe('RNA: general sequence generation', () => {
   it('should raise invalid rna_sequence types', () => {
-    expect(() => bd.rna(2)).to.throw("rna_sequence must be object");
+    expect(() => rna(2)).to.throw("rna_sequence must be object");
   });
 
   it('rna should have a string source', () => {
-    expect(() => bd.rna("ATUG", undefined, undefined, 123)).to.throw("rna source must be a string");
+    expect(() => rna("ATUG", undefined, undefined, 123)).to.throw("rna source must be a string");
   });
   it('rna should have empty annotations', () => {
-      expect(rna.source).to.be.empty;
+      expect(test_rna.source).to.be.empty;
   });
   it('rna should have empty annotations', () => {
-      expect(rna.annotations).to.be.empty;
+      expect(test_rna.annotations).to.be.empty;
   });
   it('rna should have populated annotations', () => {
       expect(rna_full.annotations).to.eql(seq_annotations);
@@ -49,7 +49,7 @@ describe('RNA: general sequence generation', () => {
       expect(rna_prot.protein.identity).to.equal("protein");
   });
   it('rna should raise with invalid seq array', () => {
-    expect(() => bd.rna([rnaseq, 12])).to.throw("rna_sequence array must contain only sequence type: error at  1");
+    expect(() => rna([rnaseq, 12])).to.throw("rna_sequence array must contain only sequence type: error at  1");
   });
 
 
