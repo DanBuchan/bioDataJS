@@ -1,52 +1,74 @@
 /*jshint esversion: 6 */
 import fetch from 'node-fetch';
+import { sequence } from '../src/sequence.js';
+import fs from 'fs';
 
-function fetchData(uri)
+export async function fetchData(uri)
 {
-  let file_contents = "";
-  fetch(uri)
+  const uriData = fetch(uri)
   .then(
     function(response) {
+      console.log(response.status);
+      console.log(uri);
       if (response.status !== 200) {
         console.log('Looks like there was a problem. Status Code: ' +
           response.status);
         throw("Unable to find file at provided URL" + response.status);
       }
       // Examine the text in the response
-      response.json().then(function(data) {
-        console.log(data);
-      });
+      if(response.headers.get("Content-Type") === 'application/octet-stream'){
+        return response.arrayBuffer();
+      }
+      else if(response.headers.get("Content-Type") === 'text/plain'){
+
+      }
     }
   )
+  .then(function(data) {
+    var enc = new TextDecoder("utf-8");
+    return enc.decode(data);
+  })
   .catch(function(err) {
-    console.log('Fetch Error :-S', err);
+    throw('Fetch error. Malformed URI?');
   });
 
+  let output_data = await uriData;
+  return output_data;
 }
 
-
-function readData(file)
-{
-
+export function readData(location){
+  return fs.readFileSync(location, 'utf8');
 }
 
-function parseHFormat(data)
+export async function parseHFormat(location)
 {
+  let data;
+  if(location.startsWith("http"))
+  {
+    data = await fetchData(location);
+  }
+  else {
+    data = readData(location);
+  }
   let parsed = [];
   const lines = data.split("\n");
   let conf = '';
   let pred = '';
   let aa = '';
+  let seq = '';
   lines.forEach(function(line, i){
     conf += stripLine(line, "Conf: ");
     pred += stripLine(line, "Pred: ");
     aa += stripLine(line, "  AA: ");
   });
   aa.split("").forEach(function(char, i){
-    parsed.push({aa: aa[i], pred: pred[i], conf: Number(conf[i])});
+    seq += aa[i];
+    parsed.push({pred: pred[i], conf: Number(conf[i])});
   });
-  return(parsed);
+  let seq_data = sequence(aa, undefined, undefined, undefined, parsed);
+  return(seq_data);
 }
+
 function stripLine(line, leader)
 {
   if(line.startsWith(leader))
@@ -89,9 +111,3 @@ function contact_parse(data)
 {
 
 }
-
-module.exports = {
-  fetchData: fetchData,
-  readData: readData,
-  parseHFormat: parseHFormat,
-};

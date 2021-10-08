@@ -1,0 +1,1845 @@
+{
+  "identity": "sequence",
+  "sequence": "MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITTLVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGTILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEVASTFKVLRNVTVVLWSAYPVVWLI",
+  "type": "aminoacid",
+  "source": "",
+  "residues": [
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 6
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 6
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 6
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 8
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 5
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "E",
+        "conf": 1
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "E",
+        "conf": 2
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 1
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 0
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 7
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 5
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 7
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 6
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 3
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 5
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 5
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 6
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 8
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 2
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 7
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 8
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 6
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "E",
+        "conf": 2
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "E",
+        "conf": 4
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "E",
+        "conf": 5
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 0
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 0
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 3
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 8
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 4
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 1
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "N",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 3
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 5
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "E",
+        "conf": 2
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "E",
+        "conf": 1
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 6
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 7
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 8
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 8
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 8
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 8
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 8
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 2
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 8
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 6
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 4
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 7
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 8
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 3
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 1
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 7
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 8
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 3
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 0
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 5
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 8
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 8
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 0
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 5
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "N",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 8
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 8
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 9
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 4
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "H",
+        "conf": 1
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "pred": "C",
+        "conf": 9
+      }
+    }
+  ],
+  "annotations": {}
+}

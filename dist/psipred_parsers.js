@@ -1,5 +1,10 @@
 "use strict";
 
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.fetchData = fetchData;
+
 var _nodeFetch = _interopRequireDefault(require("node-fetch"));
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
@@ -65,9 +70,3 @@ function genth_parse(data) {}
 function ffpred_parse(data) {}
 
 function contact_parse(data) {}
-
-module.exports = {
-  fetchData: fetchData,
-  readData: readData,
-  parseHFormat: parseHFormat
-};
