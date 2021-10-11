@@ -1,0 +1,2367 @@
+{
+  "identity": "sequence",
+  "sequence": "MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITTLVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGTILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEVASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSRAIFGEAEAPEPSAGDGAAATSD",
+  "type": "aminoacid",
+  "source": "",
+  "residues": [
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": "*",
+        "disoredScore": "0.87"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": "*",
+        "disoredScore": "0.82"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": "*",
+        "disoredScore": "0.76"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": "*",
+        "disoredScore": "0.60"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.45"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.36"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.25"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.30"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.19"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.17"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.24"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.16"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.11"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.09"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.08"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.08"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.09"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.11"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.09"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.07"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.05"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.04"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.03"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.02"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.02"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.02"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.02"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.02"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.04"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.05"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.08"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.15"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.14"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.19"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.20"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.28"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.36"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.37"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.46"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.38"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.39"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.35"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.41"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.45"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.37"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.39"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.29"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.22"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.17"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.13"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.09"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.06"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.04"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.03"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.03"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.03"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.03"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.03"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.02"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.02"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "N",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.00"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.00"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.00"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.00"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.00"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.00"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.00"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.00"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.00"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.00"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.00"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.02"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.03"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.03"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.03"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.03"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.02"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.02"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.02"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.02"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.02"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.02"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.02"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.02"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.02"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.03"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.03"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.04"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.05"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.06"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.07"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.09"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.10"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.09"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.08"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.07"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.05"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.03"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.03"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.02"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.02"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.02"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "N",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.02"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.02"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.03"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.03"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.02"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.02"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "N",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.01"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.02"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.02"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.02"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.02"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.03"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.04"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.05"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.12"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.14"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.13"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.15"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.21"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.28"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": ".",
+        "disoredScore": "0.40"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": "*",
+        "disoredScore": "0.72"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": "*",
+        "disoredScore": "0.84"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": "*",
+        "disoredScore": "0.89"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": "*",
+        "disoredScore": "0.92"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": "*",
+        "disoredScore": "0.94"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": "*",
+        "disoredScore": "0.96"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": "*",
+        "disoredScore": "0.97"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": "*",
+        "disoredScore": "0.99"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": "*",
+        "disoredScore": "0.99"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": "*",
+        "disoredScore": "0.99"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": "*",
+        "disoredScore": "0.99"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": "*",
+        "disoredScore": "0.98"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": "*",
+        "disoredScore": "0.97"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": "*",
+        "disoredScore": "0.96"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": "*",
+        "disoredScore": "0.96"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": "*",
+        "disoredScore": "0.96"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": "*",
+        "disoredScore": "0.96"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "disorderedState": "*",
+        "disoredScore": "0.96"
+      }
+    }
+  ],
+  "annotations": {}
+}

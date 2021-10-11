@@ -84,16 +84,64 @@ export async function parseSS2Format(location)
   const lines = data.split("\n");
   lines.slice(2,lines.length-1).forEach(function(line, i){
     line = line.trim();
-    let entries = line.split(" ");
-    //console.log(entries);
+    let entries = line.split(/\s+/);
     seq += entries[1];
-    parsed.push({ss: entries[2], coilScore: entries[5], helixScore: entries[7], strandScore: entries[9]});
+    parsed.push({ss: entries[2], coilScore: entries[3], helixScore: entries[4], strandScore: entries[5]});
   });
   //console.log(seq);
   let seq_data = sequence(seq, undefined, undefined, undefined, parsed);
   return(seq_data);
 }
 
+export async function parseCombFormat(location)
+{
+  let data;
+  if(location.startsWith("http"))
+  {
+    data = await fetchData(location);
+  }
+  else {
+    data = readData(location);
+  }
+  let parsed = [];
+  let seq = '';
+  const lines = data.split("\n");
+  lines.slice(3,lines.length-1).forEach(function(line, i){
+    line = line.trim();
+    let entries = line.split(/\s+/);
+    //console.log(entries);
+    seq += entries[1];
+    parsed.push({disorderedState: entries[2], disoredScore: entries[3]});
+  });
+  //console.log(seq);
+  let seq_data = sequence(seq, undefined, undefined, undefined, parsed);
+  return(seq_data);
+}
+
+export async function parsePbdatFormat(location)
+{
+  let data;
+  if(location.startsWith("http"))
+  {
+    data = await fetchData(location);
+  }
+  else {
+    data = readData(location);
+  }
+  let parsed = [];
+  let seq = '';
+  const lines = data.split("\n");
+  lines.slice(5,lines.length-1).forEach(function(line, i){
+    line = line.trim();
+    let entries = line.split(/\s+/);
+    //console.log(entries);
+    seq += entries[1];
+    parsed.push({bindingState: entries[2], bindingScore: entries[3]});
+  });
+  //console.log(seq);
+  let seq_data = sequence(seq, undefined, undefined, undefined, parsed);
+  return(seq_data);
+}
 
 function stripLine(line, leader)
 {

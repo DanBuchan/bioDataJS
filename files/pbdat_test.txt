@@ -1,0 +1,2367 @@
+{
+  "identity": "sequence",
+  "sequence": "MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITTLVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGTILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEVASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSRAIFGEAEAPEPSAGDGAAATSD",
+  "type": "aminoacid",
+  "source": "",
+  "residues": [
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": "^",
+        "bindingScore": "0.77"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": "^",
+        "bindingScore": "0.72"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": "^",
+        "bindingScore": "0.73"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": "^",
+        "bindingScore": "0.61"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "N",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "N",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "N",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": ".",
+        "bindingScore": "NA"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": "^",
+        "bindingScore": "0.78"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": "^",
+        "bindingScore": "0.71"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": "^",
+        "bindingScore": "0.55"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": "^",
+        "bindingScore": "0.65"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": "^",
+        "bindingScore": "0.58"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": "-",
+        "bindingScore": "0.47"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": "^",
+        "bindingScore": "0.57"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": "-",
+        "bindingScore": "0.48"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": "^",
+        "bindingScore": "0.68"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": "^",
+        "bindingScore": "0.76"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": "^",
+        "bindingScore": "0.77"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": "^",
+        "bindingScore": "0.85"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": "^",
+        "bindingScore": "0.91"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": "^",
+        "bindingScore": "0.93"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": "^",
+        "bindingScore": "0.98"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": "^",
+        "bindingScore": "0.99"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": "^",
+        "bindingScore": "0.98"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "bindingState": "^",
+        "bindingScore": "0.99"
+      }
+    }
+  ],
+  "annotations": {}
+}
