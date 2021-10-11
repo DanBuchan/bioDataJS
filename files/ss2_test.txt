@@ -1,0 +1,2253 @@
+{
+  "identity": "sequence",
+  "sequence": "MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITTLVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGTILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEVASTFKVLRNVTVVLWSAYPVVWLI",
+  "type": "aminoacid",
+  "source": "",
+  "residues": [
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.999",
+        "helixScore": "0.001",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.834",
+        "helixScore": "0.203",
+        "strandScore": "0.006"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.828",
+        "helixScore": "0.184",
+        "strandScore": "0.013"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.841",
+        "helixScore": "0.156",
+        "strandScore": "0.017"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.947",
+        "helixScore": "0.050",
+        "strandScore": "0.008"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.977",
+        "helixScore": "0.014",
+        "strandScore": "0.006"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.959",
+        "helixScore": "0.017",
+        "strandScore": "0.012"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.968",
+        "helixScore": "0.015",
+        "strandScore": "0.010"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.973",
+        "helixScore": "0.012",
+        "strandScore": "0.010"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.969",
+        "helixScore": "0.012",
+        "strandScore": "0.015"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.970",
+        "helixScore": "0.012",
+        "strandScore": "0.017"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.957",
+        "helixScore": "0.013",
+        "strandScore": "0.028"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.779",
+        "helixScore": "0.026",
+        "strandScore": "0.195"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "E",
+        "coilScore": "0.343",
+        "helixScore": "0.042",
+        "strandScore": "0.449"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "E",
+        "coilScore": "0.202",
+        "helixScore": "0.108",
+        "strandScore": "0.429"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.301",
+        "helixScore": "0.455",
+        "strandScore": "0.188"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.462",
+        "helixScore": "0.363",
+        "strandScore": "0.138"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.861",
+        "helixScore": "0.129",
+        "strandScore": "0.014"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.982",
+        "helixScore": "0.014",
+        "strandScore": "0.002"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.987",
+        "helixScore": "0.009",
+        "strandScore": "0.001"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.790",
+        "helixScore": "0.248",
+        "strandScore": "0.001"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.131",
+        "helixScore": "0.861",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.044",
+        "helixScore": "0.953",
+        "strandScore": "0.001"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.013",
+        "helixScore": "0.988",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.005",
+        "helixScore": "0.996",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.004",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.003",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.003",
+        "helixScore": "0.998",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.003",
+        "helixScore": "0.998",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.003",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.003",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.003",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.004",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.005",
+        "helixScore": "0.996",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.006",
+        "helixScore": "0.996",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.006",
+        "helixScore": "0.995",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.005",
+        "helixScore": "0.996",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.004",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.004",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.004",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.004",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.009",
+        "helixScore": "0.993",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.025",
+        "helixScore": "0.980",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.181",
+        "helixScore": "0.832",
+        "strandScore": "0.001"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.712",
+        "helixScore": "0.329",
+        "strandScore": "0.001"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.979",
+        "helixScore": "0.027",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.990",
+        "helixScore": "0.004",
+        "strandScore": "0.001"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.989",
+        "helixScore": "0.004",
+        "strandScore": "0.001"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.971",
+        "helixScore": "0.019",
+        "strandScore": "0.001"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.243",
+        "helixScore": "0.750",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.205",
+        "helixScore": "0.794",
+        "strandScore": "0.001"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.172",
+        "helixScore": "0.834",
+        "strandScore": "0.001"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.038",
+        "helixScore": "0.967",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.011",
+        "helixScore": "0.991",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.006",
+        "helixScore": "0.995",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.004",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.004",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.004",
+        "helixScore": "0.996",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.005",
+        "helixScore": "0.995",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.006",
+        "helixScore": "0.995",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.004",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.003",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.003",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.003",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.003",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.003",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.003",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.003",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.004",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.004",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.005",
+        "helixScore": "0.996",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.008",
+        "helixScore": "0.994",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.020",
+        "helixScore": "0.984",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.069",
+        "helixScore": "0.938",
+        "strandScore": "0.001"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.653",
+        "helixScore": "0.396",
+        "strandScore": "0.001"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.865",
+        "helixScore": "0.141",
+        "strandScore": "0.002"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.928",
+        "helixScore": "0.070",
+        "strandScore": "0.013"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.779",
+        "helixScore": "0.086",
+        "strandScore": "0.044"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "E",
+        "coilScore": "0.199",
+        "helixScore": "0.026",
+        "strandScore": "0.445"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "E",
+        "coilScore": "0.104",
+        "helixScore": "0.042",
+        "strandScore": "0.573"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "E",
+        "coilScore": "0.096",
+        "helixScore": "0.026",
+        "strandScore": "0.598"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.264",
+        "helixScore": "0.033",
+        "strandScore": "0.259"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.366",
+        "helixScore": "0.031",
+        "strandScore": "0.278"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.633",
+        "helixScore": "0.036",
+        "strandScore": "0.251"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.929",
+        "helixScore": "0.024",
+        "strandScore": "0.031"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.950",
+        "helixScore": "0.028",
+        "strandScore": "0.025"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.672",
+        "helixScore": "0.069",
+        "strandScore": "0.210"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.541",
+        "helixScore": "0.029",
+        "strandScore": "0.346"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "N",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.604",
+        "helixScore": "0.035",
+        "strandScore": "0.283"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.688",
+        "helixScore": "0.106",
+        "strandScore": "0.157"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "E",
+        "coilScore": "0.204",
+        "helixScore": "0.092",
+        "strandScore": "0.421"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "E",
+        "coilScore": "0.179",
+        "helixScore": "0.137",
+        "strandScore": "0.325"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.116",
+        "helixScore": "0.779",
+        "strandScore": "0.062"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.124",
+        "helixScore": "0.845",
+        "strandScore": "0.025"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.049",
+        "helixScore": "0.950",
+        "strandScore": "0.009"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.057",
+        "helixScore": "0.948",
+        "strandScore": "0.001"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.088",
+        "helixScore": "0.920",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.074",
+        "helixScore": "0.932",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.034",
+        "helixScore": "0.968",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.042",
+        "helixScore": "0.961",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.084",
+        "helixScore": "0.920",
+        "strandScore": "0.001"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.104",
+        "helixScore": "0.904",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.019",
+        "helixScore": "0.983",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.006",
+        "helixScore": "0.995",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.005",
+        "helixScore": "0.996",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.003",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.003",
+        "helixScore": "0.998",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.003",
+        "helixScore": "0.998",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.003",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.004",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.005",
+        "helixScore": "0.996",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.016",
+        "helixScore": "0.987",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.049",
+        "helixScore": "0.952",
+        "strandScore": "0.001"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.641",
+        "helixScore": "0.394",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.983",
+        "helixScore": "0.025",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.993",
+        "helixScore": "0.004",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.986",
+        "helixScore": "0.008",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.040",
+        "helixScore": "0.962",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.021",
+        "helixScore": "0.982",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.008",
+        "helixScore": "0.993",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.004",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.004",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.004",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.004",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.004",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.005",
+        "helixScore": "0.996",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.007",
+        "helixScore": "0.994",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.012",
+        "helixScore": "0.990",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.005",
+        "helixScore": "0.996",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.004",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.006",
+        "helixScore": "0.995",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.008",
+        "helixScore": "0.994",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.036",
+        "helixScore": "0.969",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.043",
+        "helixScore": "0.964",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.059",
+        "helixScore": "0.952",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.020",
+        "helixScore": "0.984",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.014",
+        "helixScore": "0.989",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.020",
+        "helixScore": "0.984",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.024",
+        "helixScore": "0.979",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.158",
+        "helixScore": "0.848",
+        "strandScore": "0.001"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.751",
+        "helixScore": "0.272",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.915",
+        "helixScore": "0.123",
+        "strandScore": "0.001"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.922",
+        "helixScore": "0.109",
+        "strandScore": "0.001"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.667",
+        "helixScore": "0.357",
+        "strandScore": "0.001"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.387",
+        "helixScore": "0.587",
+        "strandScore": "0.001"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.146",
+        "helixScore": "0.846",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.062",
+        "helixScore": "0.938",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.033",
+        "helixScore": "0.970",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.010",
+        "helixScore": "0.991",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.004",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.003",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.003",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.003",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.004",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.003",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.004",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.004",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.004",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.004",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.003",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.003",
+        "helixScore": "0.998",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.003",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.004",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.005",
+        "helixScore": "0.996",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.014",
+        "helixScore": "0.988",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.042",
+        "helixScore": "0.962",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.327",
+        "helixScore": "0.698",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.552",
+        "helixScore": "0.490",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.237",
+        "helixScore": "0.788",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.093",
+        "helixScore": "0.919",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.036",
+        "helixScore": "0.966",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.024",
+        "helixScore": "0.979",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.019",
+        "helixScore": "0.983",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.091",
+        "helixScore": "0.915",
+        "strandScore": "0.001"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.518",
+        "helixScore": "0.506",
+        "strandScore": "0.001"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.812",
+        "helixScore": "0.237",
+        "strandScore": "0.001"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.988",
+        "helixScore": "0.013",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.025",
+        "helixScore": "0.978",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.049",
+        "helixScore": "0.954",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.021",
+        "helixScore": "0.981",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.005",
+        "helixScore": "0.996",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.005",
+        "helixScore": "0.996",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.004",
+        "helixScore": "0.996",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.004",
+        "helixScore": "0.996",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.004",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.004",
+        "helixScore": "0.996",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.004",
+        "helixScore": "0.996",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.004",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "N",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.003",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.003",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.003",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.003",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.003",
+        "helixScore": "0.997",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.005",
+        "helixScore": "0.996",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.009",
+        "helixScore": "0.993",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.039",
+        "helixScore": "0.967",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.039",
+        "helixScore": "0.968",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.056",
+        "helixScore": "0.955",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.067",
+        "helixScore": "0.946",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.043",
+        "helixScore": "0.964",
+        "strandScore": "0.000"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.048",
+        "helixScore": "0.957",
+        "strandScore": "0.001"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.266",
+        "helixScore": "0.736",
+        "strandScore": "0.002"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "H",
+        "coilScore": "0.421",
+        "helixScore": "0.574",
+        "strandScore": "0.003"
+      }
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {
+        "ss": "C",
+        "coilScore": "0.999",
+        "helixScore": "0.001",
+        "strandScore": "0.000"
+      }
+    }
+  ],
+  "annotations": {}
+}

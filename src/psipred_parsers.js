@@ -37,7 +37,7 @@ export async function fetchData(uri)
 }
 
 export function readData(location){
-  return fs.readFileSync(location, 'utf8');
+    return fs.readFileSync(location, 'utf8');
 }
 
 export async function parseHFormat(location)
@@ -68,6 +68,32 @@ export async function parseHFormat(location)
   let seq_data = sequence(aa, undefined, undefined, undefined, parsed);
   return(seq_data);
 }
+
+export async function parseSS2Format(location)
+{
+  let data;
+  if(location.startsWith("http"))
+  {
+    data = await fetchData(location);
+  }
+  else {
+    data = readData(location);
+  }
+  let parsed = [];
+  let seq = '';
+  const lines = data.split("\n");
+  lines.slice(2,lines.length-1).forEach(function(line, i){
+    line = line.trim();
+    let entries = line.split(" ");
+    //console.log(entries);
+    seq += entries[1];
+    parsed.push({ss: entries[2], coilScore: entries[5], helixScore: entries[7], strandScore: entries[9]});
+  });
+  //console.log(seq);
+  let seq_data = sequence(seq, undefined, undefined, undefined, parsed);
+  return(seq_data);
+}
+
 
 function stripLine(line, leader)
 {
