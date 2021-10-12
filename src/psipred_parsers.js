@@ -143,6 +143,29 @@ export async function parsePbdatFormat(location)
   return(seq_data);
 }
 
+export async function parseMemsatSVMFormat(location)
+{
+  let data;
+  if(location.startsWith("http"))
+  {
+    data = await fetchData(location);
+  }
+  else {
+    data = readData(location);
+  }
+  let parsed = [];
+  let seq = '';
+  const lines = data.split("\n");
+  lines.slice(lines.length-11,lines.length-2).forEach(function(line, i){
+    let fields = line.split(/\t+/);
+    console.log(fields);
+  });
+  //console.log(seq);
+  //let seq_data = sequence(seq, undefined, undefined, undefined, parsed);
+  //return(seq_data);
+}
+
+
 function stripLine(line, leader)
 {
   if(line.startsWith(leader))
