@@ -65,7 +65,7 @@ export async function parseHFormat(location)
     seq += aa[i];
     parsed.push({pred: pred[i], conf: Number(conf[i])});
   });
-  let seq_data = sequence(aa, undefined, undefined, undefined, parsed);
+  let seq_data = sequence(aa, undefined, undefined, location, parsed);
   return(seq_data);
 }
 
@@ -89,7 +89,7 @@ export async function parseSS2Format(location)
     parsed.push({ss: entries[2], coilScore: entries[3], helixScore: entries[4], strandScore: entries[5]});
   });
   //console.log(seq);
-  let seq_data = sequence(seq, undefined, undefined, undefined, parsed);
+  let seq_data = sequence(seq, undefined, undefined, location, parsed);
   return(seq_data);
 }
 
@@ -114,7 +114,7 @@ export async function parseCombFormat(location)
     parsed.push({disorderedState: entries[2], disoredScore: entries[3]});
   });
   //console.log(seq);
-  let seq_data = sequence(seq, undefined, undefined, undefined, parsed);
+  let seq_data = sequence(seq, undefined, undefined, location, parsed);
   return(seq_data);
 }
 
@@ -134,16 +134,16 @@ export async function parsePbdatFormat(location)
   lines.slice(5,lines.length-1).forEach(function(line, i){
     line = line.trim();
     let entries = line.split(/\s+/);
-    //console.log(entries);
+    // console.log(entries);
     seq += entries[1];
     parsed.push({bindingState: entries[2], bindingScore: entries[3]});
   });
   //console.log(seq);
-  let seq_data = sequence(seq, undefined, undefined, undefined, parsed);
+  let seq_data = sequence(seq, undefined, undefined, location, parsed);
   return(seq_data);
 }
 
-export async function parseMemsatSVMFormat(location)
+export async function parseMemsatSVMFormat(seq, location)
 {
   let data;
   if(location.startsWith("http"))
@@ -154,17 +154,54 @@ export async function parseMemsatSVMFormat(location)
     data = readData(location);
   }
   let parsed = [];
-  let seq = '';
   const lines = data.split("\n");
   lines.slice(lines.length-11,lines.length-2).forEach(function(line, i){
     let fields = line.split(/\t+/);
-    console.log(fields);
+    if(fields[0] === 'Signal peptide:'){
+      parsed.push({signal_peptide: returnCoords(fields[1])});
+    }
+    if(fields[0] === 'Signal score:'){
+      parsed.push({signal_score: fields[1]});
+    }
+    if(fields[0] === 'Topology:'){
+      parsed.push({topology: returnCoords(fields[1])});
+    }
+    if(fields[0] === 'Re-entrant helices:'){
+      parsed.push({reentrant_helices: returnCoords(fields[1])});
+    }
+    if(fields[0] === 'Pore-lining helices:'){
+      parsed.push({pore_lining_helices: returnCoords(fields[1])});
+    }
+    if(fields[0] === 'Helix count:'){
+      parsed.push({helix_count: fields[1]});
+    }
+    if(fields[0] === 'N-terminal:'){
+      parsed.push({n_terminal: fields[1]});
+    }
+    if(fields[0] === 'Score:'){
+      parsed.push({score: fields[1]});
+    }
+    if(fields[0] === 'Pore stoichiometry:'){
+      parsed.push({pore_stoichiometry: fields[1]});
+    }
+
   });
-  //console.log(seq);
-  //let seq_data = sequence(seq, undefined, undefined, undefined, parsed);
-  //return(seq_data);
+  let seq_data = sequence(seq, undefined, undefined, undefined, parsed);
+  return(seq_data);
 }
 
+function returnCoords(coordinate_string){
+  let coords = [];
+  if(coordinate_string === 'Not detected.'){
+    return(coords);
+  }
+  let pairs = coordinate_string.split(",");
+  pairs.forEach(function(pair){
+    let values = pair.split("-");
+    coords.push({start: values[0], stop: values[1]});
+  });
+  return(coords);
+}
 
 function stripLine(line, leader)
 {
