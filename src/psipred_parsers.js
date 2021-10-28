@@ -243,27 +243,29 @@ export async function parsePResultsFormat(seq, location)
 }
 
 
-function dompred_parse(data)
+export async function parseAlignFormat(seq, location)
 {
-
-}
-
-function memsat_parse(data)
-{
-
-}
-
-function genth_parse(data)
-{
-
-}
-
-function ffpred_parse(data)
-{
-
-}
-
-function contact_parse(data)
-{
-
+  let data;
+  if(location.startsWith("http"))
+  {
+    data = await fetchData(location);
+  }
+  else {
+    data = readData(location);
+  }
+  let parsed = [];
+  const lines = data.split("\n");
+  lines.slice(5,lines.length-1).forEach(function(line, i){
+    line = line.trim();
+    let entries = line.split(/\s+/);
+    //console.log(entries);
+    parsed.push({conf: entries[0], net_score: entries[1],
+                 p_value: entries[2], pairE: entries[3],
+                 solvE: entries[4], aln_score: entries[5],
+                 aln_length: entries[6], target_length: entries[7],
+                 query_length: entries[8], fold: entries[9]});
+  });
+  //console.log(seq);
+  let seq_data = sequence(seq, undefined, parsed, location, undefined);
+  return(seq_data);
 }

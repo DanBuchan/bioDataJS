@@ -8,6 +8,7 @@ import { parseCombFormat } from '../src/psipred_parsers.js';
 import { parsePbdatFormat } from '../src/psipred_parsers.js';
 import { parseMemsatSVMFormat } from '../src/psipred_parsers.js';
 import { parsePResultsFormat } from '../src/psipred_parsers.js';
+import { parseAlignFormat } from '../src/psipred_parsers.js';
 
 import fs from 'fs';
 
@@ -33,8 +34,10 @@ let presults_path = "./files/313aa70c-2da7-11ec-aa34-00163e100d53.presults";
 // fs.writeFileSync('./files/pbdat_test.txt', JSON.stringify(pbdat_parsed, null, 2) , 'utf-8');
 // let memsatsvm_parsed = await parseMemsatSVMFormat(test_seq, memsatsvm_path);
 // fs.writeFileSync('./files/memsatsvm_test.txt', JSON.stringify(memsatsvm_parsed, null, 2) , 'utf-8');
-let presults_parsed = await parsePResultsFormat(test_seq, presults_path);
-fs.writeFileSync('./files/genthreader_presults_test.txt', JSON.stringify(presults_parsed, null, 2) , 'utf-8');
+// let presults_parsed = await parsePResultsFormat(test_seq, presults_path);
+// fs.writeFileSync('./files/genthreader_presults_test.txt', JSON.stringify(presults_parsed, null, 2) , 'utf-8');
+let align_parsed = await parseAlignFormat(test_seq, align_path);
+fs.writeFileSync('./files/genthreader_align_test.txt', JSON.stringify(align_parsed, null, 2) , 'utf-8');
 
 
 let horiz_data = fs.readFileSync("./files/horiz_test.txt", 'utf8');
@@ -49,6 +52,8 @@ let memsatsvm_data = fs.readFileSync("./files/memsatsvm_test.txt", 'utf8');
 memsatsvm_data = JSON.parse(memsatsvm_data);
 let presults_data = fs.readFileSync("./files/genthreader_presults_test.txt", 'utf8');
 presults_data = JSON.parse(presults_data);
+let align_data = fs.readFileSync("./files/genthreader_align_test.txt", 'utf8');
+align_data = JSON.parse(align_data);
 
 // let memsatsvm_parsed = await parseMemsatSVMFormat(memsatsvm_path);
 // Hi there are no tests for the fetch stuff in here.
