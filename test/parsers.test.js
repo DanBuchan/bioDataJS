@@ -20,7 +20,8 @@ let ss2_path = "./files/4730b94e-2513-11ec-836b-00163e100d53.ss2";
 let comb_path = "./files/eb125942-2a94-11ec-af0e-00163e100d53.comb";
 let pbdat_path = "./files/eb125942-2a94-11ec-af0e-00163e100d53.pbdat";
 let memsatsvm_path = "./files/d7144d02-2ab1-11ec-a378-00163e100d53.memsat_svm";
-let pgenth_path = "./files/313aa70c-2da7-11ec-aa34-00163e100d53.presults";
+let align_path = "./files/313aa70c-2da7-11ec-aa34-00163e100d53.align";
+let presults_path = "./files/313aa70c-2da7-11ec-aa34-00163e100d53.presults";
 
 // let hformat_parsed = await parseHFormat(horiz_path);
 // fs.writeFileSync('./files/horiz_test.txt', JSON.stringify(hformat_parsed, null, 2) , 'utf-8');
@@ -32,8 +33,8 @@ let pgenth_path = "./files/313aa70c-2da7-11ec-aa34-00163e100d53.presults";
 // fs.writeFileSync('./files/pbdat_test.txt', JSON.stringify(pbdat_parsed, null, 2) , 'utf-8');
 // let memsatsvm_parsed = await parseMemsatSVMFormat(test_seq, memsatsvm_path);
 // fs.writeFileSync('./files/memsatsvm_test.txt', JSON.stringify(memsatsvm_parsed, null, 2) , 'utf-8');
-// let pgenth_parsed = await parsePResultsFormat(test_seq, pgenth_path);
-// fs.writeFileSync('./files/pgenth_test.txt', JSON.stringify(pgenth_parsed, null, 2) , 'utf-8');
+let presults_parsed = await parsePResultsFormat(test_seq, presults_path);
+fs.writeFileSync('./files/genthreader_presults_test.txt', JSON.stringify(presults_parsed, null, 2) , 'utf-8');
 
 
 let horiz_data = fs.readFileSync("./files/horiz_test.txt", 'utf8');
@@ -46,8 +47,8 @@ let pbdat_data = fs.readFileSync("./files/pbdat_test.txt", 'utf8');
 pbdat_data = JSON.parse(pbdat_data);
 let memsatsvm_data = fs.readFileSync("./files/memsatsvm_test.txt", 'utf8');
 memsatsvm_data = JSON.parse(memsatsvm_data);
-let pgenth_data = fs.readFileSync("./files/pgenth_test.txt", 'utf8');
-pgenth_data = JSON.parse(pgenth_data);
+let presults_data = fs.readFileSync("./files/genthreader_presults_test.txt", 'utf8');
+presults_data = JSON.parse(presults_data);
 
 // let memsatsvm_parsed = await parseMemsatSVMFormat(memsatsvm_path);
 // Hi there are no tests for the fetch stuff in here.
@@ -69,9 +70,10 @@ describe('Parsers: parse PSIPRED files tests', () => {
   // it('should parse memsatsvm file', () => {
   //    return parseMemsatSVMFormat(test_seq, memsatsvm_path).then(result => {assert.deepEqual(result, memsatsvm_data)});
   // });
-  it('should parse genth presults file', () => {
-     return parsePResultsFormat(test_seq, pgenth_path).then(result => {assert.deepEqual(result, pgenth_data)});
+  it('should parse presults file', () => {
+     return parsePResultsFormat(test_seq, presults_path).then(result => {assert.deepEqual(result, presults_data)});
   });
+
 
   // have no idea how to test exceptiohs with chai in async functions
   // it('should fail on bad URI', () => {
