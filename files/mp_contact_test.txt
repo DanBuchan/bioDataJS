@@ -1,0 +1,2131 @@
+{
+  "identity": "sequence",
+  "sequence": "MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITTLVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGTILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEVASTFKVLRNVTVVLWSAYPVVWLI",
+  "type": "aminoacid",
+  "source": "./files/619784c2-38cb-11ec-aa34-00163e100d53_CONTACT_DEF1.results",
+  "residues": [
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "70",
+          "pairing": "1-2",
+          "score": "1.9110908e-41"
+        },
+        {
+          "contact_id": "74",
+          "pairing": "1-2",
+          "score": "2.8025969e-45"
+        },
+        {
+          "contact_id": "218",
+          "pairing": "1-7",
+          "score": "1.2656586e-36"
+        },
+        {
+          "contact_id": "222",
+          "pairing": "1-7",
+          "score": "8.5981799e-37"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "66",
+          "pairing": "1-2",
+          "score": "8.4077908e-45"
+        },
+        {
+          "contact_id": "67",
+          "pairing": "1-2",
+          "score": "7.0064923e-45"
+        },
+        {
+          "contact_id": "74",
+          "pairing": "1-2",
+          "score": "4.2038954e-45"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "67",
+          "pairing": "1-2",
+          "score": "4.3585422e-37"
+        },
+        {
+          "contact_id": "70",
+          "pairing": "1-2",
+          "score": "1.1197116e-38"
+        },
+        {
+          "contact_id": "74",
+          "pairing": "1-2",
+          "score": "6.5861028e-44"
+        },
+        {
+          "contact_id": "222",
+          "pairing": "1-7",
+          "score": "4.0304342e-32"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "70",
+          "pairing": "1-2",
+          "score": "1.0261822e-36"
+        },
+        {
+          "contact_id": "74",
+          "pairing": "1-2",
+          "score": "1.2522283e-40"
+        },
+        {
+          "contact_id": "222",
+          "pairing": "1-7",
+          "score": "4.6169686e-32"
+        },
+        {
+          "contact_id": "225",
+          "pairing": "1-7",
+          "score": "4.3440252e-44"
+        },
+        {
+          "contact_id": "226",
+          "pairing": "1-7",
+          "score": "9.4620661e-39"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "67",
+          "pairing": "1-2",
+          "score": "2.5352667e-28"
+        },
+        {
+          "contact_id": "70",
+          "pairing": "1-2",
+          "score": "4.0108687e-37"
+        },
+        {
+          "contact_id": "71",
+          "pairing": "1-2",
+          "score": "1.8413062e-42"
+        },
+        {
+          "contact_id": "73",
+          "pairing": "1-2",
+          "score": "4.2038954e-45"
+        },
+        {
+          "contact_id": "74",
+          "pairing": "1-2",
+          "score": "4.8948757e-41"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "63",
+          "pairing": "1-2",
+          "score": "3.5943306e-42"
+        },
+        {
+          "contact_id": "64",
+          "pairing": "1-2",
+          "score": "3.2229865e-43"
+        },
+        {
+          "contact_id": "66",
+          "pairing": "1-2",
+          "score": "4.0917915e-43"
+        },
+        {
+          "contact_id": "67",
+          "pairing": "1-2",
+          "score": "4.0077136e-43"
+        },
+        {
+          "contact_id": "70",
+          "pairing": "1-2",
+          "score": "9.8090893e-45"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "63",
+          "pairing": "1-2",
+          "score": "1.8400314e-31"
+        },
+        {
+          "contact_id": "64",
+          "pairing": "1-2",
+          "score": "9.164492e-43"
+        },
+        {
+          "contact_id": "66",
+          "pairing": "1-2",
+          "score": "3.2917429e-31"
+        },
+        {
+          "contact_id": "67",
+          "pairing": "1-2",
+          "score": "5.1927959e-26"
+        },
+        {
+          "contact_id": "70",
+          "pairing": "1-2",
+          "score": "8.2174161e-35"
+        },
+        {
+          "contact_id": "225",
+          "pairing": "1-7",
+          "score": "3.4710163e-42"
+        },
+        {
+          "contact_id": "226",
+          "pairing": "1-7",
+          "score": "7.5762975e-37"
+        },
+        {
+          "contact_id": "230",
+          "pairing": "1-7",
+          "score": "1.4012985e-45"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "63",
+          "pairing": "1-2",
+          "score": "1.0052498e-33"
+        },
+        {
+          "contact_id": "64",
+          "pairing": "1-2",
+          "score": "1.3727006e-30"
+        },
+        {
+          "contact_id": "66",
+          "pairing": "1-2",
+          "score": "1.798681e-33"
+        },
+        {
+          "contact_id": "67",
+          "pairing": "1-2",
+          "score": "2.8374584e-28"
+        },
+        {
+          "contact_id": "70",
+          "pairing": "1-2",
+          "score": "4.4889451e-37"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "63",
+          "pairing": "1-2",
+          "score": "6.6151999e-35"
+        },
+        {
+          "contact_id": "67",
+          "pairing": "1-2",
+          "score": "1.56297e-35"
+        },
+        {
+          "contact_id": "229",
+          "pairing": "1-7",
+          "score": "2.0894201e-40"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "60",
+          "pairing": "1-2",
+          "score": "2.614433e-33"
+        },
+        {
+          "contact_id": "63",
+          "pairing": "1-2",
+          "score": "3.842256e-34"
+        },
+        {
+          "contact_id": "64",
+          "pairing": "1-2",
+          "score": "5.2458425e-31"
+        },
+        {
+          "contact_id": "66",
+          "pairing": "1-2",
+          "score": "6.8749012e-34"
+        },
+        {
+          "contact_id": "67",
+          "pairing": "1-2",
+          "score": "1.0842836e-28"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "59",
+          "pairing": "1-2",
+          "score": "8.1898328e-35"
+        },
+        {
+          "contact_id": "60",
+          "pairing": "1-2",
+          "score": "1.9398322e-35"
+        },
+        {
+          "contact_id": "63",
+          "pairing": "1-2",
+          "score": "5.6747145e-36"
+        },
+        {
+          "contact_id": "233",
+          "pairing": "1-7",
+          "score": "9.9576269e-42"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "60",
+          "pairing": "1-2",
+          "score": "2.355703e-35"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "105",
+          "pairing": "2-3",
+          "score": "8.4077908e-45"
+        },
+        {
+          "contact_id": "108",
+          "pairing": "2-3",
+          "score": "2.9118982e-42"
+        },
+        {
+          "contact_id": "109",
+          "pairing": "2-3",
+          "score": "4.2038954e-45"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "101",
+          "pairing": "2-3",
+          "score": "1.5414283e-44"
+        },
+        {
+          "contact_id": "102",
+          "pairing": "2-3",
+          "score": "3.2237949e-34"
+        },
+        {
+          "contact_id": "105",
+          "pairing": "2-3",
+          "score": "7.2825481e-41"
+        },
+        {
+          "contact_id": "106",
+          "pairing": "2-3",
+          "score": "5.3718777e-41"
+        },
+        {
+          "contact_id": "229",
+          "pairing": "2-7",
+          "score": "4.9570814e-33"
+        },
+        {
+          "contact_id": "230",
+          "pairing": "2-7",
+          "score": "1.1210388e-43"
+        },
+        {
+          "contact_id": "233",
+          "pairing": "2-7",
+          "score": "2.8025969e-45"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "229",
+          "pairing": "2-7",
+          "score": "4.3960651e-36"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "97",
+          "pairing": "2-3",
+          "score": "7.0191061e-36"
+        },
+        {
+          "contact_id": "98",
+          "pairing": "2-3",
+          "score": "3.8926972e-35"
+        },
+        {
+          "contact_id": "101",
+          "pairing": "2-3",
+          "score": "6.0353925e-42"
+        },
+        {
+          "contact_id": "102",
+          "pairing": "2-3",
+          "score": "9.7784765e-33"
+        },
+        {
+          "contact_id": "105",
+          "pairing": "2-3",
+          "score": "5.5631549e-43"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "98",
+          "pairing": "2-3",
+          "score": "5.2749178e-37"
+        },
+        {
+          "contact_id": "102",
+          "pairing": "2-3",
+          "score": "1.2413558e-38"
+        },
+        {
+          "contact_id": "225",
+          "pairing": "2-7",
+          "score": "7.0064923e-45"
+        },
+        {
+          "contact_id": "226",
+          "pairing": "2-7",
+          "score": "2.8025969e-45"
+        },
+        {
+          "contact_id": "229",
+          "pairing": "2-7",
+          "score": "4.9955689e-37"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "98",
+          "pairing": "2-3",
+          "score": "9.8252626e-32"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "94",
+          "pairing": "2-3",
+          "score": "2.1047912e-37"
+        },
+        {
+          "contact_id": "95",
+          "pairing": "2-3",
+          "score": "8.2003426e-40"
+        },
+        {
+          "contact_id": "97",
+          "pairing": "2-3",
+          "score": "2.8025969e-45"
+        },
+        {
+          "contact_id": "98",
+          "pairing": "2-3",
+          "score": "1.8911504e-40"
+        },
+        {
+          "contact_id": "99",
+          "pairing": "2-3",
+          "score": "4.8064537e-43"
+        },
+        {
+          "contact_id": "102",
+          "pairing": "2-3",
+          "score": "6.0255834e-44"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "94",
+          "pairing": "2-3",
+          "score": "1.2431619e-39"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "94",
+          "pairing": "2-3",
+          "score": "6.2217652e-43"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "N",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "221",
+          "pairing": "3-7",
+          "score": "3.0394289e-36"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "132",
+          "pairing": "3-4",
+          "score": "6.4440642e-37"
+        },
+        {
+          "contact_id": "135",
+          "pairing": "3-4",
+          "score": "1.2767777e-39"
+        },
+        {
+          "contact_id": "136",
+          "pairing": "3-4",
+          "score": "8.0546636e-41"
+        },
+        {
+          "contact_id": "139",
+          "pairing": "3-4",
+          "score": "2.77517e-38"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "132",
+          "pairing": "3-4",
+          "score": "4.2038954e-45"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "136",
+          "pairing": "3-4",
+          "score": "1.821688e-44"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "229",
+          "pairing": "3-7",
+          "score": "3.4317799e-42"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "128",
+          "pairing": "3-4",
+          "score": "3.321722e-40"
+        },
+        {
+          "contact_id": "129",
+          "pairing": "3-4",
+          "score": "1.3032076e-43"
+        },
+        {
+          "contact_id": "131",
+          "pairing": "3-4",
+          "score": "3.6770072e-42"
+        },
+        {
+          "contact_id": "132",
+          "pairing": "3-4",
+          "score": "2.9427268e-44"
+        },
+        {
+          "contact_id": "195",
+          "pairing": "3-6",
+          "score": "7.1466222e-44"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "124",
+          "pairing": "3-4",
+          "score": "2.8025969e-45"
+        },
+        {
+          "contact_id": "125",
+          "pairing": "3-4",
+          "score": "1.4012985e-45"
+        },
+        {
+          "contact_id": "128",
+          "pairing": "3-4",
+          "score": "7.258726e-43"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "191",
+          "pairing": "3-6",
+          "score": "1.164479e-42"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "124",
+          "pairing": "3-4",
+          "score": "2.6088506e-39"
+        },
+        {
+          "contact_id": "125",
+          "pairing": "3-4",
+          "score": "2.5223372e-44"
+        },
+        {
+          "contact_id": "128",
+          "pairing": "3-4",
+          "score": "1.6493984e-40"
+        },
+        {
+          "contact_id": "161",
+          "pairing": "3-5",
+          "score": "8.1373402e-42"
+        },
+        {
+          "contact_id": "165",
+          "pairing": "3-5",
+          "score": "7.7071416e-43"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "125",
+          "pairing": "3-4",
+          "score": "1.3872855e-43"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "165",
+          "pairing": "3-5",
+          "score": "5.6051939e-45"
+        },
+        {
+          "contact_id": "188",
+          "pairing": "3-6",
+          "score": "6.5440638e-43"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "164",
+          "pairing": "4-5",
+          "score": "1.7341206e-32"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "160",
+          "pairing": "4-5",
+          "score": "8.4077908e-45"
+        },
+        {
+          "contact_id": "161",
+          "pairing": "4-5",
+          "score": "6.6576106e-31"
+        },
+        {
+          "contact_id": "164",
+          "pairing": "4-5",
+          "score": "4.201908e-28"
+        },
+        {
+          "contact_id": "165",
+          "pairing": "4-5",
+          "score": "9.0242836e-36"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "157",
+          "pairing": "4-5",
+          "score": "4.6869666e-30"
+        },
+        {
+          "contact_id": "158",
+          "pairing": "4-5",
+          "score": "1.1182552e-32"
+        },
+        {
+          "contact_id": "160",
+          "pairing": "4-5",
+          "score": "1.1332586e-32"
+        },
+        {
+          "contact_id": "161",
+          "pairing": "4-5",
+          "score": "3.9648757e-30"
+        },
+        {
+          "contact_id": "164",
+          "pairing": "4-5",
+          "score": "2.4252963e-27"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "157",
+          "pairing": "4-5",
+          "score": "9.2062882e-30"
+        },
+        {
+          "contact_id": "158",
+          "pairing": "4-5",
+          "score": "1.2129899e-38"
+        },
+        {
+          "contact_id": "160",
+          "pairing": "4-5",
+          "score": "2.0416919e-42"
+        },
+        {
+          "contact_id": "161",
+          "pairing": "4-5",
+          "score": "1.3537452e-34"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "154",
+          "pairing": "4-5",
+          "score": "2.7795495e-37"
+        },
+        {
+          "contact_id": "157",
+          "pairing": "4-5",
+          "score": "1.7347255e-36"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "154",
+          "pairing": "4-5",
+          "score": "4.6875255e-40"
+        },
+        {
+          "contact_id": "157",
+          "pairing": "4-5",
+          "score": "2.9262825e-39"
+        },
+        {
+          "contact_id": "158",
+          "pairing": "4-5",
+          "score": "7.4421041e-31"
+        },
+        {
+          "contact_id": "160",
+          "pairing": "4-5",
+          "score": "1.4012985e-45"
+        },
+        {
+          "contact_id": "161",
+          "pairing": "4-5",
+          "score": "8.9892649e-38"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "154",
+          "pairing": "4-5",
+          "score": "8.1267744e-40"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "150",
+          "pairing": "4-5",
+          "score": "4.165628e-33"
+        },
+        {
+          "contact_id": "151",
+          "pairing": "4-5",
+          "score": "5.0630334e-33"
+        },
+        {
+          "contact_id": "153",
+          "pairing": "4-5",
+          "score": "6.2139274e-31"
+        },
+        {
+          "contact_id": "154",
+          "pairing": "4-5",
+          "score": "2.8071955e-33"
+        },
+        {
+          "contact_id": "157",
+          "pairing": "4-5",
+          "score": "1.7519808e-32"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "150",
+          "pairing": "4-5",
+          "score": "6.0533932e-34"
+        },
+        {
+          "contact_id": "151",
+          "pairing": "4-5",
+          "score": "7.357483e-34"
+        },
+        {
+          "contact_id": "154",
+          "pairing": "4-5",
+          "score": "4.0793396e-34"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "150",
+          "pairing": "4-5",
+          "score": "5.3987395e-36"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "147",
+          "pairing": "4-5",
+          "score": "4.3146372e-30"
+        },
+        {
+          "contact_id": "149",
+          "pairing": "4-5",
+          "score": "2.5102522e-38"
+        },
+        {
+          "contact_id": "150",
+          "pairing": "4-5",
+          "score": "2.1410037e-38"
+        },
+        {
+          "contact_id": "151",
+          "pairing": "4-5",
+          "score": "4.5676108e-39"
+        },
+        {
+          "contact_id": "154",
+          "pairing": "4-5",
+          "score": "2.5327447e-39"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "147",
+          "pairing": "4-5",
+          "score": "2.3757906e-29"
+        },
+        {
+          "contact_id": "150",
+          "pairing": "4-5",
+          "score": "9.7225518e-38"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "195",
+          "pairing": "5-6",
+          "score": "2.8992414e-28"
+        },
+        {
+          "contact_id": "196",
+          "pairing": "5-6",
+          "score": "1.4153114e-43"
+        },
+        {
+          "contact_id": "198",
+          "pairing": "5-6",
+          "score": "9.7544386e-42"
+        },
+        {
+          "contact_id": "199",
+          "pairing": "5-6",
+          "score": "7.8472714e-44"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "195",
+          "pairing": "5-6",
+          "score": "6.3183976e-31"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "192",
+          "pairing": "5-6",
+          "score": "4.0232314e-31"
+        },
+        {
+          "contact_id": "195",
+          "pairing": "5-6",
+          "score": "8.9526336e-32"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "188",
+          "pairing": "5-6",
+          "score": "7.0530743e-34"
+        },
+        {
+          "contact_id": "191",
+          "pairing": "5-6",
+          "score": "7.6056683e-35"
+        },
+        {
+          "contact_id": "192",
+          "pairing": "5-6",
+          "score": "4.4405074e-39"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "188",
+          "pairing": "5-6",
+          "score": "2.3009002e-33"
+        },
+        {
+          "contact_id": "192",
+          "pairing": "5-6",
+          "score": "1.7287368e-37"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "N",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "227",
+          "pairing": "6-7",
+          "score": "6.119558e-36"
+        },
+        {
+          "contact_id": "228",
+          "pairing": "6-7",
+          "score": "1.0990263e-36"
+        },
+        {
+          "contact_id": "231",
+          "pairing": "6-7",
+          "score": "2.5223372e-44"
+        },
+        {
+          "contact_id": "232",
+          "pairing": "6-7",
+          "score": "2.0593454e-39"
+        },
+        {
+          "contact_id": "235",
+          "pairing": "6-7",
+          "score": "1.3732725e-43"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "228",
+          "pairing": "6-7",
+          "score": "1.6284641e-36"
+        },
+        {
+          "contact_id": "232",
+          "pairing": "6-7",
+          "score": "3.0519804e-39"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "224",
+          "pairing": "6-7",
+          "score": "3.1581588e-34"
+        },
+        {
+          "contact_id": "227",
+          "pairing": "6-7",
+          "score": "2.531839e-36"
+        },
+        {
+          "contact_id": "228",
+          "pairing": "6-7",
+          "score": "1.2466587e-36"
+        },
+        {
+          "contact_id": "232",
+          "pairing": "6-7",
+          "score": "8.5205813e-40"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": [
+        {
+          "contact_id": "228",
+          "pairing": "6-7",
+          "score": "3.524686e-41"
+        }
+      ]
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    }
+  ],
+  "annotations": {}
+}

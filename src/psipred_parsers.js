@@ -345,3 +345,55 @@ export async function parseDMPFormat(seq, location)
   let seq_data = sequence(seq, undefined, undefined, location, parsed);
   return(seq_data);
 }
+
+export async function parseMPLipidFormat(seq, location)
+{
+  let data;
+  if(location.startsWith("http"))
+  {
+    data = await fetchData(location);
+  }
+  else {
+    data = readData(location);
+  }
+  let parsed = [];
+  const lines = data.split("\n");
+  lines.slice(5,lines.length-1).forEach(function(line, i){
+    line = line.trim();
+    let entries = line.split(/\s+/);
+    //console.log(entries);
+    parsed[entries[0]] = {lipid_exposure_score: entries[2]};
+  });
+  //console.log(parsed);
+  let seq_data = sequence(seq, undefined, undefined, location, parsed);
+  return(seq_data);
+}
+
+export async function parseMPContactFormat(seq, location)
+{
+  let data;
+  if(location.startsWith("http"))
+  {
+    data = await fetchData(location);
+  }
+  else {
+    data = readData(location);
+  }
+  let parsed = [];
+  const lines = data.split("\n");
+  lines.slice(5,lines.length-1).forEach(function(line, i){
+    line = line.trim();
+    let entries = line.split(/\s+/);
+    //console.log(entries);
+    let pair = entries[0].split("-");
+    if(parsed[pair[0]]){
+       parsed[pair[0]].push({contact_id: pair[1], pairing:entries[1], score:entries[2]});
+    }
+    else    {
+      parsed[pair[0]] = [{contact_id: pair[1], pairing:entries[1], score:entries[2]}];
+    }
+  });
+  //console.log(parsed);
+  let seq_data = sequence(seq, undefined, undefined, location, parsed);
+  return(seq_data);
+}

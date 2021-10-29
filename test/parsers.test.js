@@ -11,6 +11,8 @@ import { parsePResultsFormat } from '../src/psipred_parsers.js';
 import { parseAlignFormat } from '../src/psipred_parsers.js';
 import { parsePsicovFormat } from '../src/psipred_parsers.js';
 import { parseDMPFormat } from '../src/psipred_parsers.js';
+import { parseMPLipidFormat } from '../src/psipred_parsers.js';
+import { parseMPContactFormat } from '../src/psipred_parsers.js';
 
 import fs from 'fs';
 
@@ -27,6 +29,8 @@ let align_path = "./files/313aa70c-2da7-11ec-aa34-00163e100d53.align";
 let presults_path = "./files/313aa70c-2da7-11ec-aa34-00163e100d53.presults";
 let psicov_path = "./files/b51d08e0-2ffe-11ec-aeb1-00163e100d53.psicov";
 let con_path = "./files/b51d08e0-2ffe-11ec-aeb1-00163e100d53.con";
+let mp_lipid_path = "./files/619784c2-38cb-11ec-aa34-00163e100d53_LIPID_EXPOSURE.results";
+let mp_contact_path = "./files/619784c2-38cb-11ec-aa34-00163e100d53_CONTACT_DEF1.results";
 
 // let hformat_parsed = await parseHFormat(horiz_path);
 // fs.writeFileSync('./files/horiz_test.txt', JSON.stringify(hformat_parsed, null, 2) , 'utf-8');
@@ -44,8 +48,12 @@ let con_path = "./files/b51d08e0-2ffe-11ec-aeb1-00163e100d53.con";
 // fs.writeFileSync('./files/genthreader_align_test.txt', JSON.stringify(align_parsed, null, 2) , 'utf-8');
 // let psicov_parsed = await parsePsicovFormat(test_seq, psicov_path);
 // fs.writeFileSync('./files/dmp_test.txt', JSON.stringify(psicov_parsed, null, 2) , 'utf-8');
-let con_parsed = await parsePsicovFormat(test_seq, con_path);
-fs.writeFileSync('./files/con_test.txt', JSON.stringify(con_parsed, null, 2) , 'utf-8');
+// let con_parsed = await parsePsicovFormat(test_seq, con_path);
+// fs.writeFileSync('./files/con_test.txt', JSON.stringify(con_parsed, null, 2) , 'utf-8');
+// let mp_lipid_parsed = await parseMPLipidFormat(test_seq, mp_lipid_path);
+// fs.writeFileSync('./files/mp_lipid_test.txt', JSON.stringify(mp_lipid_parsed, null, 2) , 'utf-8');
+let mp_contact_parsed = await parseMPContactFormat(test_seq, mp_contact_path);
+fs.writeFileSync('./files/mp_contact_test.txt', JSON.stringify(mp_contact_parsed, null, 2) , 'utf-8');
 
 let horiz_data = fs.readFileSync("./files/horiz_test.txt", 'utf8');
 horiz_data = JSON.parse(horiz_data);
@@ -65,6 +73,10 @@ let psicov_data = fs.readFileSync("./files/dmp_test.txt", 'utf8');
 psicov_data = JSON.parse(psicov_data);
 let con_data = fs.readFileSync("./files/con_test.txt", 'utf8');
 con_data = JSON.parse(con_data);
+let mp_lipid_data = fs.readFileSync("./files/mp_lipid_test.txt", 'utf8');
+mp_lipid_data = JSON.parse(mp_lipid_data);
+let mp_contact_data = fs.readFileSync("./files/mp_contact_test.txt", 'utf8');
+mp_contact_data = JSON.parse(mp_contact_data);
 
 // let memsatsvm_parsed = await parseMemsatSVMFormat(memsatsvm_path);
 // Hi there are no tests for the fetch stuff in here.
@@ -95,10 +107,15 @@ describe('Parsers: parse PSIPRED files tests', () => {
   // it('should parse psicov file', () => {
   //   return parsePsicovFormat(test_seq, psicov_path).then(result => {assert.deepEqual(result, psicov_data)});
   // });
-  it('should parse dmp con file', () => {
-    return parseDMPFormat(test_seq, psicov_path).then(result => {assert.deepEqual(result, psicov_data)});
+  // it('should parse dmp con file', () => {
+  //   return parseDMPFormat(test_seq, psicov_path).then(result => {assert.deepEqual(result, psicov_data)});
+  // });
+  // it('should parse MP lipid exposure file', () => {
+  //   return parseMPLipidFormat(test_seq, mp_lipid_path).then(result => {assert.deepEqual(result, mp_lipid_data)});
+  // });
+  it('should parse MP Contact exposire file', () => {
+    return parseMPContactFormat(test_seq, mp_contact_path).then(result => {assert.deepEqual(result, mp_contact_data)});
   });
-
   // have no idea how to test exceptiohs with chai in async functions
   // it('should fail on bad URI', () => {
   //   await expect(() => parseHFormat("http://thisisadummyurithatisfordummies.com")).to.throw("Fetch error. Malformed URI?");
