@@ -36,8 +36,8 @@ let presults_path = "./files/313aa70c-2da7-11ec-aa34-00163e100d53.presults";
 // fs.writeFileSync('./files/memsatsvm_test.txt', JSON.stringify(memsatsvm_parsed, null, 2) , 'utf-8');
 // let presults_parsed = await parsePResultsFormat(test_seq, presults_path);
 // fs.writeFileSync('./files/genthreader_presults_test.txt', JSON.stringify(presults_parsed, null, 2) , 'utf-8');
-let align_parsed = await parseAlignFormat(test_seq, align_path);
-fs.writeFileSync('./files/genthreader_align_test.txt', JSON.stringify(align_parsed, null, 2) , 'utf-8');
+// let align_parsed = await parseAlignFormat(test_seq, align_path);
+// fs.writeFileSync('./files/genthreader_align_test.txt', JSON.stringify(align_parsed, null, 2) , 'utf-8');
 
 
 let horiz_data = fs.readFileSync("./files/horiz_test.txt", 'utf8');
@@ -75,10 +75,12 @@ describe('Parsers: parse PSIPRED files tests', () => {
   // it('should parse memsatsvm file', () => {
   //    return parseMemsatSVMFormat(test_seq, memsatsvm_path).then(result => {assert.deepEqual(result, memsatsvm_data)});
   // });
-  it('should parse presults file', () => {
-     return parsePResultsFormat(test_seq, presults_path).then(result => {assert.deepEqual(result, presults_data)});
+  // it('should parse presults file', () => {
+  //    return parsePResultsFormat(test_seq, presults_path).then(result => {assert.deepEqual(result, presults_data)});
+  // });
+  it('should parse align file', () => {
+    return parseAlignFormat(test_seq, align_path).then(result => {assert.deepEqual(result, align_data)});
   });
-
 
   // have no idea how to test exceptiohs with chai in async functions
   // it('should fail on bad URI', () => {

@@ -255,17 +255,37 @@ export async function parseAlignFormat(seq, location)
   }
   let parsed = [];
   const lines = data.split("\n");
-  lines.slice(5,lines.length-1).forEach(function(line, i){
-    line = line.trim();
-    let entries = line.split(/\s+/);
-    //console.log(entries);
-    parsed.push({conf: entries[0], net_score: entries[1],
-                 p_value: entries[2], pairE: entries[3],
-                 solvE: entries[4], aln_score: entries[5],
-                 aln_length: entries[6], target_length: entries[7],
-                 query_length: entries[8], fold: entries[9]});
+  let alignment = [];
+  lines.forEach(function(line, i){
+     if(line.startsWith(">>>")){
+       //console.log(alignment.slice(0, alignment.length-4));
+       let name = alignment.slice(0, 1);
+       name = name[0].substring(19, name[0].length-1);
+       let align = alignment.slice(1, alignment.length-4);
+       align = align.filter(e => e);
+       let seq = Array(align.length/7).fill().map((element, index) => index);
+       let hit_string = '';
+       let query_string = '';
+       let secondary_structure = '';
+       seq.forEach(function(value, i){
+         hit_string += align[i*7+2].slice(9);
+         query_string += align[i*7+4].slice(9);
+         secondary_structure += align[i*7+5].slice(9);
+       });
+       let pi = alignment.slice(alignment.length-4);
+       pi = pi[0].substring(22, pi[0].length-1);
+       let alignment_details = {hit_name: name, hit_string: hit_string,
+                                query_string: query_string, percentage_id: pi};
+       parsed.push(alignment_details);
+       alignment=[];
+       alignment.push(line);
+       //process alignment and reset;
+     }
+     else
+     {
+       alignment.push(line);
+     }
   });
-  //console.log(seq);
   let seq_data = sequence(seq, undefined, parsed, location, undefined);
   return(seq_data);
 }
