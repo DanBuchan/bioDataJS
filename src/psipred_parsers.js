@@ -289,3 +289,31 @@ export async function parseAlignFormat(seq, location)
   let seq_data = sequence(seq, undefined, parsed, location, undefined);
   return(seq_data);
 }
+
+export async function parsePsicovFormat(seq, location)
+{
+  let data;
+  if(location.startsWith("http"))
+  {
+    data = await fetchData(location);
+  }
+  else {
+    data = readData(location);
+  }
+  let parsed = [];
+  const lines = data.split("\n");
+  lines.slice(5,lines.length-1).forEach(function(line, i){
+    line = line.trim();
+    let entries = line.split(/\s+/);
+    //console.log(entries);
+    if(parsed[entries[0]]){
+       parsed[entries[0]].push({contact_id: entries[1], score:entries[4]});
+    }
+    else    {
+      parsed[entries[0]] = [{contact_id: entries[1], score:entries[4]}];
+    }
+  });
+  //console.log(parsed);
+  let seq_data = sequence(seq, undefined, undefined, location, parsed);
+  return(seq_data);
+}
