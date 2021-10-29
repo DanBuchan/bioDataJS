@@ -10,6 +10,7 @@ import { parseMemsatSVMFormat } from '../src/psipred_parsers.js';
 import { parsePResultsFormat } from '../src/psipred_parsers.js';
 import { parseAlignFormat } from '../src/psipred_parsers.js';
 import { parsePsicovFormat } from '../src/psipred_parsers.js';
+import { parseDMPFormat } from '../src/psipred_parsers.js';
 
 import fs from 'fs';
 
@@ -25,6 +26,7 @@ let memsatsvm_path = "./files/d7144d02-2ab1-11ec-a378-00163e100d53.memsat_svm";
 let align_path = "./files/313aa70c-2da7-11ec-aa34-00163e100d53.align";
 let presults_path = "./files/313aa70c-2da7-11ec-aa34-00163e100d53.presults";
 let psicov_path = "./files/b51d08e0-2ffe-11ec-aeb1-00163e100d53.psicov";
+let con_path = "./files/b51d08e0-2ffe-11ec-aeb1-00163e100d53.con";
 
 // let hformat_parsed = await parseHFormat(horiz_path);
 // fs.writeFileSync('./files/horiz_test.txt', JSON.stringify(hformat_parsed, null, 2) , 'utf-8');
@@ -42,7 +44,8 @@ let psicov_path = "./files/b51d08e0-2ffe-11ec-aeb1-00163e100d53.psicov";
 // fs.writeFileSync('./files/genthreader_align_test.txt', JSON.stringify(align_parsed, null, 2) , 'utf-8');
 // let psicov_parsed = await parsePsicovFormat(test_seq, psicov_path);
 // fs.writeFileSync('./files/dmp_test.txt', JSON.stringify(psicov_parsed, null, 2) , 'utf-8');
-
+let con_parsed = await parsePsicovFormat(test_seq, con_path);
+fs.writeFileSync('./files/con_test.txt', JSON.stringify(con_parsed, null, 2) , 'utf-8');
 
 let horiz_data = fs.readFileSync("./files/horiz_test.txt", 'utf8');
 horiz_data = JSON.parse(horiz_data);
@@ -60,6 +63,8 @@ let align_data = fs.readFileSync("./files/genthreader_align_test.txt", 'utf8');
 align_data = JSON.parse(align_data);
 let psicov_data = fs.readFileSync("./files/dmp_test.txt", 'utf8');
 psicov_data = JSON.parse(psicov_data);
+let con_data = fs.readFileSync("./files/con_test.txt", 'utf8');
+con_data = JSON.parse(con_data);
 
 // let memsatsvm_parsed = await parseMemsatSVMFormat(memsatsvm_path);
 // Hi there are no tests for the fetch stuff in here.
@@ -87,8 +92,11 @@ describe('Parsers: parse PSIPRED files tests', () => {
   // it('should parse align file', () => {
   //   return parseAlignFormat(test_seq, align_path).then(result => {assert.deepEqual(result, align_data)});
   // });
-  it('should parse psicov file', () => {
-    return parsePsicovFormat(test_seq, psicov_path).then(result => {assert.deepEqual(result, psicov_data)});
+  // it('should parse psicov file', () => {
+  //   return parsePsicovFormat(test_seq, psicov_path).then(result => {assert.deepEqual(result, psicov_data)});
+  // });
+  it('should parse dmp con file', () => {
+    return parseDMPFormat(test_seq, psicov_path).then(result => {assert.deepEqual(result, psicov_data)});
   });
 
   // have no idea how to test exceptiohs with chai in async functions
