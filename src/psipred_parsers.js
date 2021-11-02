@@ -8,8 +8,8 @@ export async function fetchData(uri)
   const uriData = fetch(uri)
   .then(
     function(response) {
-      console.log(response.status);
-      console.log(uri);
+      // console.log(response.status);
+      // console.log(uri);
       if (response.status !== 200) {
         console.log('Looks like there was a problem. Status Code: ' +
           response.status);
@@ -242,6 +242,33 @@ export async function parsePResultsFormat(seq, location)
   return(seq_data);
 }
 
+export async function parseDomThPResultsFormat(seq, location)
+{
+  let data;
+  if(location.startsWith("http"))
+  {
+    data = await fetchData(location);
+  }
+  else {
+    data = readData(location);
+  }
+  let parsed = [];
+  const lines = data.split("\n");
+  lines.slice(5,lines.length-1).forEach(function(line, i){
+    line = line.trim();
+    let entries = line.split(/\s+/);
+    //console.log(entries);
+    parsed.push({conf: entries[0], net_score: entries[1],
+                 p_value: entries[2], pairE: entries[3],
+                 solvE: entries[4], aln_score: entries[5],
+                 aln_length: entries[6], target_length: entries[7],
+                 query_length: entries[8], region_start: entries[9],
+                 region_end: entries[10], domain: entries[11]});
+  });
+  //console.log(seq);
+  let seq_data = sequence(seq, undefined, parsed, location, undefined);
+  return(seq_data);
+}
 
 export async function parseAlignFormat(seq, location)
 {
@@ -395,5 +422,181 @@ export async function parseMPContactFormat(seq, location)
   });
   //console.log(parsed);
   let seq_data = sequence(seq, undefined, undefined, location, parsed);
+  return(seq_data);
+}
+
+export async function parseDompredFormat(seq, location)
+{
+  let data;
+  if(location.startsWith("http"))
+  {
+    data = await fetchData(location);
+  }
+  else {
+    data = readData(location);
+  }
+  let parsed = {};
+  let residue_parsed = [];
+  const lines = data.split("\n");
+  let domain_count = lines[1].substring(36);
+  domain_count = domain_count.trim();
+  let domains_string = lines[2].substring(41);
+  domains_string = domains_string.trim();
+  let boundaries = domains_string.split(/\s+/);
+  //console.log(domain_count);
+  //console.log(boundaries);
+  boundaries.forEach(function(index){
+    residue_parsed[index] = {domain_boundary: true};
+  });
+  //console.log(residue_parsed);
+  parsed = {domain_count: domain_count, domain_boundaries: boundaries}
+  let seq_data = sequence(seq, undefined, parsed, location, residue_parsed);
+  return(seq_data);
+}
+
+
+export async function parseFeatcfgFormat(location)
+{
+  let data;
+  if(location.startsWith("http"))
+  {
+    data = await fetchData(location);
+  }
+  else {
+    data = readData(location);
+  }
+  let parsed = {};
+  let residue_parsed = [];
+  const lines = data.split("\n");
+  let seq_entries = lines[0].split(/\s+/);
+  let seq = seq_entries[1].trim();
+  lines.forEach(function(line, i){
+    line = line.trim();
+    let entries = line.split(/\t+/);
+    if(line.startsWith("DI")){
+      if(parsed.disordered_region){
+        parsed.disordered_region.push({start:entries[2], stop:entries[3]});
+      }
+      else{
+        parsed.disordered_region = [{start:entries[2], stop:entries[3]}];
+      }
+      let iterator = Array.from({length: (entries[3] - entries[2])}, (v, k) => k+parseInt(entries[2])-1);
+      iterator.forEach(function(index){
+        if(!residue_parsed[index]){
+          residue_parsed[index]={};
+        }
+        residue_parsed[index].disorder = true;
+      });
+    }
+    if(line.startsWith("TM")){
+      if(parsed.tm_region){
+        parsed.tm_region.push({start:entries[2], stop:entries[3]});
+      }
+      else{
+        parsed.tm_region = [{start:entries[2], stop:entries[3]}];
+      }
+      let iterator = Array.from({length: (entries[3] - entries[2])}, (v, k) => k+parseInt(entries[2])-1);
+      iterator.forEach(function(index){
+        if(!residue_parsed[index]){
+          residue_parsed[index]={};
+        }
+        residue_parsed[index].tm_region = true;
+      });
+    }
+    if(line.startsWith("NG")){
+      if(parsed.nglyc_region){
+        parsed.nglyc_region.push({start:entries[2], stop:entries[3], score: entries[4]});
+      }
+      else{
+        parsed.nglyc_region = [{start:entries[2], stop:entries[3], score: entries[4]}];
+      }
+      let iterator = Array.from({length: (entries[3] - entries[2])}, (v, k) => k+parseInt(entries[2])-1);
+      iterator.forEach(function(index){
+        if(!residue_parsed[index]){
+          residue_parsed[index]={};
+        }
+        residue_parsed[index].nglyc_region = true;
+        residue_parsed[index].nglyc_region.score = entries[4];
+      });
+    }
+    if(line.startsWith("OG")){
+      if(parsed[entries[1]+"_region"]){
+        parsed[entries[1]+"_region"].push({start:entries[2], stop:entries[3], score: entries[4]});
+      }
+      else{
+        parsed[entries[1]+"_region"] = [{start:entries[2], stop:entries[3], score: entries[4]}];
+      }
+      let iterator = Array.from({length: (entries[3] - entries[2])}, (v, k) => k+parseInt(entries[2])-1);
+      iterator.forEach(function(index){
+        if(!residue_parsed[index]){
+          residue_parsed[index]={};
+        }
+        residue_parsed[index][entries[1]+"_region"] = true;
+        residue_parsed[index][entries[1]+"_region"].score = entries[4];
+      });
+    }
+    if(line.startsWith("SS")){
+      let type = '';
+      if(entries[1] === 'psipredH'){
+        type = "helix";
+      }
+      else
+      {
+        type = "strand";
+      }
+      if(parsed[type]){
+        parsed[type].push({start:entries[2], stop:entries[3]});
+      }
+      else{
+        parsed[type] = [{start:entries[2], stop:entries[3]}];
+      }
+      let iterator = Array.from({length: (entries[3] - entries[2])}, (v, k) => k+parseInt(entries[2])-1);
+      iterator.forEach(function(index){
+        if(!residue_parsed[index]){
+          residue_parsed[index]={};
+        }
+        residue_parsed[index][type] = true;
+      });
+    }
+    if(line.startsWith("PS")){
+      if(entries[2] > 0)
+      {
+        //console.log(entries)
+        if(parsed.cellular_location){
+          parsed.cellular_location.push({location:entries[1], score: entries[2]});
+        }
+        else{
+          parsed.cellular_location = [{location:entries[1], score: entries[2]}];
+        }
+      }
+    }
+    if(line.startsWith("SF")){
+      if(parsed.physiochemical_features){
+        parsed.physiochemical_features.push({name: entries[1], score: entries[2]});
+      }
+      else{
+        parsed.physiochemical_features = [{name: entries[1], score: entries[2]}];
+      }
+    }
+    if(line.startsWith("AA")){
+      if(parsed.aa_percentage){
+        parsed.aa_percentage.push({residue: entries[1], percentage: entries[3]});
+      }
+      else{
+        parsed.aa_percentage = [{residue: entries[1], percentage: entries[3]}];
+      }
+    }
+    if(line.startsWith("SP")){
+      if(parsed.signal){
+        parsed.signal.push(entries);
+      }
+      else{
+        parsed.signal = [entries];
+      }
+    }
+  });
+  //console.log(parsed);
+//  console.log(residue_parsed);
+  let seq_data = sequence(seq, undefined, parsed, location, residue_parsed);
   return(seq_data);
 }

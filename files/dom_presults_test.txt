@@ -1,0 +1,1836 @@
+{
+  "identity": "sequence",
+  "sequence": "MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITTLVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGTILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEVASTFKVLRNVTVVLWSAYPVVWLI",
+  "type": "aminoacid",
+  "source": "./files/fe33df72-3af8-11ec-99aa-00163e100d53.presults",
+  "residues": [
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "N",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "N",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    }
+  ],
+  "annotations": [
+    {
+      "conf": "CERT",
+      "net_score": "11.041",
+      "p_value": "3e-08",
+      "pairE": "-473.0",
+      "solvE": "13.8",
+      "aln_score": "520.0",
+      "aln_length": "230",
+      "target_length": "236",
+      "query_length": "262",
+      "region_start": "14",
+      "region_end": "245",
+      "domain": "4hyjA00"
+    },
+    {
+      "conf": "CERT",
+      "net_score": "10.943",
+      "p_value": "4e-08",
+      "pairE": "-354.2",
+      "solvE": "16.1",
+      "aln_score": "480.0",
+      "aln_length": "223",
+      "target_length": "235",
+      "query_length": "262",
+      "region_start": "18",
+      "region_end": "250",
+      "domain": "2l6xA00"
+    },
+    {
+      "conf": "CERT",
+      "net_score": "10.932",
+      "p_value": "4e-08",
+      "pairE": "-437.2",
+      "solvE": "7.1",
+      "aln_score": "473.0",
+      "aln_length": "251",
+      "target_length": "263",
+      "query_length": "262",
+      "region_start": "3",
+      "region_end": "258",
+      "domain": "5b2nA00"
+    },
+    {
+      "conf": "CERT",
+      "net_score": "10.856",
+      "p_value": "4e-08",
+      "pairE": "-369.5",
+      "solvE": "12.0",
+      "aln_score": "452.0",
+      "aln_length": "221",
+      "target_length": "225",
+      "query_length": "262",
+      "region_start": "16",
+      "region_end": "250",
+      "domain": "3ug9A02"
+    },
+    {
+      "conf": "CERT",
+      "net_score": "10.834",
+      "p_value": "4e-08",
+      "pairE": "-435.2",
+      "solvE": "11.2",
+      "aln_score": "446.0",
+      "aln_length": "230",
+      "target_length": "271",
+      "query_length": "262",
+      "region_start": "18",
+      "region_end": "249",
+      "domain": "3x3bA00"
+    },
+    {
+      "conf": "CERT",
+      "net_score": "10.432",
+      "p_value": "7e-08",
+      "pairE": "-13.6",
+      "solvE": "20.6",
+      "aln_score": "337.5",
+      "aln_length": "69",
+      "target_length": "69",
+      "query_length": "262",
+      "region_start": "176",
+      "region_end": "244",
+      "domain": "1bctA00"
+    },
+    {
+      "conf": "CERT",
+      "net_score": "10.308",
+      "p_value": "8e-08",
+      "pairE": "-105.2",
+      "solvE": "13.0",
+      "aln_score": "305.0",
+      "aln_length": "67",
+      "target_length": "67",
+      "query_length": "262",
+      "region_start": "15",
+      "region_end": "83",
+      "domain": "1bhaA00"
+    },
+    {
+      "conf": "LOW",
+      "net_score": "2.129",
+      "p_value": "0.001",
+      "pairE": "-0.0",
+      "solvE": "-0.3",
+      "aln_score": "88.8",
+      "aln_length": "14",
+      "target_length": "178",
+      "query_length": "262",
+      "region_start": "249",
+      "region_end": "262",
+      "domain": "1hqvA00"
+    },
+    {
+      "conf": "LOW",
+      "net_score": "1.730",
+      "p_value": "0.002",
+      "pairE": "-0.0",
+      "solvE": "-0.4",
+      "aln_score": "81.3",
+      "aln_length": "13",
+      "target_length": "107",
+      "query_length": "262",
+      "region_start": "250",
+      "region_end": "262",
+      "domain": "2wngA02"
+    },
+    {
+      "conf": "LOW",
+      "net_score": "1.606",
+      "p_value": "0.002",
+      "pairE": "-0.0",
+      "solvE": "-1.4",
+      "aln_score": "79.8",
+      "aln_length": "17",
+      "target_length": "135",
+      "query_length": "262",
+      "region_start": "246",
+      "region_end": "262",
+      "domain": "1h32B00"
+    },
+    {
+      "conf": "LOW",
+      "net_score": "1.573",
+      "p_value": "0.002",
+      "pairE": "-0.0",
+      "solvE": "-1.7",
+      "aln_score": "79.4",
+      "aln_length": "19",
+      "target_length": "93",
+      "query_length": "262",
+      "region_start": "244",
+      "region_end": "262",
+      "domain": "3hbzA01"
+    },
+    {
+      "conf": "LOW",
+      "net_score": "1.547",
+      "p_value": "0.002",
+      "pairE": "-0.0",
+      "solvE": "-3.2",
+      "aln_score": "79.7",
+      "aln_length": "25",
+      "target_length": "91",
+      "query_length": "262",
+      "region_start": "205",
+      "region_end": "262",
+      "domain": "1weuA00"
+    },
+    {
+      "conf": "LOW",
+      "net_score": "1.513",
+      "p_value": "0.002",
+      "pairE": "-0.0",
+      "solvE": "-1.1",
+      "aln_score": "77.8",
+      "aln_length": "17",
+      "target_length": "118",
+      "query_length": "262",
+      "region_start": "246",
+      "region_end": "262",
+      "domain": "1w7oA00"
+    },
+    {
+      "conf": "LOW",
+      "net_score": "1.470",
+      "p_value": "0.002",
+      "pairE": "-0.0",
+      "solvE": "-1.0",
+      "aln_score": "76.9",
+      "aln_length": "15",
+      "target_length": "66",
+      "query_length": "262",
+      "region_start": "248",
+      "region_end": "262",
+      "domain": "1okgA03"
+    },
+    {
+      "conf": "LOW",
+      "net_score": "1.387",
+      "p_value": "0.003",
+      "pairE": "-0.0",
+      "solvE": "-0.7",
+      "aln_score": "75.1",
+      "aln_length": "20",
+      "target_length": "157",
+      "query_length": "262",
+      "region_start": "243",
+      "region_end": "262",
+      "domain": "2mf9A00"
+    },
+    {
+      "conf": "LOW",
+      "net_score": "1.323",
+      "p_value": "0.003",
+      "pairE": "-0.0",
+      "solvE": "-0.2",
+      "aln_score": "73.5",
+      "aln_length": "12",
+      "target_length": "165",
+      "query_length": "262",
+      "region_start": "248",
+      "region_end": "262",
+      "domain": "1c41A00"
+    },
+    {
+      "conf": "LOW",
+      "net_score": "1.288",
+      "p_value": "0.003",
+      "pairE": "-0.0",
+      "solvE": "-1.0",
+      "aln_score": "73.5",
+      "aln_length": "12",
+      "target_length": "207",
+      "query_length": "262",
+      "region_start": "250",
+      "region_end": "262",
+      "domain": "3g64A01"
+    },
+    {
+      "conf": "LOW",
+      "net_score": "1.279",
+      "p_value": "0.003",
+      "pairE": "-0.0",
+      "solvE": "-0.6",
+      "aln_score": "73.0",
+      "aln_length": "11",
+      "target_length": "105",
+      "query_length": "262",
+      "region_start": "252",
+      "region_end": "262",
+      "domain": "1z9mB00"
+    },
+    {
+      "conf": "LOW",
+      "net_score": "1.270",
+      "p_value": "0.003",
+      "pairE": "-0.0",
+      "solvE": "-0.7",
+      "aln_score": "72.9",
+      "aln_length": "15",
+      "target_length": "369",
+      "query_length": "262",
+      "region_start": "248",
+      "region_end": "262",
+      "domain": "4hvlA00"
+    },
+    {
+      "conf": "LOW",
+      "net_score": "1.257",
+      "p_value": "0.003",
+      "pairE": "-0.0",
+      "solvE": "-1.1",
+      "aln_score": "73.0",
+      "aln_length": "13",
+      "target_length": "71",
+      "query_length": "262",
+      "region_start": "246",
+      "region_end": "262",
+      "domain": "4kmqA04"
+    },
+    {
+      "conf": "LOW",
+      "net_score": "1.256",
+      "p_value": "0.003",
+      "pairE": "-0.0",
+      "solvE": "0.2",
+      "aln_score": "72.0",
+      "aln_length": "15",
+      "target_length": "157",
+      "query_length": "262",
+      "region_start": "1",
+      "region_end": "19",
+      "domain": "4fzxC00"
+    },
+    {
+      "conf": "LOW",
+      "net_score": "1.182",
+      "p_value": "0.003",
+      "pairE": "-0.0",
+      "solvE": "2.1",
+      "aln_score": "70.0",
+      "aln_length": "13",
+      "target_length": "45",
+      "query_length": "262",
+      "region_start": "1",
+      "region_end": "13",
+      "domain": "2l9sA00"
+    },
+    {
+      "conf": "LOW",
+      "net_score": "1.169",
+      "p_value": "0.004",
+      "pairE": "-0.0",
+      "solvE": "1.0",
+      "aln_score": "70.0",
+      "aln_length": "11",
+      "target_length": "137",
+      "query_length": "262",
+      "region_start": "1",
+      "region_end": "11",
+      "domain": "2bvbA00"
+    },
+    {
+      "conf": "LOW",
+      "net_score": "1.160",
+      "p_value": "0.004",
+      "pairE": "-0.0",
+      "solvE": "0.6",
+      "aln_score": "70.0",
+      "aln_length": "15",
+      "target_length": "114",
+      "query_length": "262",
+      "region_start": "248",
+      "region_end": "262",
+      "domain": "3nf4A02"
+    },
+    {
+      "conf": "LOW",
+      "net_score": "1.011",
+      "p_value": "0.004",
+      "pairE": "-0.0",
+      "solvE": "0.1",
+      "aln_score": "67.5",
+      "aln_length": "12",
+      "target_length": "54",
+      "query_length": "262",
+      "region_start": "251",
+      "region_end": "262",
+      "domain": "1vibA00"
+    },
+    {
+      "conf": "LOW",
+      "net_score": "0.918",
+      "p_value": "0.005",
+      "pairE": "-0.0",
+      "solvE": "-0.1",
+      "aln_score": "65.9",
+      "aln_length": "15",
+      "target_length": "158",
+      "query_length": "262",
+      "region_start": "248",
+      "region_end": "262",
+      "domain": "4txwA00"
+    },
+    {
+      "conf": "LOW",
+      "net_score": "0.881",
+      "p_value": "0.005",
+      "pairE": "-0.0",
+      "solvE": "-1.6",
+      "aln_score": "66.4",
+      "aln_length": "19",
+      "target_length": "34",
+      "query_length": "262",
+      "region_start": "244",
+      "region_end": "262",
+      "domain": "3qd6R02"
+    },
+    {
+      "conf": "LOW",
+      "net_score": "0.854",
+      "p_value": "0.005",
+      "pairE": "-0.0",
+      "solvE": "-1.1",
+      "aln_score": "65.5",
+      "aln_length": "12",
+      "target_length": "38",
+      "query_length": "262",
+      "region_start": "246",
+      "region_end": "262",
+      "domain": "2pbzA03"
+    },
+    {
+      "conf": "LOW",
+      "net_score": "0.825",
+      "p_value": "0.005",
+      "pairE": "-124.5",
+      "solvE": "3.9",
+      "aln_score": "58.0",
+      "aln_length": "179",
+      "target_length": "429",
+      "query_length": "262",
+      "region_start": "84",
+      "region_end": "262",
+      "domain": "4d2cA00"
+    },
+    {
+      "conf": "LOW",
+      "net_score": "0.813",
+      "p_value": "0.005",
+      "pairE": "-462.2",
+      "solvE": "-7.8",
+      "aln_score": "61.0",
+      "aln_length": "257",
+      "target_length": "449",
+      "query_length": "262",
+      "region_start": "1",
+      "region_end": "262",
+      "domain": "3wfdB00"
+    },
+    {
+      "conf": "LOW",
+      "net_score": "0.772",
+      "p_value": "0.006",
+      "pairE": "-2.0",
+      "solvE": "-1.0",
+      "aln_score": "63.9",
+      "aln_length": "15",
+      "target_length": "80",
+      "query_length": "262",
+      "region_start": "248",
+      "region_end": "262",
+      "domain": "3hugA00"
+    },
+    {
+      "conf": "LOW",
+      "net_score": "0.737",
+      "p_value": "0.006",
+      "pairE": "-0.0",
+      "solvE": "-0.3",
+      "aln_score": "62.7",
+      "aln_length": "13",
+      "target_length": "164",
+      "query_length": "262",
+      "region_start": "1",
+      "region_end": "13",
+      "domain": "1llpA02"
+    },
+    {
+      "conf": "LOW",
+      "net_score": "0.735",
+      "p_value": "0.006",
+      "pairE": "-0.5",
+      "solvE": "-1.6",
+      "aln_score": "63.7",
+      "aln_length": "13",
+      "target_length": "67",
+      "query_length": "262",
+      "region_start": "250",
+      "region_end": "262",
+      "domain": "2m4hA00"
+    },
+    {
+      "conf": "LOW",
+      "net_score": "0.662",
+      "p_value": "0.006",
+      "pairE": "-310.1",
+      "solvE": "-1.5",
+      "aln_score": "57.0",
+      "aln_length": "204",
+      "target_length": "445",
+      "query_length": "262",
+      "region_start": "18",
+      "region_end": "262",
+      "domain": "4tpjA00"
+    },
+    {
+      "conf": "LOW",
+      "net_score": "0.656",
+      "p_value": "0.006",
+      "pairE": "-130.8",
+      "solvE": "11.7",
+      "aln_score": "55.0",
+      "aln_length": "169",
+      "target_length": "212",
+      "query_length": "262",
+      "region_start": "1",
+      "region_end": "182",
+      "domain": "1pw4A02"
+    },
+    {
+      "conf": "LOW",
+      "net_score": "0.499",
+      "p_value": "0.008",
+      "pairE": "-180.4",
+      "solvE": "6.3",
+      "aln_score": "52.0",
+      "aln_length": "145",
+      "target_length": "437",
+      "query_length": "262",
+      "region_start": "1",
+      "region_end": "167",
+      "domain": "4q65A00"
+    },
+    {
+      "conf": "LOW",
+      "net_score": "0.493",
+      "p_value": "0.008",
+      "pairE": "-173.2",
+      "solvE": "1.9",
+      "aln_score": "52.0",
+      "aln_length": "161",
+      "target_length": "483",
+      "query_length": "262",
+      "region_start": "1",
+      "region_end": "177",
+      "domain": "4w6vA00"
+    },
+    {
+      "conf": "LOW",
+      "net_score": "0.336",
+      "p_value": "0.009",
+      "pairE": "-168.3",
+      "solvE": "6.2",
+      "aln_score": "49.0",
+      "aln_length": "203",
+      "target_length": "430",
+      "query_length": "262",
+      "region_start": "1",
+      "region_end": "262",
+      "domain": "1kplA00"
+    },
+    {
+      "conf": "LOW",
+      "net_score": "0.279",
+      "p_value": "0.010",
+      "pairE": "-204.1",
+      "solvE": "-3.9",
+      "aln_score": "51.0",
+      "aln_length": "243",
+      "target_length": "564",
+      "query_length": "262",
+      "region_start": "1",
+      "region_end": "256",
+      "domain": "3ayfA01"
+    },
+    {
+      "conf": "GUESS",
+      "net_score": "0.228",
+      "p_value": "0.010",
+      "pairE": "-269.6",
+      "solvE": "5.4",
+      "aln_score": "47.0",
+      "aln_length": "148",
+      "target_length": "392",
+      "query_length": "262",
+      "region_start": "1",
+      "region_end": "167",
+      "domain": "3wdoA01"
+    },
+    {
+      "conf": "GUESS",
+      "net_score": "0.119",
+      "p_value": "0.012",
+      "pairE": "-220.5",
+      "solvE": "6.1",
+      "aln_score": "45.0",
+      "aln_length": "159",
+      "target_length": "200",
+      "query_length": "262",
+      "region_start": "81",
+      "region_end": "262",
+      "domain": "4o6mB02"
+    },
+    {
+      "conf": "GUESS",
+      "net_score": "0.112",
+      "p_value": "0.012",
+      "pairE": "-98.2",
+      "solvE": "11.3",
+      "aln_score": "45.0",
+      "aln_length": "115",
+      "target_length": "183",
+      "query_length": "262",
+      "region_start": "131",
+      "region_end": "262",
+      "domain": "2k73A00"
+    },
+    {
+      "conf": "GUESS",
+      "net_score": "0.063",
+      "p_value": "0.013",
+      "pairE": "-101.9",
+      "solvE": "6.1",
+      "aln_score": "44.0",
+      "aln_length": "107",
+      "target_length": "233",
+      "query_length": "262",
+      "region_start": "141",
+      "region_end": "262",
+      "domain": "1ymgA00"
+    }
+  ]
+}

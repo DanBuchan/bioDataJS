@@ -1,0 +1,3111 @@
+
+
+>>> Alignment with 1at9A00:
+                               10        20        30        40    
+         --------------CCCCCCCCHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+1at9A00  --------------AQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+                       ||||||||||||||||||||||||||||||||||||||||||||||
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+                 10        20        30        40        50        60
+
+
+           50        60        70        80        90       100    
+         HHHHHHHHHHHHHHCCCCCCCCCCCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHCCCHHH
+1at9A00  LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGT
+         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query    LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGT
+         HHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHHCCCCHHH
+                 70        80        90       100       110       120
+
+
+          110       120       130       140       150       160    
+         HHHHHHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCHHH
+1at9A00  ILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEV
+         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query    ILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEV
+         HHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHH
+                130       140       150       160       170       180
+
+
+          170       180       190       200       210       220    
+         HHHHHHHHHHHHHHHHHHHHHHHHCHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHCC
+1at9A00  ASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSR
+         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query    ASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSR
+         HHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                190       200       210       220       230       240
+
+
+          230                
+         CCCC------------------
+1at9A00  AIFG------------------
+         ||||                  
+Query    AIFGEAEAPEPSAGDGAAATSD
+         HHHCCCCCCCCCCCCCCCCCCC
+                250       260
+
+
+Percentage Identity = 100.0.
+
+
+
+>>> Alignment with 1h2sA00:
+                                   10        20        30         40
+         ------------------CCCHHHHHHHHHHHHHHHHHHHHHHCCCCCCCC-HHHHHHHH
+1h2sA00  ------------------MVGLTTLFWLGAIGMLVGTLAFAWAGRDAGSGE-RRYYVTLV
+                                    ||   |  ||| |   |           |    
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+                 10        20        30        40        50        60
+
+
+                50        60            70        80        90     
+         HHHHHHHHHHHHHHCCCCEECC----CCCCEEHHHHHHHHHHHHHHHHHHHHHHCCCHHH
+1h2sA00  GISGIAAVAYVVMALGVGWVPV----AERTVFAPRYIDWILTTPLIVYFLGLLAGLDSRE
+             ||   |  | || |   |            || ||  ||||    | ||   |   
+Query    LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGT
+         HHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHHCCCCHHH
+                 70        80        90       100       110       120
+
+
+         100       110       120        130       140       150    
+         HHHHHHHHHHHHHHHHHHHHCCCC-HHHHHHHHHHHHHHHHHHHHHCHHHHHHCCCCHHH
+1h2sA00  FGIVITLNTVVMLAGFAGAMVPGI-ERYALFGMGAVAFLGLVYYLVGPMTESASQRSSGI
+                       |  ||       |         | |   | |    |  |       
+Query    ILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEV
+         HHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHH
+                130       140       150       160       170       180
+
+
+          160       170       180       190       200       210    
+         HHHHHHHHHHHHHHHCCHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHH
+1h2sA00  KSLYVRLRNLTVILWAIYPFIWLLGPPGVALLTPTVDVALIVYLDLVTKVGFGFIALDAA
+          |    ||| || ||  ||  || |  |           |   ||   ||||| | |   
+Query    ASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSR
+         HHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                190       200       210       220       230       240
+
+
+          220                
+         HHHHHHCCC-------------
+1h2sA00  ATLRAEHGE-------------
+         |                     
+Query    AIFGEAEAPEPSAGDGAAATSD
+         HHHCCCCCCCCCCCCCCCCCCC
+                250       260
+
+
+Percentage Identity = 28.4.
+
+
+
+>>> Alignment with 3am6A00:
+                              10        20        30           40  
+         -------------CCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHCCC---HHHHHHHH
+3am6A00  -------------MADVETETGMIAQWIVFAIMAAAAIAFGVAVHFRPL---KSAYYINI
+                       |        |      | |      | |          |  | |  
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+                 10        20        30        40        50        60
+
+
+             50        60           70        80        90       100
+         HHHHHHHHHHHHHHHCCC---CCCCCCCCCCCCHHHHHHHHHHHHHHHHHHCCCCCCHHH
+3am6A00  AICTIAATAYYAMAVNYQ---DLTMNGERQVVYARYIDWVLTTPLLLLDLIVMTKMGGVM
+             || | |  |   |                ||| ||  |||||||||          
+Query    LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGT
+         HHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHHCCCCHHH
+                 70        80        90       100       110       120
+
+
+               110       120       130       140       150         
+         HHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHC--CCCCHHH
+3am6A00  ISWVIGADIFMIVFGILGAFEDEHKFKWVYFIAGCVMQAVLTYGMYNATWK--DDKSPEY
+         |    |||  ||  |  ||         |             |              || 
+Query    ILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEV
+         HHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHH
+                130       140       150       160       170       180
+
+
+                 170       180        190       200       210      
+         HHHHHHHHHHHHHHHCHHHHHHHHCC-CCCCCCHHHHHHHHHHHHHHHCHHHHHHHHHHH
+3am6A00  HSSYVSLLVFLSILWVFYPVVWAFGS-GSGVLSVDNEAILMGILDVLAKPLFGMGCLIAH
+          |    |      ||  |||||  || | |      |  |   ||| ||  ||   |   
+Query    ASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSR
+         HHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                190       200       210       220       230       240
+
+
+                             
+         HHHHCC----------------
+3am6A00  ETIFKK----------------
+                               
+Query    AIFGEAEAPEPSAGDGAAATSD
+         HHHCCCCCCCCCCCCCCCCCCC
+                250       260
+
+
+Percentage Identity = 29.0.
+
+
+
+>>> Alignment with 1e12A00:
+                                    10        20        30        40
+         -------------------CCHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCHHHHHHH
+1e12A00  -------------------RENALLSSSLWVNVALAGIAILVFVYMGRTIRPGRPRLIWG
+                            |        |    || |   | |   |             
+Query    MLELLPTAVEGVSQAQITGRP---EWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYA
+         CCCCCCCCCCCCCEEECCCCC---HHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHH
+                 10        20           30        40        50     
+
+
+                50        60        70        80        90       100
+         HHHHHHHHHHHHHHHHHHCCCCEEEECCCCCCCCCCEEEECHHHHHHHHHHHHHHHHHHH
+1e12A00  ATLMIPLVSISSYLGLLSGLTVGMIEMPAGHALAGEMVRSQWGRYLTWALSTPMILLALG
+          |   |      ||  | |    |                 | ||  |   ||  || | 
+Query    ITTLVPAIAFTMYLSMLLGYGLTMVPFGGEQNP------IYWARYADWLFTTPLLLLDLA
+         HHHHHHHHHHHHHHHHHCCCCEEEEECCCCCCC------EEHHHHHHHHHHHHHHHHHHH
+          60        70        80        90             100       110
+
+
+               110       120       130       140       150       160
+         HHHCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHCHHH
+1e12A00  LLADVDLGSLFTVIAADIGMCVTGLAAAMTTSALLFRWAFYAISCAFFVVVLSALVTDWA
+         || | | |       ||  |  |||  | |      |    ||| |     |  |     
+Query    LLVDADQGTILALVGADGIMIGTGLVGALTKVY-SYRFVWWAISTAAMLYILYVLFFGFT
+         HHCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCC-HHHHHHHHHHHHHHHHHHHHHHHHHH
+               120       130       140        150       160       170
+
+
+                 170       180       190       200       210       
+         HHHHHHC--CHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCHHHHHHHHHHHHHHHC
+1e12A00  ASASSAG--TAEIFDTLRVLTVVLWLGYPIVWAVGVEGLALVQSVGATSWAYSVLDVFAK
+           | |     |  |  ||  |||||  || ||  | ||   |           |||| ||
+Query    SKAESMRPEVASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIV-PLNIETLLFMVLDVSAK
+         HHHHHCCHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCC-CHHHHHHHHHHHHHHHH
+                180       190       200       210        220       
+
+
+                 230                    
+         HHHHHHHHHHHHHCHHHHHC-------------
+1e12A00  YVFAFILLRWVANNERTVAV-------------
+           |  ||||  |      |              
+Query    VGFGLILLRSRAIFGEAEAPEPSAGDGAAATSD
+         HHHHHHHHHHHHHHCCCCCCCCCCCCCCCCCCC
+                 240       250       260
+
+
+Percentage Identity = 31.8.
+
+
+
+>>> Alignment with 1xioA00:
+                                   10        20        30         40
+         ------------------CCHHHHHHHHHHHHHHHHHHHHHHHHCCCCCC-CHHHHHHHH
+1xioA00  ------------------MNLESLLHWIYVAGMTIGALHFWSLSRNPRGV-PQYEYLVAM
+                              |        | |  | | |               |    
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+                 10        20        30        40        50        60
+
+
+                50                     60        70        80      
+         HHHHHHHHHHHHHHHCCC-------------CHHHHHHHHHHHHHHHHHHHHHHCCCCCC
+1xioA00  FIPIWSGLAYMAMAIDIA-------------HYARYIDWMVTTPLLLLSLSWTAMQFIKK
+           |      |  |                    ||| ||  ||||||| |          
+Query    LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDA----
+         HHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHHCCC----
+                 70        80        90       100       110        
+
+
+                  100       110       120       130       140      
+         CHHHHHHHHHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHHHHHHHCHHHHHHCCC
+1xioA00  DWTLIGFLMSTQIVVITSGLIADLSERDWVRYLWYICGVCAFLIILWGIWNPLRAKTRTQ
+         |   |  |       |  ||   |      |  |      | | ||         |    
+Query    DQGTILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESM
+         CHHHHHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHC
+          120       130       140       150       160       170    
+
+
+                  160       170       180       190       200      
+         CHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHC-CHHHHHH
+1xioA00  SSELANLYDKLVTYFTVLWIGYPIVWIIGPSGFGWINQTIDTFLFCLLPFFS-VGFSFLD
+           | |     |     |||  || || ||  | |     | | ||  |     |||    
+Query    RPEVASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLIL
+         CHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHH
+          180       190       200       210       220       230    
+
+
+         210                     
+         HHHHHHCCC-----------------
+1xioA00  LHGLRNLND-----------------
+         |                         
+Query    LRSRAIFGEAEAPEPSAGDGAAATSD
+         HHHHHHHCCCCCCCCCCCCCCCCCCC
+          240       250       260
+
+
+Percentage Identity = 27.8.
+
+
+
+>>> Alignment with 4hyjA00:
+                              10        20        30         40    
+         -------------CCCHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCC-CCHHHHHHHH
+4hyjA00  -------------EVNLLVLATQYMFWVGFVGMAAGTLYFLVERNSLAP-EYRSTATVAA
+                                     |   |  |||||||                  
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+                 10        20        30        40        50        60
+
+
+           50        60         70        80        90       100   
+         HHHHHHHHHHHHHHHHHC-CCCCCCCCCCCHHHHHHHHHHHHHHHHHCHHHHHHCCCCHH
+4hyjA00  LVTFVAAIHYYFMKDAVG-TSGLLSEIDGFPTEIRYIDWLVTTPLLLVKFPLLLGRLGRP
+         ||   |   |  |    | |              || ||| ||||||    ||       
+Query    LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVD-ADQG
+         HHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHHCC-CCHH
+                 70        80        90       100       110        
+
+
+           110       120       130       140       150       160   
+         HHHHHHHHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHCCHHHHHHC
+4hyjA00  LLTKLVIADVIMIVGGYIGESSINIAGGFTQLGLWSYLIGCFAWIYIIYLLFTNVTKAAE
+             || || |||  |  |                   |   |  || | ||   |  ||
+Query    TILALVGADGIMIGTGLVGAL-----TKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAE
+         HHHHHHHHHHHHHHHHHHHHH-----CCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                 130       140            150       160       170  
+
+
+           170       180       190       200       210       220   
+         CCCHHHHHHHHHHHHHHHCHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHHHHHHHH
+4hyjA00  NKPAPIRDALLKMRLFILIGWAIYPIGYAVTLFAPGVEIQLVRELIYNFADLTNKVGFGL
+                      |      |  ||          |        |     |   ||||||
+Query    SMRPEVASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGL
+         HCCHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHH
+            180       190       200       210       220       230  
+
+
+           230                     
+         HHHHHHHHCCC-----------------
+4hyjA00  IAFFAVKTMSS-----------------
+         |                           
+Query    ILLRSRAIFGEAEAPEPSAGDGAAATSD
+         HHHHHHHHHCCCCCCCCCCCCCCCCCCC
+            240       250       260
+
+
+Percentage Identity = 26.3.
+
+
+
+>>> Alignment with 2l6xA00:
+                                  10        20        30         40
+         -----------------CCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCC-CCH
+2l6xA00  -----------------MGGGDLDASDYTGVSFWLVTAALLASTVFFFVERDRVSA-KWK
+                           |               | ||     |  | |    ||    |
+Query    MLELLPTAVEGVSQAQITGRPE-------WIWLALGTALMGLGTLYFLVKGMGVSDPDAK
+         CCCCCCCCCCCCCEEECCCCCH-------HHHHHHHHHHHHHHHHHHHHHHCCCCCHHHH
+                 10        20               30        40        50 
+
+
+               50        60              70         80        90   
+         HHHHHHHHHHHHHHHHHHHHHHHH------HHHCCCC-HHHHHHHHHHHHHHHHHHHHHH
+2l6xA00  TSLTVSGLVTGIAFWHYMYMRGVW------IETGDSP-TVFRYIDWLLTVPLLICEFYLI
+                ||  |||  |  |                |    || ||| | |||     | 
+Query    KFYAITTLVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALL
+         HHHHHHHHHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHH
+              60        70        80        90       100       110 
+
+
+           100       110       120       130         140       150 
+         HHCCCCCCCHHHHHHHHHHHHHHHHHHHHHHCCCCC--CCHHHHHHHHHHHHHHHHCCCC
+2l6xA00  LAAATNVAGSLFKKLLVGSLVMLVFGYMGEAGIMAA--WPAFIIGCLAWVYMIYELWAGE
+           |           |      |   |  |              |   |  |  | |  | 
+Query    VDAD----QGTILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGF
+         CCCC----HHHHHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHH
+                 120       130       140       150       160       
+
+
+             160       170       180       190       200       210 
+         CCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCHHHHHHHHHHHHHHC
+2l6xA00  GKSACNTASPAVQSAYNTMMYIIIFGWAIYPVGYFTGYLMGDGGSALNLNLIYNLADFVN
+            |     | | |            |  |||    |             |     |   
+Query    TSKA-ESMRPEVASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSA
+         HHHH-HHCCHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHH
+                  180       190       200       210       220      
+
+
+             220       230               
+         CHHHHHHHHHHHHHHHHCCCCC------------
+2l6xA00  KILFGLIIWNVAVKESSNAPGG------------
+         |  ||||                           
+Query    KVGFGLILLRSRAIFGEAEAPEPSAGDGAAATSD
+         HHHHHHHHHHHHHHHCCCCCCCCCCCCCCCCCCC
+                  240       250       260
+
+
+Percentage Identity = 23.4.
+
+
+
+>>> Alignment with 5b2nA00:
+                   10            20        30        40         50 
+         --CCHHHHCCCCHHHHHHHH----HHHHHHHHHHHHHHHHHHHHHHHCC-HHHHHHHHHH
+5b2nA00  --KNIESLFDYSAGQFEFID----HLLTMGVGVHFAALIFFLVVSQFVA-PKYRIATALS
+                       |           |  |          |||    |  |      |  
+Query    MLELLPTAVE-GVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAIT
+         CCCCCCCCCC-CCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHH
+                 10         20        30        40        50       
+
+
+              60        70        80        90       100       110 
+         HHHHHHHHHHHHHHHHHHHHHEEEECCEEEECCCCCCCHHHHHHHHHHHHHHHHHHHHHC
+5b2nA00  CIVMVSAGLILNSQAVMWTDAYAYVDGSYQLQDLTFSNGYRYVNWMATIPCLLLQLLIVL
+           |   |     |             |             ||  |  | | ||| |    
+Query    TLVPAIAFTMYLSMLLGYGLTMVPFGG-----EQNPIYWARYADWLFTTPLLLLDLALLV
+         HHHHHHHHHHHHHHHCCCCEEEEECCC-----CCCCEEHHHHHHHHHHHHHHHHHHHHHC
+                  70        80             90       100       110  
+
+
+             120       130       140       150       160       170 
+         CCCHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHH
+5b2nA00  NLKGKELFSTATWLILAAWGMIITGYVGQLYEVDDIAQLMIWGAVSTAFFVVMNWIVGTK
+                  |   |  |   || || || |           | | |||            
+Query    DAD----QGTILALVGADGIMIGTGLVGAL--TKVYSYRFVWWAISTAAMLYILYVLFFG
+         CCC----HHHHHHHHHHHHHHHHHHHHHHH--CCCCHHHHHHHHHHHHHHHHHHHHHHHH
+                120       130       140         150       160      
+
+
+             180       190       200       210       220       230 
+         HHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHCHHHHCCCHHHHHHHHHHHHHHHHHH
+5b2nA00  IFKNRATMLGGTDSTITKVFWLMMFAWTLYPIAYLVPAFMNNADGVVLRQLLFTIADISS
+                |     ||           |  ||   |               |||   | | 
+Query    FTSKAESMRPEVASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSA
+         HHHHHHHCCHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHH
+                  180       190       200       210       220      
+
+
+             240       250       260     
+         HHHHHHHHHHHHHHHHHHCCCHHHHHHHHC----
+5b2nA00  KVIYGLMITYIAIQQSAAAGYVPAQQALGR----
+         ||  ||           |    |           
+Query    KVGFGLILLRSRAIFGEAEAPEPSAGDGAAATSD
+         HHHHHHHHHHHHHHHCCCCCCCCCCCCCCCCCCC
+                  240       250       260
+
+
+Percentage Identity = 21.0.
+
+
+
+>>> Alignment with 3ug9A02:
+                                10        20                  30   
+         ---------------CHHHHHHHHHHHHHHHHHHHHHHHCC----------CHHHHHHHH
+3ug9A02  ---------------NAEKLAANILQWITFALSALCLMFYC----------GWEEIYVAT
+                                |      ||  |                        |
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+                 10        20        30        40        50        60
+
+
+            40        50        60           70        80        90
+         HHHHCCCHHHHHCCCCCCCEECCCC---CEECHHHHHHHHHHHHHHHHHHCCCCCCCCCC
+3ug9A02  IEMIK-IIEYFHEFDEPAVIYSSNG---NKTVWLRYAEWLLTCPVILIHLSNLTGLANDY
+                  |              |   |   | ||| || | |  |  |  |       
+Query    LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQ--
+         HHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHHCCCCH--
+                 70        80        90       100       110        
+
+
+              100       110        120       130       140       150
+         CHHHHHHHHHHHHHHHHHHHHHHCC-HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCC
+3ug9A02  NKRTMGLLVSDIGTIVWGTTAALSK-GYVRVIFFLMGLCYGIYTFFNAAKVYIEAYHTVP
+               |   |   |  |   || |    |            |                 
+Query    -GTILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMR
+         -HHHHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCC
+         120       130       140       150       160       170     
+
+
+               160       170       180       190       200       210
+         CCHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHCHHHHHHH
+3ug9A02  KGRCRQVVTGMAWLFFVSWGMFPILFILGPEGFGVLSVYGSTVGHTIIDLMSKNCWGLLG
+                         | |   |     | || |       |      |   |   ||  
+Query    -PEVASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLIL
+         -HHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHH
+          180       190       200       210       220       230    
+
+
+               220               
+         HHHHHHHHHHHHHC------------
+3ug9A02  HYLRVLIHEHILIH------------
+            |    |                 
+Query    LRSRAIFGEAEAPEPSAGDGAAATSD
+         HHHHHHHCCCCCCCCCCCCCCCCCCC
+          240       250       260
+
+
+Percentage Identity = 18.7.
+
+
+
+>>> Alignment with 3x3bA00:
+                                  10        20        30        40 
+         -----------------CCCCCHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHH
+3x3bA00  -----------------LGNANFENFIGATEGFSEIAYQFTSHILTLGYAVMLAGLLYFI
+                           |                         | || | |  | ||| 
+Query    MLELLPTAVEGVSQAQITGRP-------------------EWIWLALGTALMGLGTLYFL
+         CCCCCCCCCCCCCEEECCCCC-------------------HHHHHHHHHHHHHHHHHHHH
+                 10        20                           30        40
+
+
+               50        60        70        80        90       100
+         HCCCCC-CHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHEEEECCCCEEEECCCCCCCC-
+3x3bA00  LTIKNV-DKKFQMSNILSAVVMVSAFLLLYAQAQNWTSSFTFNEEVGRYFLDPSGDLFN-
+              | |            |   ||                    |       |     
+Query    VKGMGVSDPDAKKFYAITTLVPAIAFTMYLSMLLGY----------GLTMVPFGGEQNPI
+         HHHCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHCCC----------CEEEEECCCCCCCE
+                50        60        70                  80        90
+
+
+               110       120       130       140       150       160
+         CHHHHHHHHHHHHHHHHHHHHCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHCCCCHH
+3x3bA00  NGYRYLNWLIDVPMLLFQILFVVSLTTSKFSSVRNQFWFSGAMMIITGYIGQFYEVSNLT
+            ||  ||   | ||      |                    || ||  |    |    
+Query    YWARYADWLFTTPLLLLDLALLVDAD----QGTILALVGADGIMIGTGLVGALTKVY--S
+         EHHHHHHHHHHHHHHHHHHHHHCCCC----HHHHHHHHHHHHHHHHHHHHHHHCCCC--H
+               100       110           120       130       140     
+
+
+               170       180       190       200       210       220
+         HHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+3x3bA00  AFLVWGAISSAFFFHILWVMKKVINEGKEGISPAGQKILSNIWILFLISWTLYPGAYLMP
+            || ||| |    || |         |   |                |  ||   |  
+Query    YRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEVASTFKVLRNVTVVLWSAYPVVWLIG
+         HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHHHHHHHHHHHHHHHHHHHHHHHHHHC
+           150       160       170       180       190       200   
+
+
+               230       240       250       260       270         
+         HCCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCC----------
+3x3bA00  YLTGVDGFLYSEDGVMARQLVYTIADVSSKVIYGVLLGNLAITLSKNKEL----------
+                            |     ||| ||  |  |                       
+Query    SEGA------GIVPLNIETLLFMVLDVSAKVGFGLILLRSRAIFGEAEAPEPSAGDGAAA
+         CCCC------CCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCCCCCCC
+                 210       220       230       240       250       
+
+
+          
+         ---
+3x3bA00  ---
+            
+Query    TSD
+         CCC
+          
+
+
+Percentage Identity = 20.6.
+
+
+
+>>> Alignment with 1bctA00:
+                                                                   
+         ------------------------------------------------------------
+1bctA00  ------------------------------------------------------------
+                                                                     
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+                 10        20        30        40        50        60
+
+
+                                                                   
+         ------------------------------------------------------------
+1bctA00  ------------------------------------------------------------
+                                                                     
+Query    LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGT
+         HHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHHCCCCHHH
+                 70        80        90       100       110       120
+
+
+                                                                   
+         -------------------------------------------------------CCCCH
+1bctA00  -------------------------------------------------------MRPEV
+                                                                |||||
+Query    ILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEV
+         HHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHH
+                130       140       150       160       170       180
+
+
+            10        20        30        40        50        60   
+         HHHHHHHHHHHHHHHHHHHHHHHHCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+1bctA00  ASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSR
+         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query    ASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSR
+         HHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                190       200       210       220       230       240
+
+
+                             
+         HHHC------------------
+1bctA00  AIFG------------------
+         ||||                  
+Query    AIFGEAEAPEPSAGDGAAATSD
+         HHHCCCCCCCCCCCCCCCCCCC
+                250       260
+
+
+Percentage Identity = 100.0.
+
+
+
+>>> Alignment with 1bhaA00:
+                               10        20        30          40  
+         --------------CCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHCC--HHHHHHHHHH
+1bhaA00  --------------AQITGRPEWIWLALGTALMGLGTLYFLVKGMGVP--DAKKFYAITT
+                       |||||||||||||||||||||||||||||||||   ||||||||||
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+                 10        20        30        40        50        60
+
+
+             50        60                                          
+         CHHHHHHHHHHHHHCCCCCCCCC-------------------------------------
+1bhaA00  LVPAIAFTMYLSMLLGYGLTMVP-------------------------------------
+         |||||||||||||||||||||||                                     
+Query    LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGT
+         HHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHHCCCCHHH
+                 70        80        90       100       110       120
+
+
+                                                                   
+         ------------------------------------------------------------
+1bhaA00  ------------------------------------------------------------
+                                                                     
+Query    ILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEV
+         HHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHH
+                130       140       150       160       170       180
+
+
+                                                                   
+         ------------------------------------------------------------
+1bhaA00  ------------------------------------------------------------
+                                                                     
+Query    ASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSR
+         HHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                190       200       210       220       230       240
+
+
+                             
+         ----------------------
+1bhaA00  ----------------------
+                               
+Query    AIFGEAEAPEPSAGDGAAATSD
+         HHHCCCCCCCCCCCCCCCCCCC
+                250       260
+
+
+Percentage Identity = 98.5.
+
+
+
+>>> Alignment with 1hqvA00:
+                                                                   
+         ------------------------------------------------------------
+1hqvA00  ------------------------------------------------------------
+                                                                     
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+                 10        20        30        40        50        60
+
+
+                                                                   
+         ------------------------------------------------------------
+1hqvA00  ------------------------------------------------------------
+                                                                     
+Query    LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGT
+         HHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHHCCCCHHH
+                 70        80        90       100       110       120
+
+
+                                                                   
+         ------------------------------------------------------------
+1hqvA00  ------------------------------------------------------------
+                                                                     
+Query    ILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEV
+         HHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHH
+                130       140       150       160       170       180
+
+
+                                                                   
+         ------------------------------------------------------------
+1hqvA00  ------------------------------------------------------------
+                                                                     
+Query    ASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSR
+         HHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                190       200       210       220       230       240
+
+
+                         10        20        30        40        50
+         --------CCCCCCCCCCCCCCHHHHHHHHHHHCCCCCCCCCHHHHHHHCCCCCCCCCCH
+1hqvA00  --------PGPGGGPGPAALPDQSFLWNVFQRVDKDRSGVISDNELQQALSNGTWTPFNP
+                 | |  | | ||  |                                      
+Query    AIFGEAEAPEPSAGDGAAATSD--------------------------------------
+         HHHCCCCCCCCCCCCCCCCCCC--------------------------------------
+                250       260                                      
+
+
+               60        70        80        90       100       110
+         HHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHH
+1hqvA00  VTVRSIISMFDRENKAGVNFSEFTGVWKYITDWQNVFRTYDRDNSGMIDKNELKQALSGF
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+              120       130       140       150       160       170
+         CCCCCHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCCHHH
+1hqvA00  GYRLSDQFHDILIRKFDRQGRGQIAFDDFIQGCIVLQRLTDIFRRYDTDQDGWIQVSYEQ
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+             
+         HHHHHC
+1hqvA00  YLSMVF
+               
+Query    ------
+         ------
+             
+
+
+Percentage Identity = 3.9.
+
+
+
+>>> Alignment with 2wngA02:
+                                                                   
+         ------------------------------------------------------------
+2wngA02  ------------------------------------------------------------
+                                                                     
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+                 10        20        30        40        50        60
+
+
+                                                                   
+         ------------------------------------------------------------
+2wngA02  ------------------------------------------------------------
+                                                                     
+Query    LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGT
+         HHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHHCCCCHHH
+                 70        80        90       100       110       120
+
+
+                                                                   
+         ------------------------------------------------------------
+2wngA02  ------------------------------------------------------------
+                                                                     
+Query    ILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEV
+         HHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHH
+                130       140       150       160       170       180
+
+
+                                                                   
+         ------------------------------------------------------------
+2wngA02  ------------------------------------------------------------
+                                                                     
+Query    ASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSR
+         HHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                190       200       210       220       230       240
+
+
+                          10        20        30        40        50
+         ---------CCCCCEEECCCCCCCCCCEEEEEEEEEEECCCCCEEEEEECCEECCCEEEE
+2wngA02  ---------KPSAPVVSGPAARATPQHTVSFTCESHGFSPRDITLKWFKNGNELSDFQTN
+                   |||    |  | ||                                    
+Query    AIFGEAEAPEPSA----GDGAAATSD----------------------------------
+         HHHCCCCCCCCCC----CCCCCCCCC----------------------------------
+                250           260                                  
+
+
+                60        70        80        90       100     
+         EECCCCCCCEEEEEEEEEECCCCCCCCEEEEEEECCCCCCCCEEEEEECCCCCCCC
+2wngA02  VDPVGESVSYSIHSTAKVVLTREDVHSQVICEVAHVTLQGDPLRGTANLSETIRVP
+                                                                 
+Query    --------------------------------------------------------
+         --------------------------------------------------------
+                                                               
+
+
+Percentage Identity = 6.5.
+
+
+
+>>> Alignment with 1h32B00:
+                                                                   
+         ------------------------------------------------------------
+1h32B00  ------------------------------------------------------------
+                                                                     
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+                 10        20        30        40        50        60
+
+
+                                                                   
+         ------------------------------------------------------------
+1h32B00  ------------------------------------------------------------
+                                                                     
+Query    LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGT
+         HHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHHCCCCHHH
+                 70        80        90       100       110       120
+
+
+                                                                   
+         ------------------------------------------------------------
+1h32B00  ------------------------------------------------------------
+                                                                     
+Query    ILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEV
+         HHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHH
+                130       140       150       160       170       180
+
+
+                                                                   
+         ------------------------------------------------------------
+1h32B00  ------------------------------------------------------------
+                                                                     
+Query    ASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSR
+         HHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                190       200       210       220       230       240
+
+
+                      10        20        30        40        50   
+         -----CCCCCCCCCCCCCCCCCCCCCCCCCCHHHHHHHHHCCCCCCCCCCCCCCCCCCCC
+1h32B00  -----AEVAPGDVAIDGQGHVARPLTDAPGDPVEGRRLMTDRSVGNCIACHEVTEMQFPG
+              || ||   | ||                                           
+Query    AIFGEAE-APEPSAGDGAAATSD-------------------------------------
+         HHHCCCC-CCCCCCCCCCCCCCC-------------------------------------
+                 250       260                                     
+
+
+            60        70        80        90       100       110   
+         CCCCCCCCHHHHCCHHHHHHHHHCHHHHCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+1h32B00  TVGPSLDGVAARYPEAMIRGILVNSKNVFPETVMPAYYRVEGFNRPGIAFTSKPIEGEIR
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+           120       130   
+         CCCCHHHHHHHHHHHCCCCC
+1h32B00  PLMTAGQIEDVVAYLMTLT-
+                             
+Query    --------------------
+         --------------------
+                           
+
+
+Percentage Identity = 5.2.
+
+
+
+>>> Alignment with 3hbzA01:
+                                                                   
+         ------------------------------------------------------------
+3hbzA01  ------------------------------------------------------------
+                                                                     
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+                 10        20        30        40        50        60
+
+
+                                                                   
+         ------------------------------------------------------------
+3hbzA01  ------------------------------------------------------------
+                                                                     
+Query    LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGT
+         HHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHHCCCCHHH
+                 70        80        90       100       110       120
+
+
+                                                                   
+         ------------------------------------------------------------
+3hbzA01  ------------------------------------------------------------
+                                                                     
+Query    ILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEV
+         HHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHH
+                130       140       150       160       170       180
+
+
+                                                                   
+         ------------------------------------------------------------
+3hbzA01  ------------------------------------------------------------
+                                                                     
+Query    ASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSR
+         HHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                190       200       210       220       230       240
+
+
+                    10        20        30        40        50     
+         ---CCCCCCCCCCCEEEEECCCCCCCCCEECCCEEEEECCCCCCCCCCCCEEEECCCCEE
+3hbzA01  ---GREEAPNAEADILSCRLPGVVTTSPIITNNSINIFVGPGTDISSLAPEFTLTPGATI
+            |  |||   |        |   ||                                 
+Query    AIFGEAEAPEPSAG------DGAAATSD--------------------------------
+         HHHCCCCCCCCCCC------CCCCCCCC--------------------------------
+                250             260                                
+
+
+          60        70        80        90 
+         ECCCCCCCCCCCCEEEEEECCCCCCEEEEEEEEECC
+3hbzA01  DPPSGTARDFHSPQQYTVTAADGFWKKKYTVSVIDT
+                                             
+Query    ------------------------------------
+         ------------------------------------
+                                           
+
+
+Percentage Identity = 8.6.
+
+
+
+>>> Alignment with 1weuA00:
+                                                                   
+         ------------------------------------------------------------
+1weuA00  ------------------------------------------------------------
+                                                                     
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+                 10        20        30        40        50        60
+
+
+                                                                   
+         ------------------------------------------------------------
+1weuA00  ------------------------------------------------------------
+                                                                     
+Query    LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGT
+         HHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHHCCCCHHH
+                 70        80        90       100       110       120
+
+
+                                                                   
+         ------------------------------------------------------------
+1weuA00  ------------------------------------------------------------
+                                                                     
+Query    ILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEV
+         HHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHH
+                130       140       150       160       170       180
+
+
+                                                                   
+         ------------------------CCCCCC------------------------------
+1weuA00  ------------------------GSSGSS------------------------------
+                                 || |                                
+Query    ASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSR
+         HHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                190       200       210       220       230       240
+
+
+              10        20        30        40        50        60 
+         ---CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+1weuA00  ---GSPEYGMPSVTFGSVHPSDVLDMPVDPNEPTYCLCHQVSYGEMIGCDNPDCSIEWFH
+            |  |   ||   |    ||                                      
+Query    AIFGEAEAPEPSAGDGAAATSD--------------------------------------
+         HHHCCCCCCCCCCCCCCCCCCC--------------------------------------
+                250       260                                      
+
+
+              70        80        90
+         CCCCCCCCCCCCCCCCCCCCCCCCCCCC
+1weuA00  FACVGLTTKPRGKWFCPRCSQESGPSSG
+                                     
+Query    ----------------------------
+         ----------------------------
+                                   
+
+
+Percentage Identity = 11.0.
+
+
+
+>>> Alignment with 1w7oA00:
+                                                                   
+         ------------------------------------------------------------
+1w7oA00  ------------------------------------------------------------
+                                                                     
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+                 10        20        30        40        50        60
+
+
+                                                                   
+         ------------------------------------------------------------
+1w7oA00  ------------------------------------------------------------
+                                                                     
+Query    LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGT
+         HHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHHCCCCHHH
+                 70        80        90       100       110       120
+
+
+                                                                   
+         ------------------------------------------------------------
+1w7oA00  ------------------------------------------------------------
+                                                                     
+Query    ILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEV
+         HHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHH
+                130       140       150       160       170       180
+
+
+                                                                   
+         ------------------------------------------------------------
+1w7oA00  ------------------------------------------------------------
+                                                                     
+Query    ASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSR
+         HHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                190       200       210       220       230       240
+
+
+                      10        20        30        40        50   
+         -----CCCCCCCCEECCCCCCCCCCCCCCCCCCCCCEECCHHHHCCCCHHHHCCCCCCCC
+1w7oA00  -----ADAPGDDYVISAPEGMKAKPKGDKPGALQKTVPFPHSKHATVECAQCHHTLEADG
+              | ||      ||  |  |                                     
+Query    AIFGEAEAPEP----SAGDGAAATSD----------------------------------
+         HHHCCCCCCCC----CCCCCCCCCCC----------------------------------
+                250           260                                  
+
+
+            60        70        80        90       100       110   
+         CCCCCCCCCCCCCCCCCCCCCCCCCCCCHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHC
+1w7oA00  GAVKKCTTSGCHDSLEFRDKANAKDIKLVENAYHTQCIDCHKALKKDKKPTGPTACGKCH
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+          
+         CCC
+1w7oA00  TTN
+            
+Query    ---
+         ---
+          
+
+
+Percentage Identity = 5.9.
+
+
+
+>>> Alignment with 1okgA03:
+                                                                   
+         ------------------------------------------------------------
+1okgA03  ------------------------------------------------------------
+                                                                     
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+                 10        20        30        40        50        60
+
+
+                                                                   
+         ------------------------------------------------------------
+1okgA03  ------------------------------------------------------------
+                                                                     
+Query    LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGT
+         HHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHHCCCCHHH
+                 70        80        90       100       110       120
+
+
+                                                                   
+         ------------------------------------------------------------
+1okgA03  ------------------------------------------------------------
+                                                                     
+Query    ILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEV
+         HHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHH
+                130       140       150       160       170       180
+
+
+                                                                   
+         ------------------------------------------------------------
+1okgA03  ------------------------------------------------------------
+                                                                     
+Query    ASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSR
+         HHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                190       200       210       220       230       240
+
+
+                        10        20        30        40        50 
+         -------CCCCCCCCCCCCCCCCCCEECCCCCCCCHHHHHHHCCCCCCCEEEEECCCCCE
+1okgA03  -------QQTPSLGDNPKANLDTTLKVDGAPERPDAEVQSAATHLHAGEAATVYFKSGRV
+                   || ||   |  |                                      
+Query    AIFGEAEAPEPSAGDGAAATSD--------------------------------------
+         HHHCCCCCCCCCCCCCCCCCCC--------------------------------------
+                250       260                                      
+
+
+              60    
+         EEEECCCCCCCCC
+1okgA03  VTIEVPVVPNLEA
+                      
+Query    -------------
+         -------------
+                    
+
+
+Percentage Identity = 9.1.
+
+
+
+>>> Alignment with 2mf9A00:
+                                                                   
+         ------------------------------------------------------------
+2mf9A00  ------------------------------------------------------------
+                                                                     
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+                 10        20        30        40        50        60
+
+
+                                                                   
+         ------------------------------------------------------------
+2mf9A00  ------------------------------------------------------------
+                                                                     
+Query    LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGT
+         HHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHHCCCCHHH
+                 70        80        90       100       110       120
+
+
+                                                                   
+         ------------------------------------------------------------
+2mf9A00  ------------------------------------------------------------
+                                                                     
+Query    ILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEV
+         HHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHH
+                130       140       150       160       170       180
+
+
+                                                                   
+         ------------------------------------------------------------
+2mf9A00  ------------------------------------------------------------
+                                                                     
+Query    ASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSR
+         HHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                190       200       210       220       230       240
+
+
+                   10        20        30        40        50      
+         --CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCEECCCCCCEEEEEEECCCCCCC
+2mf9A00  --MGQPPAEEAEQPGALAREFLAAMEPEPAPAPAPEEWLDILGNGLLRKKTLVPGPPGSS
+            |     ||| |   |    ||                                    
+Query    AIFG-----EAEAPEPSAGDGAAATSD---------------------------------
+         HHHC-----CCCCCCCCCCCCCCCCCC---------------------------------
+                     250       260                                 
+
+
+                   70        80        90       100       110      
+         CCCCCCEEEEEEEEECCCCCEEEEEEEEEEECCCCCCCHHHHHHCCCCCCCCEEEEEEEC
+2mf9A00  RPVKGQVVTVHLQTSLENGTRVQEEPELVFTLGDCDVIQALDLSVPLMDVGETAMVTADS
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+                  130       140       150     
+         CCCCCCCCCCCCCCCCCCEEEEEEEEEEEECCCCCCCCC
+2mf9A00  KYCYGPQGSRSPYIPPHAALCLEVTLKTAVDLEHHHHHH
+                                                
+Query    ---------------------------------------
+         ---------------------------------------
+                                              
+
+
+Percentage Identity = 5.1.
+
+
+
+>>> Alignment with 1c41A00:
+                                                                   
+         ------------------------------------------------------------
+1c41A00  ------------------------------------------------------------
+                                                                     
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+                 10        20        30        40        50        60
+
+
+                                                                   
+         ------------------------------------------------------------
+1c41A00  ------------------------------------------------------------
+                                                                     
+Query    LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGT
+         HHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHHCCCCHHH
+                 70        80        90       100       110       120
+
+
+                                                                   
+         ------------------------------------------------------------
+1c41A00  ------------------------------------------------------------
+                                                                     
+Query    ILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEV
+         HHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHH
+                130       140       150       160       170       180
+
+
+                                                                   
+         ------------------------------------------------------------
+1c41A00  ------------------------------------------------------------
+                                                                     
+Query    ASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSR
+         HHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                190       200       210       220       230       240
+
+
+                        10           20        30        40        50
+         -------CCCCCCCCCCC---CCEEEEEECCCHHHHHHHHHHHHHHHHHCCCCCCCEEEE
+1c41A00  -------GPTPQQHDGSA---LRIGIVHARWNETIIEPLLAGTKAKLLACGVKESNIVVQ
+                 | |   || |                                          
+Query    AIFGEAEAPEPSAGDGAAATSD--------------------------------------
+         HHHCCCCCCCCCCCCCCCCCCC--------------------------------------
+                250       260                                      
+
+
+                 60        70        80        90       100       110
+         EECCCCHHHHHHHHHHHHHHHCCCCCCCEEEEEEEEECCCCCHHHHHHHHHHHHHHHHHH
+1c41A00  SVPGSWELPIAVQRLYSASQLQSTGPFDALIAIGVLIKGETMHFEYIADSVSHGLMRVQL
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+                120       130       140       150       160   
+         HHCCCEEEEEEEECCHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHCCCC
+1c41A00  DTGVPVIFGVLTVLTDDQAKARAGVIEGSHNHGEDWGLAAVEMGVRRRDWAAGKT
+                                                                
+Query    -------------------------------------------------------
+         -------------------------------------------------------
+                                                              
+
+
+Percentage Identity = 3.0.
+
+
+
+>>> Alignment with 3g64A01:
+                                                                   
+         ------------------------------------------------------------
+3g64A01  ------------------------------------------------------------
+                                                                     
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+                 10        20        30        40        50        60
+
+
+                                                                   
+         ------------------------------------------------------------
+3g64A01  ------------------------------------------------------------
+                                                                     
+Query    LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGT
+         HHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHHCCCCHHH
+                 70        80        90       100       110       120
+
+
+                                                                   
+         ------------------------------------------------------------
+3g64A01  ------------------------------------------------------------
+                                                                     
+Query    ILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEV
+         HHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHH
+                130       140       150       160       170       180
+
+
+                                                                   
+         ------------------------------------------------------------
+3g64A01  ------------------------------------------------------------
+                                                                     
+Query    ASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSR
+         HHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                190       200       210       220       230       240
+
+
+                           10        20        30        40        50
+         ---------CCCCCC-CCCCCCCCCEEEEEECCEEEEEECCCCCCCCCCHHHHHHHHHHH
+3g64A01  ---------SPFTGS-AAPTPEWRHLRVEITDGVATVTLARPDKLNALTFEAYADLRDLL
+                   |  |  || |                                        
+Query    AIFGEAEAPEPSAGDGAAATSD--------------------------------------
+         HHHCCCCCCCCCCCCCCCCCCC--------------------------------------
+                250       260                                      
+
+
+                 60        70        80        90       100       110
+         HHHHHCCCCCEEEEEECCCCCCCCCCCCCCHHHHCCCCCCHHHHCCCCHHHHHCCCCEEE
+3g64A01  AELSRRRAVRALVLAGEGRGFCSGGDVDEIIGATLSDTALLDFNRTGVVRAVREPFPVIA
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+                120       130       140       150       160       170
+         EECCEEECHHHHHHHHCCEEEECCCCEEECCHHHHCCCCCCCHHHHHHHHHCHHHHHHHC
+3g64A01  ALHGVAAGAGAVLALAADFRVADPSTRFAFLFTRVGLSGGDGAAYLLPRVVGLGHATRLL
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+                180       190       200     
+         CCCCCCHHHHHHCCCCEECCCCCHHHHHHHHHHHHHC
+3g64A01  LGDTVAPEAERIGLISELTEEGRADEAARTLARRLAD
+                                              
+Query    -------------------------------------
+         -------------------------------------
+                                            
+
+
+Percentage Identity = 2.4.
+
+
+
+>>> Alignment with 1z9mB00:
+                                                                   
+         ------------------------------------------------------------
+1z9mB00  ------------------------------------------------------------
+                                                                     
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+                 10        20        30        40        50        60
+
+
+                                                                   
+         ------------------------------------------------------------
+1z9mB00  ------------------------------------------------------------
+                                                                     
+Query    LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGT
+         HHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHHCCCCHHH
+                 70        80        90       100       110       120
+
+
+                                                                   
+         ------------------------------------------------------------
+1z9mB00  ------------------------------------------------------------
+                                                                     
+Query    ILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEV
+         HHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHH
+                130       140       150       160       170       180
+
+
+                                                                   
+         ------------------------------------------------------------
+1z9mB00  ------------------------------------------------------------
+                                                                     
+Query    ASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSR
+         HHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                190       200       210       220       230       240
+
+
+                            10        20        30        40       
+         -----------CCCCCCCCCCCEEEECCCCEEEEEECCCCCCCCEEEECCCCCEEEECCE
+1z9mB00  -----------SQDDSQPWTSDETVVAGGTVVLKCQVKDHEDSSLQWSNPAQQTLYFGEK
+                    |  |    |||                                      
+Query    AIFGEAEAPEPSAGDGAAATSD--------------------------------------
+         HHHCCCCCCCCCCCCCCCCCCC--------------------------------------
+                250       260                                      
+
+
+                  60        70        80        90       100   
+         ECCCCCCEEEEEEECCEEEEEECCCCCCCCEEEEEEECCCCCEEEEEEEEEECCCC
+1z9mB00  RALRDNRIQLVTSTPHELSISISNVALADEGEYTCSIFTMPVRTAKSLVTVLGIPQ
+                                                                 
+Query    --------------------------------------------------------
+         --------------------------------------------------------
+                                                               
+
+
+Percentage Identity = 4.8.
+
+
+
+>>> Alignment with 4hvlA00:
+                                                                   
+         ------------------------------------------------------------
+4hvlA00  ------------------------------------------------------------
+                                                                     
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+                 10        20        30        40        50        60
+
+
+                                                                   
+         ------------------------------------------------------------
+4hvlA00  ------------------------------------------------------------
+                                                                     
+Query    LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGT
+         HHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHHCCCCHHH
+                 70        80        90       100       110       120
+
+
+                                                                   
+         ------------------------------------------------------------
+4hvlA00  ------------------------------------------------------------
+                                                                     
+Query    ILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEV
+         HHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHH
+                130       140       150       160       170       180
+
+
+                                                                   
+         ------------------------------------------------------------
+4hvlA00  ------------------------------------------------------------
+                                                                     
+Query    ASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSR
+         HHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                190       200       210       220       230       240
+
+
+                        10        20        30        40        50 
+         -------CCCCCCCCCCCCCCCCCCCCCCEEECCCCCCCCCCCCCCCCCCCHHHHHHCHH
+4hvlA00  -------MIEPPVIDPAAVPPDETGPDNPMEQRRVCAAPTVYPDSNFADRPWASDYLRLT
+                  ||   | ||   |                                      
+Query    AIFGEAEAPEPSAGDGAAATSD--------------------------------------
+         HHHCCCCCCCCCCCCCCCCCCC--------------------------------------
+                250       260                                      
+
+
+              60        70        80        90       100       110 
+         HHCCCCCCCCCEEEEEECCCCCCCCCCCEEEEECCCCCCCCCCCCCCCHHHHHHHHHCCC
+4hvlA00  EAHKFATGAGITVAVIDTGVNGSPRVPAEPGGDFVDAAGNGMSDCDAHGTLTASVIAGRG
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+             120       130       140       150       160       170 
+         CCCCCCCCCCCCCEEEEEECCCCCEEECCCCCCCCCCCCCHHHHHHHHHHHHHHHHHHCC
+4hvlA00  APTDGFIGVAPDARILSLRHTSAAFQPVGARTDPNNPNTTQTAGSLRSLARAIVHAANLG
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+             180       190       200       210       220       230 
+         CCEEEECCCEEEECCCCCCCHHHHHHHHHHHHCCCCEEEEECCCCCCCCCCCCCCCCCCC
+4hvlA00  AQVINISEAACYKVTRPIDETGVGAAVNYAVHVKNAVVIAAAGNTGQDCTQNPPPDPAVP
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+             240       250       260       270       280       290 
+         CCCCCCCCCCEEEECCCCCCCCEEEEEECCCCCCCCCCCCCCCEEEEEECCCCCEECCCC
+4hvlA00  SDPRGWQQVQTIVSPAWYSPLVLTVGGIGPTGQPSNFSMSGPWVGAAAPAENITALGYGG
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+             300       310       320       330       340       350 
+         CEECEEECCCCEEECCCHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHCCCCCCCCCC
+4hvlA00  EPVNALQGQDGLVPVAGTSFAAAYVSGLAALIRQRYPDLTPAQVINRITATARHPGGGVD
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+             360       
+         CCCCCCCCCHHHHHHC
+4hvlA00  NYVGAGVIDPVAALTW
+                         
+Query    ----------------
+         ----------------
+                       
+
+
+Percentage Identity = 2.3.
+
+
+
+>>> Alignment with 4kmqA04:
+                                                                   
+         ------------------------------------------------------------
+4kmqA04  ------------------------------------------------------------
+                                                                     
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+                 10        20        30        40        50        60
+
+
+                                                                   
+         ------------------------------------------------------------
+4kmqA04  ------------------------------------------------------------
+                                                                     
+Query    LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGT
+         HHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHHCCCCHHH
+                 70        80        90       100       110       120
+
+
+                                                                   
+         ------------------------------------------------------------
+4kmqA04  ------------------------------------------------------------
+                                                                     
+Query    ILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEV
+         HHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHH
+                130       140       150       160       170       180
+
+
+                                                                   
+         ------------------------------------------------------------
+4kmqA04  ------------------------------------------------------------
+                                                                     
+Query    ASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSR
+         HHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                190       200       210       220       230       240
+
+
+                          10        20        30        40        50
+         -----CCCCC----CCCCCCCCCCCCCCCEEECCCCCCCCCCCCCCCCCCEEEECCCCCE
+4kmqA04  -----ADYPE----DVNARDLDEQYFGDDLLVAPIVQEGQTEKEVYLPEGEWVDIWNGGV
+              |  ||    |  |   |                                      
+Query    AIFGEAEAPEPSAGDGAAATSD--------------------------------------
+         HHHCCCCCCCCCCCCCCCCCCC--------------------------------------
+                250       260                                      
+
+
+                60        70
+         EECCCCCCCCCCCCCEEEEC
+4kmqA04  HPGGTIYYADVDTLPVFAKA
+                             
+Query    --------------------
+         --------------------
+                           
+
+
+Percentage Identity = 8.5.
+
+
+
+>>> Alignment with 4fzxC00:
+                 10        20        30        40        50        60
+         CEEEEEEECCCCCCEEEEEEEEEECCEEECCCEECCCCCCCCCCCCCCCCCCCCCCCCCH
+4fzxC00  LRIIDTETCGLQGGIVEIASVDVIDGKIVNPSHLVRPDRPISPQAAIHRITEAVADKPWI
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+                 70        80        90       100       110       120
+         HHHHHHHCCCCEEEECCHHHHHHHCCCCCEEEECCHHHHHCCCCCCCCCHHHHCCCCCCC
+4fzxC00  EDVIPHYYGSEWYVAHNASFDRRVLPEPGEWICTKLARRLWPGIKYSNALYKTRKLNVQT
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+                130       140       150                            
+         CCCCCCCCHHHHHHHHHHHHHHCCCCCCCC----CCCCCCC-------------------
+4fzxC00  PPGLHHHRALYDCYITAALLIDINTSGWTA----EQADITG-------------------
+                                     ||     || |||                   
+Query    ----------------------MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTL
+         ----------------------CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHH
+                                       10        20        30      
+
+
+                                                                   
+         ------------------------------------------------------------
+4fzxC00  ------------------------------------------------------------
+                                                                     
+Query    YFLVKGMGVSDPDAKKFYAITTLVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYAD
+         HHHHHHCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHH
+                   50        60        70        80        90      
+
+
+                                                                   
+         ------------------------------------------------------------
+4fzxC00  ------------------------------------------------------------
+                                                                     
+Query    WLFTTPLLLLDLALLVDADQGTILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAM
+         HHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHH
+                  110       120       130       140       150      
+
+
+                                                                   
+         ------------------------------------------------------------
+4fzxC00  ------------------------------------------------------------
+                                                                     
+Query    LYILYVLFFGFTSKAESMRPEVASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIET
+         HHHHHHHHHHHHHHHHHCCHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHH
+                  170       180       190       200       210      
+
+
+                                                   
+         --------------------------------------------
+4fzxC00  --------------------------------------------
+                                                     
+Query    LLFMVLDVSAKVGFGLILLRSRAIFGEAEAPEPSAGDGAAATSD
+         HHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCCCCCCCCCC
+                  230       240       250       260
+
+
+Percentage Identity = 4.5.
+
+
+
+>>> Alignment with 2l9sA00:
+                 10        20        30        40                  
+         CCCCCCCCCCCCHHHHHHHHHHHCCCCCCCCCCCCCCCCCCCCCC---------------
+2l9sA00  SNADYVQPQLRRPFELLIAAAMERNPTQFQLPNELTCTTALPGSS---------------
+                                          ||   ||  | |               
+Query    -------------------------------MLEL-LPTAVEGVSQAQITGRPEWIWLAL
+         -------------------------------CCCC-CCCCCCCCCEEECCCCCHHHHHHH
+                                                 10        20      
+
+
+                                                                   
+         ------------------------------------------------------------
+2l9sA00  ------------------------------------------------------------
+                                                                     
+Query    GTALMGLGTLYFLVKGMGVSDPDAKKFYAITTLVPAIAFTMYLSMLLGYGLTMVPFGGEQ
+         HHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHCCCCEEEEECCCCC
+                   40        50        60        70        80      
+
+
+                                                                   
+         ------------------------------------------------------------
+2l9sA00  ------------------------------------------------------------
+                                                                     
+Query    NPIYWARYADWLFTTPLLLLDLALLVDADQGTILALVGADGIMIGTGLVGALTKVYSYRF
+         CCEEHHHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCHHHH
+                  100       110       120       130       140      
+
+
+                                                                   
+         ------------------------------------------------------------
+2l9sA00  ------------------------------------------------------------
+                                                                     
+Query    VWWAISTAAMLYILYVLFFGFTSKAESMRPEVASTFKVLRNVTVVLWSAYPVVWLIGSEG
+         HHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCC
+                  160       170       180       190       200      
+
+
+                                                             
+         ------------------------------------------------------
+2l9sA00  ------------------------------------------------------
+                                                               
+Query    AGIVPLNIETLLFMVLDVSAKVGFGLILLRSRAIFGEAEAPEPSAGDGAAATSD
+         CCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCCCCCCCCCC
+                  220       230       240       250       260
+
+
+Percentage Identity = 13.3.
+
+
+
+>>> Alignment with 2bvbA00:
+                 10        20        30        40        50        60
+         CCCCCCCEEEEEECCCCEEEEEEECCEEEEECCCCCEEEEECCCCEEEEECCCCCCCEEE
+2bvbA00  KTEIHGDSTKATLEEGQQLTLTFISTKLDVAVGSCHSLVANFLDGFLKFQTGSNSAFDVV
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+                 70        80        90       100       110       120
+         CCCCEEEEEEEEEEECCCCCEEEEEEEEECCCCEEEEEEEECCCCCCCCEEEEEECCCCC
+2bvbA00  EVEEPAGPAVLTIGLGHKGRLAVVLDYTRLNAALGSAAYVVEDSGCSSSEEVSFQGVGSG
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+                130                                                
+         CEEEEECCCCCCCCCCC-------------------------------------------
+2bvbA00  ATLVVTTLGESPTAVSA-------------------------------------------
+                |   ||||                                             
+Query    ------MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKK
+         ------CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHH
+                       10        20        30        40        50  
+
+
+                                                                   
+         ------------------------------------------------------------
+2bvbA00  ------------------------------------------------------------
+                                                                     
+Query    FYAITTLVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLV
+         HHHHHHHHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHHC
+             60        70        80        90       100       110  
+
+
+                                                                   
+         ------------------------------------------------------------
+2bvbA00  ------------------------------------------------------------
+                                                                     
+Query    DADQGTILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAE
+         CCCHHHHHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+            120       130       140       150       160       170  
+
+
+                                                                   
+         ------------------------------------------------------------
+2bvbA00  ------------------------------------------------------------
+                                                                     
+Query    SMRPEVASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGL
+         HCCHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHH
+            180       190       200       210       220       230  
+
+
+                                   
+         ----------------------------
+2bvbA00  ----------------------------
+                                     
+Query    ILLRSRAIFGEAEAPEPSAGDGAAATSD
+         HHHHHHHHHCCCCCCCCCCCCCCCCCCC
+            240       250       260
+
+
+Percentage Identity = 3.6.
+
+
+
+>>> Alignment with 3nf4A02:
+                                                                   
+         ------------------------------------------------------------
+3nf4A02  ------------------------------------------------------------
+                                                                     
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+                 10        20        30        40        50        60
+
+
+                                                                   
+         ------------------------------------------------------------
+3nf4A02  ------------------------------------------------------------
+                                                                     
+Query    LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGT
+         HHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHHCCCCHHH
+                 70        80        90       100       110       120
+
+
+                                                                   
+         ------------------------------------------------------------
+3nf4A02  ------------------------------------------------------------
+                                                                     
+Query    ILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEV
+         HHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHH
+                130       140       150       160       170       180
+
+
+                                                                   
+         ------------------------------------------------------------
+3nf4A02  ------------------------------------------------------------
+                                                                     
+Query    ASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSR
+         HHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                190       200       210       220       230       240
+
+
+                        10        20        30        40        50 
+         -------CEEECCCCCCCCCCCCCCCEEEEECCEEEEEEEEEEEECCCCCCEEEEEEECC
+3nf4A02  -------GAYSLSEPQAGSDAAALRCAATPTDGGYVINGSKSWITHGGKADFYTLFARTG
+                      || ||  |||                                     
+Query    AIFGEAEA----PEPSAGDGAAATSD----------------------------------
+         HHHCCCCC----CCCCCCCCCCCCCC----------------------------------
+                    250       260                                  
+
+
+              60        70        80        90       100       110 
+         CCCEEEEEEECCCCCEEECCCCCCCCCCCCCEEEEEEEEEEEECCCEECCCCCHHHHHHH
+3nf4A02  SRGVSCFLVPADQPGLSFGKPEEKMGLHAVPTTSAFYDNARIDADRRIGEEGQGLQIAFS
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+         
+         C
+3nf4A02  A
+          
+Query    -
+         -
+         
+
+
+Percentage Identity = 6.1.
+
+
+
+>>> Alignment with 1vibA00:
+                                                                   
+         ------------------------------------------------------------
+1vibA00  ------------------------------------------------------------
+                                                                     
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+                 10        20        30        40        50        60
+
+
+                                                                   
+         ------------------------------------------------------------
+1vibA00  ------------------------------------------------------------
+                                                                     
+Query    LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGT
+         HHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHHCCCCHHH
+                 70        80        90       100       110       120
+
+
+                                                                   
+         ------------------------------------------------------------
+1vibA00  ------------------------------------------------------------
+                                                                     
+Query    ILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEV
+         HHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHH
+                130       140       150       160       170       180
+
+
+                                                                   
+         ------------------------------------------------------------
+1vibA00  ------------------------------------------------------------
+                                                                     
+Query    ASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSR
+         HHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                190       200       210       220       230       240
+
+
+                           10        20        30        40        50
+         ----------CCCCCCCCCCCCHHHHHHHHHHCCCCCCCCCCHHHHHHHHHHHHHHHCCC
+1vibA00  ----------ASATWGAAYACENNCRKKYDLCIRCQGKWAGKRGKCAAHCIIQKNNCKGK
+                    ||  |||                                          
+Query    AIFGEAEAPEPSAGDGAAATSD--------------------------------------
+         HHHCCCCCCCCCCCCCCCCCCC--------------------------------------
+                250       260                                      
+
+
+           
+         CCCC
+1vibA00  CKKE
+             
+Query    ----
+         ----
+           
+
+
+Percentage Identity = 9.3.
+
+
+
+>>> Alignment with 4txwA00:
+                                                                   
+         ------------------------------------------------------------
+4txwA00  ------------------------------------------------------------
+                                                                     
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+                 10        20        30        40        50        60
+
+
+                                                                   
+         ------------------------------------------------------------
+4txwA00  ------------------------------------------------------------
+                                                                     
+Query    LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGT
+         HHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHHCCCCHHH
+                 70        80        90       100       110       120
+
+
+                                                                   
+         ------------------------------------------------------------
+4txwA00  ------------------------------------------------------------
+                                                                     
+Query    ILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEV
+         HHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHH
+                130       140       150       160       170       180
+
+
+                                                                   
+         ------------------------------------------------------------
+4txwA00  ------------------------------------------------------------
+                                                                     
+Query    ASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSR
+         HHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                190       200       210       220       230       240
+
+
+                        10        20        30        40        50 
+         -------CCCCEEEEECCCCCCCCCCCCCCCCCEEECCCCCCCCEEEEECCCCCCCCCEE
+4txwA00  -------VYEPSLVDAYVGDDGAKAVDGDLKTRVKFLGAPSTGDTIVYDLGQEILVDNLK
+                  ||       ||  |   |                                 
+Query    AIFGEAEAPEP-----SAGDGAAATSD---------------------------------
+         HHHCCCCCCCC-----CCCCCCCCCCC---------------------------------
+                250            260                                 
+
+
+              60        70        80        90       100       110 
+         EEEECCCCCCCCCEEEEEECCCCCCEEEEEECCCCCCCCCCCCCCHHHHCCEECCCCCCC
+4txwA00  YVVLDTEVDHVRDGKIQLSLDGETWTDAINIGDGVENGVDDMFSTPLKNGYKHGNQSGGI
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+             120       130       140       150      
+         CCCCEEEEEECCCCCCCCEEEEEECCCCCCCCEEECEEEECCCCC
+4txwA00  VPIDSAYVEGDNLNQ-ARYVRILFTAPYRHRWTVINELMINNGEY
+                                                      
+Query    ---------------------------------------------
+         ---------------------------------------------
+                                                    
+
+
+Percentage Identity = 3.8.
+
+
+
+>>> Alignment with 3qd6R02:
+                                                                   
+         ------------------------------------------------------------
+3qd6R02  ------------------------------------------------------------
+                                                                     
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+                 10        20        30        40        50        60
+
+
+                                                                   
+         ------------------------------------------------------------
+3qd6R02  ------------------------------------------------------------
+                                                                     
+Query    LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGT
+         HHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHHCCCCHHH
+                 70        80        90       100       110       120
+
+
+                                                                   
+         ------------------------------------------------------------
+3qd6R02  ------------------------------------------------------------
+                                                                     
+Query    ILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEV
+         HHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHH
+                130       140       150       160       170       180
+
+
+                                                                   
+         ------------------------------------------------------------
+3qd6R02  ------------------------------------------------------------
+                                                                     
+Query    ASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSR
+         HHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                190       200       210       220       230       240
+
+
+                    10        20        30  
+         ---CCCEEECCCCCCCEEECCCCCCCCCCCCCCCCCC
+3qd6R02  ---EEGWHCTSEACESCVLHRSCKQIATGVSDTICEP
+             |      || |      |    |   ||     
+Query    AIFGE-----AEAPEP-----SAGDGAAATSD-----
+         HHHCC-----CCCCCC-----CCCCCCCCCCC-----
+                     250            260     
+
+
+Percentage Identity = 23.5.
+
+
+
+>>> Alignment with 2pbzA03:
+                                                                   
+         ------------------------------------------------------------
+2pbzA03  ------------------------------------------------------------
+                                                                     
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+                 10        20        30        40        50        60
+
+
+                                                                   
+         ------------------------------------------------------------
+2pbzA03  ------------------------------------------------------------
+                                                                     
+Query    LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGT
+         HHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHHCCCCHHH
+                 70        80        90       100       110       120
+
+
+                                                                   
+         ------------------------------------------------------------
+2pbzA03  ------------------------------------------------------------
+                                                                     
+Query    ILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEV
+         HHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHH
+                130       140       150       160       170       180
+
+
+                                                                   
+         ------------------------------------------------------------
+2pbzA03  ------------------------------------------------------------
+                                                                     
+Query    ASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSR
+         HHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                190       200       210       220       230       240
+
+
+                           10        20        30      
+         -----CCCCCCCC-----CCCCCCEEEECCCEECCCCCCCCEEEECCC
+2pbzA03  -----VEVVEPED-----AKPDELYFVRIEGSELEERLSPYRVERFIP
+               |  ||       |  |                          
+Query    AIFGEAEAPEPSAGDGAAATSD--------------------------
+         HHHCCCCCCCCCCCCCCCCCCC--------------------------
+                250       260                          
+
+
+Percentage Identity = 13.2.
+
+
+
+>>> Alignment with 4d2cA00:
+                                                                   
+         ------------------------------------------------------------
+4d2cA00  ------------------------------------------------------------
+                                                                     
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+                 10        20        30        40        50        60
+
+
+                                        10        20        30     
+         -----------------------CCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+4d2cA00  -----------------------KTFFGQPLGLSTLFMTEMWERFSYYGMRAILLYYMWF
+                                      |           | |         ||     
+Query    LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPI---------YWARYADWLFTTPLLLLDLA
+         HHHHHHHHHHHHHHCCCCEEEEECCCCCCCE---------EHHHHHHHHHHHHHHHHHHH
+                 70        80        90                100       110
+
+
+          40        50        60        70        80        90     
+         HHHCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHHH
+4d2cA00  LISTGDLHITRATAASIMAIYASMVYLSGTIGGFVADRIIGARPAVFWGGVLIMLGHIVL
+         |           |          |        | |            |           |
+Query    LLVD----ADQGTILALVGADGIMI-----GTGLVGALTKVYSYRFVWWAISTAAMLYIL
+         HHCC----CCHHHHHHHHHHHHHHH-----HHHHHHHHCCCCHHHHHHHHHHHHHHHHHH
+                   120       130            140       150       160
+
+
+         100       110       120       130       140       150     
+         HCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCHHHHHHHHHHHHHHHHHHHH
+4d2cA00  ALPFGASALFGSIILIIIGTGFLKPNVSTLVGTLYDEHDRRRDAGFSIFVFGINLGAFIA
+                           |           |                             
+Query    YV-------------LFFGFTSKAESMRPEVASTF-----KVLRNVTVVLWSAYPVVWLI
+         HH-------------HHHHHHHHHHHCCHHHHHHH-----HHHHHHHHHHHHHHHHHHHH
+                           170       180            190       200  
+
+
+         160       170       180       190       200       210     
+         HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHHHCCCCCCCCCCHHHHHH
+4d2cA00  PLIVGAAQEAAGYHVAFSLAAIGMFIGLLVYYFGGKKTLDPHYLRPTDPLAPEEVKPLLV
+                         |         |                                 
+Query    GSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSRAIFGEAEAPEPSAGDGAAATSD--
+         CCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCCCCCCCCCC--
+            210       220       230       240       250       260  
+
+
+         220       230       240       250       260       270     
+         HHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHCCHHHHHHHHHHHHHH
+4d2cA00  KVSLAVAGFIAIIVVMNLVGWNSLPAYINLLTIVAIAIPVFYFAWYIPLFIAAVLFWAIE
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+         280       290       300       310       320       330     
+         HHHHCHHHHHHHHHCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHH
+4d2cA00  EQGSVVLATFAAERVDSSWFPVSWFQSLNPLFIMLYTPFFAWLWTAWSSPTKFAVGLMFA
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+         340       350       360       370       380       390     
+         HHHHHHHHHHHHHHCCCCCCCCHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHH
+4d2cA00  GLSFLLMAIPGALYGTSGKVSPLWLVGSWALVILGEMLISPVMMSMWFLSSSVGSALNAQ
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+         400       410       420       
+         HHHHCCCCCHHHHHHHHHHHHHHHHHHHHHHC
+4d2cA00  LVTLYNAKSEVAYFSYFGLGSVVLGIVLVFLS
+                                         
+Query    --------------------------------
+         --------------------------------
+                                       
+
+
+Percentage Identity = 6.1.
+
+
+
+>>> Alignment with 3wfdB00:
+                 10        20        30        40        50        60
+         CHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCCCHHHHHHHHHHHHHHHHH
+3wfdB00  FASQAVAKPYFVFALILFVGQILFGLIMGLQYVVGDFLFPAIPFNVARMVHTNLLIVWLL
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+                 70        80        90       100       110       120
+         HHHHHHHHHHHHHHHCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHCCHHHHHHHCCCCCC
+3wfdB00  FGFMGAAYYLVPEESDCELYSPKLAWILFWVFAAAGVLTILGYLLVPYAGLARLTGNELW
+                                                                  || 
+Query    -------------------------------------------------------MLELL
+         -------------------------------------------------------CCCCC
+                                                                   
+
+
+                  130       140       150       160       170      
+         CCC--CCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHHHHHHHHHH
+3wfdB00  PTM--GREFLEQPTISKAGIVIVALGFLFNVGMTVLRGRKTAISMVLMTGLIGLALLFLF
+         ||   |                                                 | || 
+Query    PTAVEGVSQAQIT-----------------------GRPEWIWLALGTALMGLGTLYFLV
+         CCCCCCCCEEECC-----------------------CCCHHHHHHHHHHHHHHHHHHHHH
+            10                               20        30        40
+
+
+                  190       200       210       220        230     
+         HHCCCCCHHHHHHHHHHHHHHHHCCHHHHHHHHHHHHHHHHHHCCCHH-HHHHHHHHHHH
+3wfdB00  SFYNPENLTRDKFYWWWVVHLWVEGVWELIMGAILAFVLVKITGVDRE-VIEKWLYVIIA
+                    |||              | |        |   |                
+Query    KGMGVSDPDAKKFYAITTLVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFT
+         HHCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHH
+               50        60        70        80        90       100
+
+
+         240       250       260       270       280       290     
+         HHHHHHHHHHHHHCCCCCCCCHHHHHHHHHHHHCHHHHHHHHHHHHHHHHCCCCCCCCHH
+3wfdB00  MALISGIIGTGHHYFWIGVPGYWLWLGSVFSALEPLPFFAMVLFAFNTINRRRRDYPNRA
+           |                            ||                           
+Query    TPLLLLDLALLVDADQ-----------GTILALVGADGIMIGTGLVGALTKVY-------
+         HHHHHHHHHHHCCCCH-----------HHHHHHHHHHHHHHHHHHHHHHCCCC-------
+              110                  120       130       140         
+
+
+         300       310       320       330       340       350     
+         HHHHHHHHHHHHHHHCHHHHHHHHCHHHHHHHCCCHHHHHHHHHHHHHHHHHHHHHH--H
+3wfdB00  VALWAMGTTVMAFLGAGVWGFMHTLAPVNYYTHGTQLTAAHGHMAFYGAYAMIVMTI--I
+                    |                                                
+Query    SYRFVWWAISTAAMLYILYVLFFGFTSKAESMR----PEVASTFKVLRNVTVVLWSAYPV
+         HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCC----HHHHHHHHHHHHHHHHHHHHHHH
+            150       160       170           180       190       200
+
+
+           360       370       380       390       400       410   
+         HHHCCCCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCC
+3wfdB00  SYAMPRLRGIGEAMDNRSQVLEMWGFWLMTVAMVFITLFLSAAGVLQVWLQRMPADGAAM
+                 | |          |   |    |                      |   |  
+Query    VWLIGSE-GAGIVP----LNIETLLFMVLDVSAKVGFGLILLRSRAIFGEAEAPEPSAGD
+         HHHHCCC-CCCCCC----HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCCC
+                 210           220       230       240       250   
+
+
+           420       430       440       
+         CHHHHHHHCHHHHHHHHHHHHHHHHHHHHHHCCC
+3wfdB00  TFMATQDQLAIFYWLREGAGVVFLIGLVAYLLSF
+            || |                           
+Query    GAAATSD---------------------------
+         CCCCCCC---------------------------
+           260                           
+
+
+Percentage Identity = 11.1.
+
+
+
+>>> Alignment with 3hugA00:
+                                                                   
+         ------------------------------------------------------------
+3hugA00  ------------------------------------------------------------
+                                                                     
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+                 10        20        30        40        50        60
+
+
+                                                                   
+         ------------------------------------------------------------
+3hugA00  ------------------------------------------------------------
+                                                                     
+Query    LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGT
+         HHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHHCCCCHHH
+                 70        80        90       100       110       120
+
+
+                                                                   
+         ------------------------------------------------------------
+3hugA00  ------------------------------------------------------------
+                                                                     
+Query    ILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEV
+         HHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHH
+                130       140       150       160       170       180
+
+
+                                                                   
+         ------------------------------------------------------------
+3hugA00  ------------------------------------------------------------
+                                                                     
+Query    ASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSR
+         HHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                190       200       210       220       230       240
+
+
+                        10        20        30        40        50 
+         -------CCCCCHHHHHHHHHCCCHHHHHHHCCCHHHHHHHHHHHCCCCCHHHHHHHHCC
+3hugA00  -------DPEQSTPDEVNAALD-LLIADALAQLSAEHRAVIQRSYYRGWSTAQIATDLGI
+                 || |  |   |  |                                      
+Query    AIFGEAEAPEPSAGDGAAATSD--------------------------------------
+         HHHCCCCCCCCCCCCCCCCCCC--------------------------------------
+                250       260                                      
+
+
+              60        70        80
+         CHHHHHHHHHHHHHHHHHHHHHHCCCC
+3hugA00  AEGTVKSRLHYAVRALRLTLQELGVTR
+                                    
+Query    ---------------------------
+         ---------------------------
+                                  
+
+
+Percentage Identity = 7.5.
+
+
+
+>>> Alignment with 1llpA02:
+                 10        20        30        40        50        60
+         CCCCCCHHHHHHHHHHHHCCCHHHHHHHHHHHHHCEECCCCCCCCCEECCCCCCCCCCHH
+1llpA02  PEPFHTVDQIIARVNDAGEFDELELVWMLSAHSVAAVNDVDPTVQGLPFDSTPGIFDSQF
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+                 70        80        90       100       110       120
+         HHHCCCCCCCCCCCCCCCCEECCCCCCCCEEHHHHHHCCCCCCHHHHHCCCCCHHHHHHH
+1llpA02  FVETQFRGTLFPGSGGNQGEVESGMAGEIRIQTDHTLARDSRTACEWQSFVGNQSKLVDD
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+                130       140       150       160                  
+         HHHCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC----------------
+1llpA02  FQFIPFSFFPPGKSHSDIEQACAETPFPSLVTLPGPATSVARIP----------------
+                                      |  ||   | |                    
+Query    ----------------------------MLELLP---TAVEGVSQAQITGRPEWIWLALG
+         ----------------------------CCCCCC---CCCCCCCEEECCCCCHHHHHHHH
+                                                10        20       
+
+
+                                                                   
+         ------------------------------------------------------------
+1llpA02  ------------------------------------------------------------
+                                                                     
+Query    TALMGLGTLYFLVKGMGVSDPDAKKFYAITTLVPAIAFTMYLSMLLGYGLTMVPFGGEQN
+         HHHHHHHHHHHHHHHCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHCCCCEEEEECCCCCC
+                  40        50        60        70        80       
+
+
+                                                                   
+         ------------------------------------------------------------
+1llpA02  ------------------------------------------------------------
+                                                                     
+Query    PIYWARYADWLFTTPLLLLDLALLVDADQGTILALVGADGIMIGTGLVGALTKVYSYRFV
+         CEEHHHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCHHHHH
+                 100       110       120       130       140       
+
+
+                                                                   
+         ------------------------------------------------------------
+1llpA02  ------------------------------------------------------------
+                                                                     
+Query    WWAISTAAMLYILYVLFFGFTSKAESMRPEVASTFKVLRNVTVVLWSAYPVVWLIGSEGA
+         HHHHHHHHHHHHHHHHHHHHHHHHHHCCHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCC
+                 160       170       180       190       200       
+
+
+                                                            
+         -----------------------------------------------------
+1llpA02  -----------------------------------------------------
+                                                              
+Query    GIVPLNIETLLFMVLDVSAKVGFGLILLRSRAIFGEAEAPEPSAGDGAAATSD
+         CCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCCCCCCCCCC
+                 220       230       240       250       260
+
+
+Percentage Identity = 3.0.
+
+
+
+>>> Alignment with 2m4hA00:
+                                                                   
+         ------------------------------------------------------------
+2m4hA00  ------------------------------------------------------------
+                                                                     
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+                 10        20        30        40        50        60
+
+
+                                                                   
+         ------------------------------------------------------------
+2m4hA00  ------------------------------------------------------------
+                                                                     
+Query    LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGT
+         HHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHHCCCCHHH
+                 70        80        90       100       110       120
+
+
+                                                                   
+         ------------------------------------------------------------
+2m4hA00  ------------------------------------------------------------
+                                                                     
+Query    ILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEV
+         HHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHH
+                130       140       150       160       170       180
+
+
+                                                                   
+         ------------------------------------------------------------
+2m4hA00  ------------------------------------------------------------
+                                                                     
+Query    ASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSR
+         HHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                190       200       210       220       230       240
+
+
+                          10        20        30        40        50
+         ---------CCCCCCCCCCCHHHHHHHHHHHHHCCCCCCHHHHHHHHHHHHHCCCCHHHH
+2m4hA00  ---------GTYRGRGVALTDDEYDEWREHNASRKLDLSVEDFLMLRHRAALGADDNDAV
+                      | | | | |                                      
+Query    AIFGEAEAPEPSAGDGAAATSD--------------------------------------
+         HHHCCCCCCCCCCCCCCCCCCC--------------------------------------
+                250       260                                      
+
+
+                60     
+         HHHHHHHHHCCCCCCC
+2m4hA00  KFRSWWNSRTKMANDY
+                         
+Query    ----------------
+         ----------------
+                       
+
+
+Percentage Identity = 7.5.
+
+
+
+>>> Alignment with 4tpjA00:
+                                  10        20        30        40 
+         -----------------CCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHH
+4tpjA00  -----------------VSKTHSFMTVSLIELWERFGYYGMQALIVYFMVQRLGFDDSRA
+                                                 |     || |   |  |  |
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGT--------ALMGLGTLYFLVKGMGVSDPDA
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHH--------HHHHHHHHHHHHHHCCCCCHHH
+                 10        20        30                40        50
+
+
+              50        60        70                               
+         HHHHHHHHHHHHHHHHHHHHHHHHCCC---------------------------------
+4tpjA00  NLVWSACAALIYVSPAIGGWVGDKILG---------------------------------
+                                                                     
+Query    KKFYAITTLVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLAL
+         HHHHHHHHHHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHH
+               60        70        80        90       100       110
+
+
+                         80        90       100       110       120
+         --------HHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHH
+4tpjA00  --------TKRTMLLGAGILSVGYALMTVPTENTWFMFSALGVIVVGNGLFKPNAGNLVR
+                               |            |   |         |     |    
+Query    LVDADQGTILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSK
+         HCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+              120       130       140       150       160       170
+
+
+              130       140       150       160       170       180
+         HHCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCHHHHHHHHHHHHHHH
+4tpjA00  KIYESKIDSAFTIYYMAVNVGSTFSMLLTPWIKDYVNAQYGNEFGWHAAFAVCCVGILVG
+                  | |            |     |      |           | |  |   ||
+Query    AESMR-PEVASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVG
+         HHHCC-HHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHH
+               180       190       200       210       220       230
+
+
+              190       200       210       220       230       240
+         HHHHHCCHHHHCCCCCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHCHHHHHHHHHHHH
+4tpjA00  LGNYALMHKSLANYGSEPDTRPVNKKSLAIVLALAALSVVASAIILEYEDVARVFVYAAG
+          |   |           |                                          
+Query    FGLILLRSRAIFGEAEAPEPSAGDGAAATSD-----------------------------
+         HHHHHHHHHHHHCCCCCCCCCCCCCCCCCCC-----------------------------
+               240       250       260                             
+
+
+              250       260       270       280       290       300
+         HHHHHCCHHHHHHHHHHHHHHHHHHHHCHHHHHHHHCCCCCCCCCCCCCCCCCHHHHHHH
+4tpjA00  VAVLGIIAALILTVQTVFFFIFYQQMSTSLALFALRNVDWDFQVFGTHLWTWSPAQFQAL
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+              310       320       330       340       350       360
+         HHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHCCCCCCCCCCCCCHHHHHHHHHHHHH
+4tpjA00  NPIWIMVLSPVLAWIAAKFALGFAVVAIGFFIYGFAGQFAVNGKTSSWVMIWGYASYSLG
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+              370       380       390       400       410       420
+         HHHHCCCCHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCHHHHHHHHHHHHHH
+4tpjA00  ELLVSGLGLAMIARYMMGAYFVASGISQYLGGVVANFASVPQDLVDPLQTLPVYTNLFNK
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+              430       440   
+         HHHHHHHHHHHHHHCCHHHHHHC
+4tpjA00  LGVAAVVCTIIALAVLPLMRRLT
+                                
+Query    -----------------------
+         -----------------------
+                              
+
+
+Percentage Identity = 9.5.
+
+
+
+>>> Alignment with 1pw4A02:
+                 10        20        30        40          50      
+         CCCHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCC--CHHHHHHHHHH
+1pw4A02  TAKQIFMQYVLPNKLLWYIAIANVFVYLLRYGILDWSPTYLKEVKHF--ALDKSSWAYFL
+                                          |   ||    |               |
+Query    --------------------------------MLELLPTAVEGVSQAQITGRPEWIWLAL
+         --------------------------------CCCCCCCCCCCCCEEECCCCCHHHHHHH
+                                                 10        20      
+
+
+                   70        80        90       100                
+         HHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHHHHHHHHHC----------CCCCCCCH
+1pw4A02  YEYAGIPGTLLCGWMSDKVFRGNRGATGVFFMTLVTIATIVY----------WMNPAGNP
+                |||        |                 ||   |               |  
+Query    GTALMGLGTLYFLVKGMGVSDPDAKKFYAITTLVPAIAFTMYLSMLLGYGLTMVPFGGEQ
+         HHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHCCCCEEEEECCCCC
+                   40        50        60        70        80      
+
+
+                  120       130       140       150       160      
+         HHHHHHHHHHHHHHCHHHHHHHHHHHHCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+1pw4A02  TVDMICMIVIGFLIYGPVMLIGLHALELAPKKAAGTAAGFTGLFGYLGGSVAASAIVGYT
+                         |  |  |  |  |            |    | |        |  
+Query    NPIYWARYADWLFTT-PLLLLDLALLVDAD----------QGTILALVGADGIMIGTGLV
+         CCEEHHHHHHHHHHH-HHHHHHHHHHCCCC----------HHHHHHHHHHHHHHHHHHHH
+                  100        110                 120       130     
+
+
+                   180       190       200       210               
+         HHCCC-CHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCC---------------
+1pw4A02  VDFFG-WDGGFMVMIGGSILAVILLIVVMIGEKRRHEQLLQELVP---------------
+                   |             | |   |     |    |                  
+Query    GALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEVASTFKVLRNVTVVLWSA
+         HHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHHHHHHHHHHHHHHHHHHH
+         140       150       160       170       180       190     
+
+
+                                                                   
+         ------------------------------------------------------------
+1pw4A02  ------------------------------------------------------------
+                                                                     
+Query    YPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSRAIFGEAEAPEPSAGDGA
+         HHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCCCCC
+         200       210       220       230       240       250     
+
+
+            
+         -----
+1pw4A02  -----
+              
+Query    AATSD
+         CCCCC
+         260
+
+
+Percentage Identity = 13.2.
+
+
+
+>>> Alignment with 4q65A00:
+                 10        20        30        40        50        60
+         CCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHHHHHHHHCHHHH
+4q65A00  SQPRAIYYVVALQIWEYFSFYGMRALLILYLTNQLKYNDTHAYELFSAYCSLVYVTPILG
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+                 70        80        90       100       110       120
+         HHHHHHCCCCCHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHH
+4q65A00  GFLADKVLGNRMAVMLGALLMAIGHVVLGASEIHPSFLYLSLAIIVCGYGLFKSNVSCLL
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+                130       140       150       160       170       180
+         HCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHH
+4q65A00  GELYEPTDPRRDGGFSLMYAAGNVGSIIAPIACGYAQEEYSWAMGFGLAAVGMIAGLVIF
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+                190       200       210       220       230       240
+         HCCCCCCCCCCCCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHCHHHHHHHHHHHHHHHHH
+4q65A00  LCGNRHFTHTRGVRATNFLLPNWGWLLVLLVATPALITILFWKEWSVYALIVATIIGLGV
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+                250       260       270       280                  
+         HHHHCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCC-----------
+4q65A00  LAKIYENQKQRELGLIVTLTFFSMLFWAFAQQGGSSISLYIDRFVNTVP-----------
+                                                       |             
+Query    ----------------------------------------MLELLPTAVEGVSQAQITGR
+         ----------------------------------------CCCCCCCCCCCCCEEECCCC
+                                                         10        20
+
+
+         290       300       310       320       330       340     
+         --HHHHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHC---
+4q65A00  --TAMFQSINAFAVMLCGVFLAWVVNRTVRIWGKFALGLGLMSAGFCILTLSARWSA---
+                   |        ||            ||     |  |      ||        
+Query    PEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITTLVPAIAFTMYLSMLLGYGLT
+         CHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHCCCCEE
+                 30        40        50        60        70        80
+
+
+                  350       360       370       380       390      
+         ------CCCCCHHHHHHHHHHHHHHHCCCHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHH
+4q65A00  ------MYGLPLMVLGLAVMGFAELFIDPVAMSQITRIEVTGVLTGIYMLLSGAIANYLA
+                                 |                     |  |          
+Query    MVPFGGEQNPIYWARYADWLFTTPLLL--LDLALLVDAD----QGTILALVGADGIMIGT
+         EEECCCCCCCEEHHHHHHHHHHHHHHH--HHHHHHCCCC----HHHHHHHHHHHHHHHHH
+                 90       100         110           120       130  
+
+
+                  410       420       430                          
+         HHHHHHHCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHC---------------------
+4q65A00  GVIADQTSSINAYIEVFDQITWGALACVGVVLMIWLYQA---------------------
+         |     |              | |                                    
+Query    GLVGALTKV------YSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEVASTFKVLR
+         HHHHHHCCC------CHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHHHHHHHHHH
+            140             150       160       170       180      
+
+
+                                                                   
+         ------------------------------------------------------------
+4q65A00  ------------------------------------------------------------
+                                                                     
+Query    NVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSRAIFGEAEA
+         HHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCC
+                  200       210       220       230       240      
+
+
+                     
+         --------------
+4q65A00  --------------
+                       
+Query    PEPSAGDGAAATSD
+         CCCCCCCCCCCCCC
+                  260
+
+
+Percentage Identity = 6.5.
+
+
+
+>>> Alignment with 4w6vA00:
+                 10        20        30        40        50        60
+         CCCCCCCCEECCEECHHHHHHHHHHHHHHHHCCCHHHHHHHHHCCCCCCCCCCCHHHHHH
+4w6vA00  STNTPGGRTFFGHPYPLSGLFLSEMWERFSFYGIRPLLILFMAATVFDGGMGLPREQASA
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+                 70        80        90       100       110       120
+         HHHHHHHHHHHCHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHCCCCCCHHHHHHHHH
+4w6vA00  IVGIFAGSMYLAALPGGLLADNWLGQQRAVWYGSILIALGHLSIALSAFFGNDLFFIGLV
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+                130       140       150       160       170       180
+         HHHHHHHHHHHHHHHHHHHCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHH
+4w6vA00  FIVLGTGLFKTCISVMVGTLYKPGDARRDGGFSLFYMGINMGSFIAPLLSGWLLRTHGWH
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+                190       200       210       220       230       240
+         HHHHHHHHHHHHHHHHHHHCHHHHHHHHHHHCCCCCCCCCCCCHHHHHHHHHHHHHHHHH
+4w6vA00  WGFGIGGIGMLVALLIFRGFAIPAMKRYDAEVGLDSSWNKPTGRWVTAIMAVVVVIIALI
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+                250       260       270       280       290       300
+         HHHCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHHHHHHHHHHHHH
+4w6vA00  SQGVIPINPVMIASLLVYVIAASVTLYFIYLFAFAKMSRKDRARLLVCFILLVSAAFFWS
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+                310       320              330       340          350
+         HHCCCCCHHHHHHHHCCCCCCCCCCCC-------HHHHHHHHHHHHHHHHHHHHHC---C
+4w6vA00  AFEQKPTSFNLFANDYTDRMVMGFEIP-------TVWFQSINALFIILLAPVFSWA---P
+                             | |             |     ||                
+Query    ------------MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVS
+         ------------CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCC
+                             10        20        30        40      
+
+
+                360       370       380             390       400  
+         CHHHHHHHHHHHHHHHHHHHHHHHHHHHHHC------CCCCCCHHHHHHHHHHHHHHHHH
+4w6vA00  SSITKFVIGILCAAAGFAVMMYAAQHVLSSG------GAGVSPLWLVMSILLLTLGELCL
+             |    |       |  ||               |      |      | |   | |
+Query    DPDAKKFYAITTLVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLL
+         CHHHHHHHHHHHHHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHH
+                   60        70        80        90       100      
+
+
+            410       420       430       440       450       460  
+         CCCHHHHHHHCCCCCCHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCHHHHHHHHHHHHHH
+4w6vA00  SPIGLATMTLLAPDRMRGQVMGLWFCASSLGNLAAGLIGGHVKADQLDMLPTLFARCSIA
+             ||            |   |            || |                     
+Query    D---LALLVDAD------QGTILALVGADGIMIGTGLVGALT-KVYSYRFVWWAISTAAM
+         H---HHHHCCCC------HHHHHHHHHHHHHHHHHHHHHHHC-CCCHHHHHHHHHHHHHH
+           110             120       130       140        150      
+
+
+            470       480                                          
+         HHHHHHHHHHHHHHHHCCC-----------------------------------------
+4w6vA00  LVICAAVLILLIVPIRRLM-----------------------------------------
+         | |                                                         
+Query    LYILYVLFFGFTSKAESMRPEVASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIET
+         HHHHHHHHHHHHHHHHHCCHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHH
+                  170       180       190       200       210      
+
+
+                                                   
+         --------------------------------------------
+4w6vA00  --------------------------------------------
+                                                     
+Query    LLFMVLDVSAKVGFGLILLRSRAIFGEAEAPEPSAGDGAAATSD
+         HHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCCCCCCCCCC
+                  230       240       250       260
+
+
+Percentage Identity = 9.5.
+
+
+
+>>> Alignment with 1kplA00:
+                 10        20        30        40        50        60
+         CHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCHHHHCHHHHHHHHHHHHHHHH
+1kplA00  TPLAILFMAAVVGTLTGLVGVAFEKAVSWVQNMRIGALVQVADHAFLLWPLAFILSALLA
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+                 70        80        90       100       110       120
+         HHHHHHHHHCCCCCCCCCHHHHHHHHCCCCCCCHHHHHHHHHHHHHHHHHCCCCCCCHHH
+1kplA00  MVGYFLVRKFAPEAGGSGIPEIEGALEELRPVRWWRVLPVKFIGGMGTLGAGMVLGREGP
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+                130                  140       150       160       
+         HHHHHHHHHHHHHHCCC-----------CCCHHHHHHHHHHHHHHHHHHHHC-------C
+1kplA00  TVQIGGNLGRMVLDVFR-----------MRSAEARHTLLATGAAAGLSAAFN-------A
+                     |                   |     | |         |         
+Query    -----------MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSD
+         -----------CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCC
+                            10        20        30        40       
+
+
+              170       180       190       200        210         
+         HHHHHHHHHHCCCCCCCCCCCCHHHHHHHHHHHHHHHHHHHCCC-CCCCCCCCCCCC---
+1kplA00  PLAGILFIIEEMRPQFRYNLISIKAVFTGVIMSSIVFRIFNGEA-PIIEVGKLSDAP---
+         | |     |                     |          |        |         
+Query    PDAKKFYAITT---------------LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWA
+         HHHHHHHHHHH---------------HHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHH
+                  60                       70        80        90  
+
+
+              220       230       240       250            260     
+         ------HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHC-----CCHHHHHHHHHH
+1kplA00  ------VNTLWLYLILGIIFGVVGPVFNSLVLRTQDMFQRFHG-----GEIKKWVLMGGA
+                 |  | | |             ||     |                 |     
+Query    RYADWLFTTPLLLLDLALLVDADQGTILALVGADGIMIGTGLVGALTKVYSYRFVWWAIS
+         HHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHH
+            100       110       120       130       140       150  
+
+
+         270       280       290           300       310       320 
+         HHHHHHHHHHCCCCCCCCCCCCHHHHHCCCCC----HHHHHHHHHHHHHHHHHHHHHCCC
+1kplA00  IGGLCGILGLIEPAAAGGGFNLIPIAAAGNFS----VGLLLFIFITRVVTTLLCFSSGAP
+               ||           |     |             |                 |  
+Query    TAAMLYILYVL-------FFGFTSKAESMRPEVASTFKVLRNVTVVLWSAYPVVWLIGSE
+         HHHHHHHHHHH-------HHHHHHHHHHCCHHHHHHHHHHHHHHHHHHHHHHHHHHHCCC
+            160              170       180       190       200     
+
+
+                            330       340       350              360
+         C-CC--------------HHHHHHHHHHHHHHHHHHHHHHCCCCCCC-------HHHHHH
+1kplA00  G-GI--------------FAPMLALGTLLGTAFGMAAAVLFPQYHLE-------AGTFAI
+         | ||                     |  |            |                  
+Query    GAGIVPLNIETLLFMVLDVSAKVGFGLILLRSRAIFGEAEAPEPSAGDGAAATSD-----
+         CCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCCCCCCCCCC-----
+         210       220       230       240       250       260     
+
+
+               370       380       390       400       410       420
+         HHHCHHHHHHCCCHHHHHHHHHHHHCCHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHH
+1kplA00  AGMGALMAASVRAPLTGIVLVLEMTDNYQLILPMIITCLGATLLAQFLGGKPLYSTILAR
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+               430
+         HHHHHHHHC
+1kplA00  TLAKQDAEQ
+                  
+Query    ---------
+         ---------
+                
+
+
+Percentage Identity = 11.8.
+
+
+
+>>> Alignment with 3ayfA01:
+                 10        20        30        40        50        60
+         CCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHHHHHHHHHH
+3ayfA01  TTNSFLKSILIFTILISSTVLLVGGYWIFKEMMSFSAVWWSGASVTILILFIGIILYVFY
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+                 70        80        90       100       110       120
+         HHCCCCCCCCCCCCCCCCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCC
+3ayfA01  RYQLSMQEAYAEGKFPVIDLRRQPLTPSQVKAGKYFVVVSALFFVQTMFGALLAHYYTEP
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+                130       140       150       160       170       180
+         CCCCCCCHHHHHCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCHHHHHHHH
+3ayfA01  DSFFGINWIYDILPFNIAKGYHLQLAIFWIATAWLGMGIFIAPLVGGQEPKKQGLLVDLL
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+                190       200       210       220       230       240
+         HHHHHHHHHHHHHHHHHHHHCCCCCCHHHHCCCCCCCCCCCHHHHHHHHHHHHHHHHHHH
+3ayfA01  FWALVVLVGGSMIGQWLGVNGYLGNEWFLLGHQGWEYIELGRIWQIILVVGMLLWLFIVF
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+                250       260       270       280       290        
+         HHHHHHHHHCCCCCCHHHHHHHHHHHHHHHHHHHHHCCCCCCHHHHHHHHHHHHCC----
+3ayfA01  RGVKRGLKRESDKGGLIHLLFYSAIAVPFFYIFAFFIQPDTNFTMADFWRWWIIHL----
+                                                             |       
+Query    ------------------------------------MLELLPTAVEGVSQAQITGRPEWI
+         ------------------------------------CCCCCCCCCCCCCEEECCCCCHHH
+                                                     10        20  
+
+
+          300       310       320       330       340              
+         CHHHHHHCHHHHHHHHHHHHCCCCCHHHHHHHHHHHHHHHHHHHCCHHHHHC--------
+3ayfA01  WVEGIFEVFAVVVIGFLLVQLRLVTKKSTVRALYFQFTILLGSGVIGIGHHY--------
+         |              ||                |   |                      
+Query    WLALGTALMGLGTLYFLVKGMGVSD--PDAKKFYAITTLVPAIAFTMYLSMLLGYGLTMV
+         HHHHHHHHHHHHHHHHHHHHCCCCC--HHHHHHHHHHHHHHHHHHHHHHHHHCCCCEEEE
+             30        40          50        60        70        80
+
+
+         350       360       370       380       390       400     
+         -CCCCCCCHHHHHHHHHHHCCHHHHHCCHHHHHHHHHHHHHCCCCCCCHHHHHHHHHHHH
+3ayfA01  -YYNGSPEVWIALGAVFSALEVIPLTLLILEAYEQYKMMRDGGANFPYKATFWFLISTAI
+                    |  |        || |                |      |   |     
+Query    PFGGEQNPIYWARYADWLFT--TPLLL--------LDLALLVDAD---QGTILALVGADG
+         ECCCCCCCEEHHHHHHHHHH--HHHHH--------HHHHHHCCCC---HHHHHHHHHHHH
+               90       100                 110          120       
+
+
+         410       420       430       440       450       460     
+         HHHHCCCHHHHHCCCHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCC
+3ayfA01  WNLVGAGVFGFLINLPAVSYFEHGQFLTPAHGHAAMMGVYGMFAIAVLLYSLRNIVKPEA
+                |                                   |    || |       |
+Query    IMIGTGLVGALTKVY----------------SYRFVWWAISTAAMLYILYVLFFGFTSKA
+         HHHHHHHHHHHCCCC----------------HHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                 140                       150       160       170 
+
+
+         470       480       490       500       510       520     
+         CCCHHHHHHHHHHHHHHHHHHHHCHHHHHHHHHHHHHHHCHHHHCCHHHHHCHHHHHHHH
+3ayfA01  WNDKWLKFSCWMLNIGLAGMVVITLLPVGILQMKEAFIHGYWASRSPSFLQQDVVQNLLL
+                         |    |                 |                 || 
+Query    ---ESMRPEVASTFKVLRNVTVVLWSAYPVVWLIGSEGAG---------IVPLNIETLLF
+         ---HHCCHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCC---------CCCHHHHHHHH
+                180       190       200       210                220
+
+
+         530       540       550       560        
+         CCHHHHHHHHHHHHHHHHHHHCCCCCCCCCCCCCCCC------
+3ayfA01  VRAVPDTIFLIGVVALLVFAIKALFHLRKPTHGEGEE------
+            | |     |    |            |    |        
+Query    M--VLDVSAKVGFGLILLRSRAIFGEAEAPEPSAGDGAAATSD
+         H--HHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCCCCCCCCCC
+                 230       240       250       260
+
+
+Percentage Identity = 11.8.
+
+
+
+>>> Alignment with 3wdoA01:
+                 10        20        30        40        50        60
+         CCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHH
+3wdoA01  DYKMTPGERRATWGLGTVFSLRMLGMFMVLPVLTTYGMALQGASEALIGIAIGIYGLTQA
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+                 70        80        90       100       110       120
+         HHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHCCCHHHHHH
+3wdoA01  VFQIPFGLLSDRIGRKPLIVGGLAVFAAGSVIAALSDSIWGIILGRALQGSGAIAAAVMA
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+                130       140       150       160       170       180
+         HHHHCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHHHHHHHHHHHHHHHHHH
+3wdoA01  LLSDLTREQNRTKAMAFIGVSFGITFAIAMVLGPIITHKLGLHALFWMIAILATTGIALT
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+                190       200       210       220       230       240
+         HCCCCCCCCCCCCCCCCCCCHHHHHHHCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHC
+3wdoA01  IWVVPNSSTHVLNRESGMVKGSFSKVLAEPRLLKLNFGIMCLHMLLMSTFVALPGQLADA
+                                                             ||      
+Query    ------------------------------------------------MLELLPTAVEGV
+         ------------------------------------------------CCCCCCCCCCCC
+                                                                 10
+
+
+                    250       260       270       280       290    
+         CC----CHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHHHHHH
+3wdoA01  GF----PAAEHWKVYLATMLIAFGSVVPFIIYAEVKRKMKQVFVFCVGLIVVAEIVLWNA
+                  |     | | |   |          |       |     |           
+Query    SQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITTLVPAIAFTMYLS
+         CEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHHHHHHHHHHHHHH
+               20        30        40        50        60        70
+
+
+                         300       310       320       330       340
+         C---------------CCHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCHHHHHHHH
+3wdoA01  Q---------------TQFWQLVVGVQLFFVAFNLMEALLPSLISKESPAGYKGTAMGVY
+                                    ||     |       |                 
+Query    MLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDL---ALLVDADQ-------GTIL
+         HHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHH---HHHCCCCH-------HHHH
+               80        90       100       110                 120
+
+
+               350       360       370       380       390         
+         HHHHHHHHHHHHHHHHHHHHHCCHHHHHHHHHHHHHHHHHHHHCCCCCCCC---------
+3wdoA01  STSQFLGVAIGGSLGGWIDGMFDGQGVFLAGAMLAAVWLAVASTMKEPPYV---------
+               |  ||  | |          |  |    |                         
+Query    ALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLF------FGFTSKAESM
+         HHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHH------HHHHHHHHHC
+              130       140       150       160             170    
+
+
+                                                                   
+         ------------------------------------------------------------
+3wdoA01  ------------------------------------------------------------
+                                                                     
+Query    RPEVASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLIL
+         CHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHH
+          180       190       200       210       220       230    
+
+
+                                 
+         --------------------------
+3wdoA01  --------------------------
+                                   
+Query    LRSRAIFGEAEAPEPSAGDGAAATSD
+         HHHHHHHCCCCCCCCCCCCCCCCCCC
+          240       250       260
+
+
+Percentage Identity = 8.4.
+
+
+
+>>> Alignment with 4o6mB02:
+                                                                   
+         ------------------------------------------------------------
+4o6mB02  ------------------------------------------------------------
+                                                                     
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+                 10        20        30        40        50        60
+
+
+                                        10            20        30 
+         --------------------CCCCCCCC---HHHHHC----HHHHHHHHHHHHCCCCCCH
+4o6mB02  --------------------LKPAYYDG---WIAREI----NRKVSLRISRLLADTSVTP
+                               |          ||           |    || |     
+Query    LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGT
+         HHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHHCCCCHHH
+                 70        80        90       100       110       120
+
+
+              40        50               60        70        80    
+         HHHHHHHHHHHHHHHHHHHCCC-------HHHHHHHHHHHHHHHHHCCHHHHHHHHCCCC
+4o6mB02  NQITVFSFFLSLVGSALFLLNS-------YLTTLLAGVIIQLHSIIDGCDGEIARLKFME
+             |              |               |     |     |            
+Query    ILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRP--
+         HHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCH--
+                130       140       150       160       170        
+
+
+           90       100       110                120       130     
+         CHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCC---------HHHHHHHHHHHHHHHHHHH
+4o6mB02  SKYGAWLDGVLDRYSDFIIVFSITYVLSASNP---------VYWIIGFLAAFASLMIAYT
+                                                           |         
+Query    -EVASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILL
+         -HHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHH
+         180       190       200       210       220       230     
+
+
+         140       150       160       170       180       190     
+         HHHHHHHHCCCCCCCCCCCCCCHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHHHHHH
+4o6mB02  GDKFVAAYMRTYSPEGFAIPITRDFRLLIIFACSVVNLPSLALVIIALLGNFEALRRIVA
+                      |                                              
+Query    RSRAIFGEAEAPEPSAGDGAAATSD-----------------------------------
+         HHHHHHCCCCCCCCCCCCCCCCCCC-----------------------------------
+         240       250       260                                   
+
+
+         200
+         HCC
+4o6mB02  LRS
+            
+Query    ---
+         ---
+          
+
+
+Percentage Identity = 7.0.
+
+
+
+>>> Alignment with 2k73A00:
+                                                                   
+         ------------------------------------------------------------
+2k73A00  ------------------------------------------------------------
+                                                                     
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+                 10        20        30        40        50        60
+
+
+                                                                   
+         ------------------------------------------------------------
+2k73A00  ------------------------------------------------------------
+                                                                     
+Query    LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGT
+         HHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHHCCCCHHH
+                 70        80        90       100       110       120
+
+
+                             10           20        30        40   
+         ----------C--HHHHHHHHCC---HHHHHHHHHHHHHHHHHHHHHHHHHCCCCC----
+2k73A00  ----------M--LRFLNQASQG---RGAWLLMAFTALALELTALWFQHVMLLKPC----
+                   |               |  |      |    |  | |             
+Query    ILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEV
+         HHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHH
+                130       140       150       160       170       180
+
+
+                     50        60           70        80        90 
+         -----HHHHHHHHHHHHHHHHHHHHCCCCCCC---HHHHHHHHHHHHHHHHHHHHHHHHH
+2k73A00  -----VLSIYERAALFGVLGAALIGAIAPKTP---LRYVAMVIWLYSAFRGVQLTYEHTM
+              ||               |||                     ||  |  |      
+Query    ASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIVPLNIETLLFMVLDVSAKVGFGLILLRSR
+         HHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                190       200       210       220       230       240
+
+
+             100       110       120       130       140       150 
+         HHHCCCCCCCCCCCCCCCCCCHHHHCCCCCCCCCCCCCCCCCEECCEEHHHHHHHHHHHH
+2k73A00  LQLYPSPFATSDFMVRFPEWLPLDKWVPQVFVASGDCAERQWDFLGLEMPQWLLGIFIAY
+                                                                     
+Query    AIFGEAEAPEPSAGDGAAATSD--------------------------------------
+         HHHCCCCCCCCCCCCCCCCCCC--------------------------------------
+                250       260                                      
+
+
+             160       170       180 
+         HHHHHHHHHCCCCCCCCCCCCCCCCCCCCC
+2k73A00  LIVAVLVVISQPFKAKKRDLFGRGHHHHHH
+                                       
+Query    ------------------------------
+         ------------------------------
+                                     
+
+
+Percentage Identity = 8.7.
+
+
+
+>>> Alignment with 1ymgA00:
+                                                                   
+         ------------------------------------------------------------
+1ymgA00  ------------------------------------------------------------
+                                                                     
+Query    MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITT
+         CCCCCCCCCCCCCEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHH
+                 10        20        30        40        50        60
+
+
+                                                                   
+         ------------------------------------------------------------
+1ymgA00  ------------------------------------------------------------
+                                                                     
+Query    LVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGT
+         HHHHHHHHHHHHHHCCCCEEEEECCCCCCCEEHHHHHHHHHHHHHHHHHHHHHCCCCHHH
+                 70        80        90       100       110       120
+
+
+                                           10        20        30  
+         --------------------CCCC------HHHHHHHHHHHHHHHHHHHHHHCCCCC---
+1ymgA00  --------------------SASF------WRAICAEFFASLFYVFFGLGASLRWAG---
+                                       |    |     |   |||            
+Query    ILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEV
+         HHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHH
+                130       140       150       160       170       180
+
+
+                  40        50        60        70         80      
+         --HHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHCCCCC-HHHHHHHHHHHH
+1ymgA00  --PLHVLQVALAFGLALATLVQAVGHISGAHVNPAVTFAFLVGSQMS-LLRAICYMVAQL
+              ||             |   |  |                           ||   
+Query    ASTFKVLRNVTVVLWSAYPVVWLIG--SEG------------AGIVPLNIETLLFMVLDV
+         HHHHHHHHHHHHHHHHHHHHHHHHC--CCC------------CCCCCHHHHHHHHHHHHH
+                190       200                     210       220    
+
+
+                  100          110       120       130       140   
+         HHHHHHHHHHHHHC---CCCCCCCCCCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHCC
+1ymgA00  LGAVAGAAVLYSVT---PPAVRGNLALNTLHPGVSVGQATIVEIFLTLQFVLCIFATYDE
+            |     |         |              |                         
+Query    SAKVGFGLILLRSRAIFGEAEAPEPSAGDGAAATSD------------------------
+         HHHHHHHHHHHHHHHHHCCCCCCCCCCCCCCCCCCC------------------------
+          230       240       250       260                        
+
+
+           150       160       170       180       190       200   
+         CCCCCCCCHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHHCCCCCCCHHHHHHHHH
+1ymgA00  RRNGRLGSVALAVGFSLTLGHLFGMYYTGAGMNPARSFAPAILTRNFTNHWVYWVGPVIG
+                                                                     
+Query    ------------------------------------------------------------
+         ------------------------------------------------------------
+                                                                   
+
+
+           210       220       230 
+         HHHHHHHHHCCCCCCCCCHHHHHHHHHC
+1ymgA00  AGLGSLLYDFLLFPRLKSVSERLSILKG
+                                     
+Query    ----------------------------
+         ----------------------------
+                                   
+
+
+Percentage Identity = 7.3.
+
