@@ -79,8 +79,8 @@ let hspred_path = "./files/5a4ec54c-3ca7-11ec-b12b-00163e100d53_hs-pred.out";
 // fs.writeFileSync('./files/ffpredgo_test.txt', JSON.stringify(ffpredgo_parsed, null, 2) , 'utf-8');
 // let metpred_parsed = await parseMetpredFormat(pdb_seq_chain_A, "CU", metpred_path);
 // fs.writeFileSync('./files/metpred_test.txt', JSON.stringify(metpred_parsed, null, 2) , 'utf-8');
-let hspred_parsed = await parseHSPredFormat(pdb_seq_chain_A, "A", hspred_path);
-fs.writeFileSync('./files/hspred_test.txt', JSON.stringify(hspred_parsed, null, 2) , 'utf-8');
+// let hspred_parsed = await parseHSPredFormat(pdb_seq_chain_A, "A", hspred_path);
+// fs.writeFileSync('./files/hspred_test.txt', JSON.stringify(hspred_parsed, null, 2) , 'utf-8');
 
 let horiz_data = fs.readFileSync("./files/horiz_test.txt", 'utf8');
 horiz_data = JSON.parse(horiz_data);
@@ -122,54 +122,54 @@ hspred_data = JSON.parse(hspred_data);
 // At the time of writing time was pressed and mocking URLs was
 // a bit out of scope
 describe('Parsers: parse PSIPRED files tests', () => {
-  // it('should parse horiz file', () => {
-  //   return parseHFormat(horiz_path).then(result => {assert.deepEqual(result, horiz_data)});
-  // });
-  // it('should parse ss2 file', () => {
-  //    return parseSS2Format(ss2_path).then(result => {assert.deepEqual(result, ss2_data)});
-  // });
-  // it('should parse comb file', () => {
-  //    return parseCombFormat(comb_path).then(result => {assert.deepEqual(result, comb_data)});
-  // });
-  // it('should parse pbdat file', () => {
-  //    return parsePbdatFormat(pbdat_path).then(result => {assert.deepEqual(result, pbdat_data)});
-  // });
-  // it('should parse memsatsvm file', () => {
-  //    return parseMemsatSVMFormat(test_seq, memsatsvm_path).then(result => {assert.deepEqual(result, memsatsvm_data)});
-  // });
-  // it('should parse presults file', () => {
-  //    return parsePResultsFormat(test_seq, presults_path).then(result => {assert.deepEqual(result, presults_data)});
-  // });
-  // it('should parse align file', () => {
-  //   return parseAlignFormat(test_seq, align_path).then(result => {assert.deepEqual(result, align_data)});
-  // });
-  // it('should parse psicov file', () => {
-  //   return parsePsicovFormat(test_seq, psicov_path).then(result => {assert.deepEqual(result, psicov_data)});
-  // });
-  // it('should parse dmp con file', () => {
-  //   return parseDMPFormat(test_seq, psicov_path).then(result => {assert.deepEqual(result, psicov_data)});
-  // });
-  // it('should parse MP lipid exposure file', () => {
-  //   return parseMPLipidFormat(test_seq, mp_lipid_path).then(result => {assert.deepEqual(result, mp_lipid_data)});
-  // });
-  // it('should parse MP Contact exposire file', () => {
-  //   return parseMPContactFormat(test_seq, mp_contact_path).then(result => {assert.deepEqual(result, mp_contact_data)});
-  // });
-  // it('should parse DOM presults file', () => {
-  //    return parseDomThPResultsFormat(test_seq, dom_presults_path).then(result => {assert.deepEqual(result, dom_presults_data)});
-  // });
-  // it('should parse Dompred file', () => {
-  //    return parseDompredFormat(test_seq, dompred_path).then(result => {assert.deepEqual(result, dompred_data)});
-  // });
-  // it('should parse Featcfg file', () => {
-  //    return parseFeatcfgFormat(featcfg_path).then(result => {assert.deepEqual(result, featcfg_data)});
-  // });
-  // it('should parse ffpredgo file', () => {
-  //    return parseFFPredGOFormat(test_seq, ffpredgo_path).then(result => {assert.deepEqual(result, ffpredgo_data)});
-  // });
-  // it('should parse metpred file', () => {
-  //    return parseMetpredFormat(pdb_seq_chain_A, "CU", metpred_path).then(result => {assert.deepEqual(result, metpred_data)});
-  // });
+  it('should parse horiz file', () => {
+    return parseHFormat(horiz_path).then(result => {assert.deepEqual(result, horiz_data)});
+  });
+  it('should parse ss2 file', () => {
+     return parseSS2Format(ss2_path).then(result => {assert.deepEqual(result, ss2_data)});
+  });
+  it('should parse comb file', () => {
+     return parseCombFormat(comb_path).then(result => {assert.deepEqual(result, comb_data)});
+  });
+  it('should parse pbdat file', () => {
+     return parsePbdatFormat(pbdat_path).then(result => {assert.deepEqual(result, pbdat_data)});
+  });
+  it('should parse memsatsvm file', () => {
+     return parseMemsatSVMFormat(test_seq, memsatsvm_path).then(result => {assert.deepEqual(result, memsatsvm_data)});
+  });
+  it('should parse presults file', () => {
+     return parsePResultsFormat(test_seq, presults_path).then(result => {assert.deepEqual(result, presults_data)});
+  });
+  it('should parse align file', () => {
+    return parseAlignFormat(test_seq, align_path).then(result => {assert.deepEqual(result, align_data)});
+  });
+  it('should parse psicov file', () => {
+    return parsePsicovFormat(test_seq, psicov_path).then(result => {assert.deepEqual(result, psicov_data)});
+  });
+  it('should parse dmp con file', () => {
+    return parseDMPFormat(test_seq, psicov_path).then(result => {assert.deepEqual(result, psicov_data)});
+  });
+  it('should parse MP lipid exposure file', () => {
+    return parseMPLipidFormat(test_seq, mp_lipid_path).then(result => {assert.deepEqual(result, mp_lipid_data)});
+  });
+  it('should parse MP Contact exposire file', () => {
+    return parseMPContactFormat(test_seq, mp_contact_path).then(result => {assert.deepEqual(result, mp_contact_data)});
+  });
+  it('should parse DOM presults file', () => {
+     return parseDomThPResultsFormat(test_seq, dom_presults_path).then(result => {assert.deepEqual(result, dom_presults_data)});
+  });
+  it('should parse Dompred file', () => {
+     return parseDompredFormat(test_seq, dompred_path).then(result => {assert.deepEqual(result, dompred_data)});
+  });
+  it('should parse Featcfg file', () => {
+     return parseFeatcfgFormat(featcfg_path).then(result => {assert.deepEqual(result, featcfg_data)});
+  });
+  it('should parse ffpredgo file', () => {
+     return parseFFPredGOFormat(test_seq, ffpredgo_path).then(result => {assert.deepEqual(result, ffpredgo_data)});
+  });
+  it('should parse metpred file', () => {
+     return parseMetpredFormat(pdb_seq_chain_A, "CU", metpred_path).then(result => {assert.deepEqual(result, metpred_data)});
+  });
   it('should parse HSPred file', () => {
      return parseHSPredFormat(pdb_seq_chain_A, "A", hspred_path).then(result => {assert.deepEqual(result, hspred_data)});
   });
