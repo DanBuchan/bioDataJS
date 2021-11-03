@@ -16,11 +16,17 @@ import { parseMPContactFormat } from '../src/psipred_parsers.js';
 import { parseDomThPResultsFormat } from '../src/psipred_parsers.js';
 import { parseDompredFormat } from '../src/psipred_parsers.js';
 import { parseFeatcfgFormat } from '../src/psipred_parsers.js';
+import { parseFFPredGOFormat } from '../src/psipred_parsers.js';
+import { parseMetpredFormat } from '../src/psipred_parsers.js';
+import { parseHSPredFormat } from '../src/psipred_parsers.js';
 
 import fs from 'fs';
 
 // fixtures
 let test_seq = "MLELLPTAVEGVSQAQITGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITTLVPAIAFTMYLSMLLGYGLTMVPFGGEQNPIYWARYADWLFTTPLLLLDLALLVDADQGTILALVGADGIMIGTGLVGALTKVYSYRFVWWAISTAAMLYILYVLFFGFTSKAESMRPEVASTFKVLRNVTVVLWSAYPVVWLI";
+let pdb_seq_chain_A = "HKCDITLQEIIKTLNSLTEQKTLCTELTVTDIFAASKNTTEKETFCRAATVLRQFYSHHEKDTRCLGATAQQFHRHKQLIRFLKRLDRNLWGLAGLNSCPVKEANQSTLENFLERLKTIMREKYSKCSS";
+let pdb_seq_chain_B = "FKVLQEPTCVSDYMSISTCEWKMNGPTNCSTELRLLYQLVFLLSEAHTCIPENNGGAGCVCHLLMDDVVSADNYTLDLWAGQQLLWKGSFKPSEHVKPRAPGNLTVHTNVSDTLLLTWSNPYPPDNYLYNHLTYAVNIWSENDPADFRIYNVTYLEPSLRIAASTLKSGISYRARVRAWAQAYNTTWSEWSPSTKWHNSYREPFEQH";
+
 let horiz_uri = "http://bioinf.cs.ucl.ac.uk/psipred/api/submissions/4730b94e-2513-11ec-836b-00163e100d53.horiz";
 let horiz_path = "./files/4730b94e-2513-11ec-836b-00163e100d53.horiz";
 let ss2_uri = "http://bioinf.cs.ucl.ac.uk/psipred/api/submissions/4730b94e-2513-11ec-836b-00163e100d53.ss2";
@@ -37,6 +43,9 @@ let mp_contact_path = "./files/619784c2-38cb-11ec-aa34-00163e100d53_CONTACT_DEF1
 let dom_presults_path = "./files/fe33df72-3af8-11ec-99aa-00163e100d53.presults";
 let dompred_path = "./files/2bc9da94-3bd6-11ec-9bef-00163e100d53.boundary";
 let featcfg_path = "./files/4b22ec6e-3bdb-11ec-ba13-00163e100d53.featcfg";
+let ffpredgo_path = "./files/4b22ec6e-3bdb-11ec-ba13-00163e100d53.full_raw";
+let metpred_path = "./files/20eb4812-3c9c-11ec-9faa-00163e100d53.Metpred";
+let hspred_path = "./files/5a4ec54c-3ca7-11ec-b12b-00163e100d53_hs-pred.out";
 
 // let hformat_parsed = await parseHFormat(horiz_path);
 // fs.writeFileSync('./files/horiz_test.txt', JSON.stringify(hformat_parsed, null, 2) , 'utf-8');
@@ -66,6 +75,12 @@ let featcfg_path = "./files/4b22ec6e-3bdb-11ec-ba13-00163e100d53.featcfg";
 // fs.writeFileSync('./files/dompred_test.txt', JSON.stringify(dompred_parsed, null, 2) , 'utf-8');
 // let featcfg_parsed = await parseFeatcfgFormat(featcfg_path);
 // fs.writeFileSync('./files/featcfg_test.txt', JSON.stringify(featcfg_parsed, null, 2) , 'utf-8');
+// let ffpredgo_parsed = await parseFFPredGOFormat(test_seq, ffpredgo_path);
+// fs.writeFileSync('./files/ffpredgo_test.txt', JSON.stringify(ffpredgo_parsed, null, 2) , 'utf-8');
+// let metpred_parsed = await parseMetpredFormat(pdb_seq_chain_A, "CU", metpred_path);
+// fs.writeFileSync('./files/metpred_test.txt', JSON.stringify(metpred_parsed, null, 2) , 'utf-8');
+let hspred_parsed = await parseHSPredFormat(pdb_seq_chain_A, "A", hspred_path);
+fs.writeFileSync('./files/hspred_test.txt', JSON.stringify(hspred_parsed, null, 2) , 'utf-8');
 
 let horiz_data = fs.readFileSync("./files/horiz_test.txt", 'utf8');
 horiz_data = JSON.parse(horiz_data);
@@ -95,6 +110,12 @@ let dompred_data = fs.readFileSync("./files/dompred_test.txt", 'utf8');
 dompred_data = JSON.parse(dompred_data);
 let featcfg_data = fs.readFileSync("./files/featcfg_test.txt", 'utf8');
 featcfg_data = JSON.parse(featcfg_data);
+let ffpredgo_data = fs.readFileSync("./files/ffpredgo_test.txt", 'utf8');
+ffpredgo_data = JSON.parse(ffpredgo_data);
+let metpred_data = fs.readFileSync("./files/metpred_test.txt", 'utf8');
+metpred_data = JSON.parse(metpred_data);
+let hspred_data = fs.readFileSync("./files/hspred_test.txt", 'utf8');
+hspred_data = JSON.parse(hspred_data);
 
 // let memsatsvm_parsed = await parseMemsatSVMFormat(memsatsvm_path);
 // Hi there are no tests for the fetch stuff in here.
@@ -140,8 +161,17 @@ describe('Parsers: parse PSIPRED files tests', () => {
   // it('should parse Dompred file', () => {
   //    return parseDompredFormat(test_seq, dompred_path).then(result => {assert.deepEqual(result, dompred_data)});
   // });
-  it('should parse Featcfg file', () => {
-     return parseFeatcfgFormat(featcfg_path).then(result => {assert.deepEqual(result, featcfg_data)});
+  // it('should parse Featcfg file', () => {
+  //    return parseFeatcfgFormat(featcfg_path).then(result => {assert.deepEqual(result, featcfg_data)});
+  // });
+  // it('should parse ffpredgo file', () => {
+  //    return parseFFPredGOFormat(test_seq, ffpredgo_path).then(result => {assert.deepEqual(result, ffpredgo_data)});
+  // });
+  // it('should parse metpred file', () => {
+  //    return parseMetpredFormat(pdb_seq_chain_A, "CU", metpred_path).then(result => {assert.deepEqual(result, metpred_data)});
+  // });
+  it('should parse HSPred file', () => {
+     return parseHSPredFormat(pdb_seq_chain_A, "A", hspred_path).then(result => {assert.deepEqual(result, hspred_data)});
   });
 
   // have no idea how to test exceptiohs with chai in async functions

@@ -600,3 +600,82 @@ export async function parseFeatcfgFormat(location)
   let seq_data = sequence(seq, undefined, parsed, location, residue_parsed);
   return(seq_data);
 }
+
+export async function parseFFPredGOFormat(seq, location)
+{
+  let data;
+  if(location.startsWith("http"))
+  {
+    data = await fetchData(location);
+  }
+  else {
+    data = readData(location);
+  }
+  let parsed = {};
+  const lines = data.split("\n");
+  lines.slice(5,lines.length-1).forEach(function(line, i){
+    line = line.trim();
+    if(line.startsWith("#")){return;}
+    let entries = line.split(/\t/);
+    let ontology = entries[3];
+    if(parsed[ontology]){
+      parsed[entries[3]].push({GO_term: entries[1], score: entries[0], confidence: entries[2], term: entries[4] });
+    }
+    else
+    {
+      parsed[entries[3]] = [{GO_term: entries[1], score: entries[0], confidence: entries[2], term: entries[4]}];
+    }
+  });
+  //console.log(parsed);
+  let seq_data = sequence(seq, undefined, parsed, location, undefined);
+  return(seq_data);
+}
+
+export async function parseMetpredFormat(seq, metal_ion, location)
+{
+  let data;
+  if(location.startsWith("http"))
+  {
+    data = await fetchData(location);
+  }
+  else {
+    data = readData(location);
+  }
+  let parsed = [];
+  const lines = data.split("\n");
+  let entries = lines[0].split(/\s/);
+  for(var i = 0; i < entries.length; i+=3){
+    let set = entries.slice(i, i+3);
+    var num = set[2].match(/\d+/g);
+    var letr = set[2].match(/[a-zA-Z]+/g);
+    parsed[num[0]] = {metal_ion: metal_ion, score: set[1], residue_id: letr[0]}
+  }
+  let seq_data = sequence(seq, undefined, undefined, location, parsed);
+  return(seq_data);
+}
+
+export async function parseHSPredFormat(seq, chain, location)
+{
+  let data;
+  if(location.startsWith("http"))
+  {
+    data = await fetchData(location);
+  }
+  else {
+    data = readData(location);
+  }
+  let parsed = [];
+  const lines = data.split("\n");
+  lines.forEach(function(line){
+     let entries = line.split(/\s+/);
+     if(entries.length < 3){return;}
+     var num = entries[0].match(/\d+/g);
+     var letr = entries[0].match(/[a-zA-Z]+/g);
+     if(letr[0] === chain){
+       parsed[num[0]] = {residue: entries[1], score: entries[2]};
+     }
+  });
+  //console.log(parsed);
+  let seq_data = sequence(seq, undefined, undefined, location, parsed);
+  return(seq_data);
+}
