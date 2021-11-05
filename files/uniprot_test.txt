@@ -2930,37 +2930,37 @@
           "M18737",
           "AAA52647.1",
           "-",
-          "mRNA."
+          "mRNA"
         ],
         [
           "CR456968",
           "CAG33249.1",
           "-",
-          "mRNA."
+          "mRNA"
         ],
         [
           "AC091977",
           "-",
           "NOT_ANNOTATED_CDS",
-          "Genomic_DNA."
+          "Genomic_DNA"
         ],
         [
           "BC015739",
           "AAH15739.1",
           "-",
-          "mRNA."
+          "mRNA"
         ],
         [
           "AB284134",
           "BAF56159.1",
           "-",
-          "mRNA."
+          "mRNA"
         ],
         [
           "U40006",
           "AAD00009.1",
           "-",
-          "Genomic_DNA."
+          "Genomic_DNA"
         ]
       ],
       "CCDS": [
@@ -2972,7 +2972,7 @@
       "PIR": [
         [
           "A31372",
-          "A31372."
+          "A31372"
         ]
       ],
       "RefSeq": [
@@ -2986,135 +2986,135 @@
           "1HF1",
           "Model",
           "-",
-          "A=29-262."
+          "A=29-262"
         ],
         [
           "1OP8",
           "X-ray",
           "2.50 A",
-          "A/B/C/D/E/F=29-262."
+          "A/B/C/D/E/F=29-262"
         ],
         [
           "1ORF",
           "X-ray",
           "2.40 A",
-          "A=29-262."
+          "A=29-262"
         ]
       ],
       "PDBsum": [
         [
           "1HF1",
-          "-."
+          "-"
         ],
         [
           "1OP8",
-          "-."
+          "-"
         ],
         [
           "1ORF",
-          "-."
+          "-"
         ]
       ],
       "SMR": [
         [
           "P12544",
-          "-."
+          "-"
         ]
       ],
       "BioGRID": [
         [
           "109256",
-          "17."
+          "17"
         ]
       ],
       "IntAct": [
         [
           "P12544",
-          "4."
+          "4"
         ]
       ],
       "STRING": [
         [
           "9606.ENSP00000274306",
-          "-."
+          "-"
         ]
       ],
       "ChEMBL": [
         [
           "CHEMBL4307",
-          "-."
+          "-"
         ]
       ],
       "MEROPS": [
         [
           "S01.135",
-          "-."
+          "-"
         ]
       ],
       "GlyGen": [
         [
           "P12544",
-          "1 site."
+          "1 site"
         ]
       ],
       "iPTMnet": [
         [
           "P12544",
-          "-."
+          "-"
         ]
       ],
       "PhosphoSitePlus": [
         [
           "P12544",
-          "-."
+          "-"
         ]
       ],
       "BioMuta": [
         [
           "GZMA",
-          "-."
+          "-"
         ]
       ],
       "DMDM": [
         [
           "317373360",
-          "-."
+          "-"
         ]
       ],
       "jPOST": [
         [
           "P12544",
-          "-."
+          "-"
         ]
       ],
       "MassIVE": [
         [
           "P12544",
-          "-."
+          "-"
         ]
       ],
       "MaxQB": [
         [
           "P12544",
-          "-."
+          "-"
         ]
       ],
       "PaxDb": [
         [
           "P12544",
-          "-."
+          "-"
         ]
       ],
       "PeptideAtlas": [
         [
           "P12544",
-          "-."
+          "-"
         ]
       ],
       "PRIDE": [
         [
           "P12544",
-          "-."
+          "-"
         ]
       ],
       "ProteomicsDB": [
@@ -3130,19 +3130,19 @@
       "Antibodypedia": [
         [
           "11050",
-          "374 antibodies."
+          "374 antibodies"
         ]
       ],
       "CPTC": [
         [
           "P12544",
-          "1 antibody."
+          "1 antibody"
         ]
       ],
       "DNASU": [
         [
           "3001",
-          "-."
+          "-"
         ]
       ],
       "Ensembl": [
@@ -3155,13 +3155,13 @@
       "GeneID": [
         [
           "3001",
-          "-."
+          "-"
         ]
       ],
       "KEGG": [
         [
           "hsa:3001",
-          "-."
+          "-"
         ]
       ],
       "UCSC": [
@@ -3173,358 +3173,358 @@
       "CTD": [
         [
           "3001",
-          "-."
+          "-"
         ]
       ],
       "DisGeNET": [
         [
           "3001",
-          "-."
+          "-"
         ]
       ],
       "GeneCards": [
         [
           "GZMA",
-          "-."
+          "-"
         ]
       ],
       "HGNC": [
         [
           "HGNC:4708",
-          "GZMA."
+          "GZMA"
         ]
       ],
       "HPA": [
         [
           "ENSG00000145649",
-          "Group enriched (blood, intestine, lymphoid tissue)."
+          "Group enriched (blood, intestine, lymphoid tissue)"
         ]
       ],
       "MIM": [
         [
           "140050",
-          "gene."
+          "gene"
         ]
       ],
       "neXtProt": [
         [
           "NX_P12544",
-          "-."
+          "-"
         ]
       ],
       "OpenTargets": [
         [
           "ENSG00000145649",
-          "-."
+          "-"
         ]
       ],
       "PharmGKB": [
         [
           "PA29086",
-          "-."
+          "-"
         ]
       ],
       "VEuPathDB": [
         [
           "HostDB:ENSG00000145649.7",
-          "-."
+          "-"
         ]
       ],
       "eggNOG": [
         [
           "KOG3627",
-          "Eukaryota."
+          "Eukaryota"
         ]
       ],
       "GeneTree": [
         [
           "ENSGT00940000159928",
-          "-."
+          "-"
         ]
       ],
       "HOGENOM": [
         [
           "CLU_006842_1_0_1",
-          "-."
+          "-"
         ]
       ],
       "InParanoid": [
         [
           "P12544",
-          "-."
+          "-"
         ]
       ],
       "OMA": [
         [
           "YPCYDPA",
-          "-."
+          "-"
         ]
       ],
       "OrthoDB": [
         [
           "1105435at2759",
-          "-."
+          "-"
         ]
       ],
       "PhylomeDB": [
         [
           "P12544",
-          "-."
+          "-"
         ]
       ],
       "TreeFam": [
         [
           "TF333630",
-          "-."
+          "-"
         ]
       ],
       "BRENDA": [
         [
           "3.4.21.78",
-          "2681."
+          "2681"
         ]
       ],
       "PathwayCommons": [
         [
           "P12544",
-          "-."
+          "-"
         ]
       ],
       "SIGNOR": [
         [
           "P12544",
-          "-."
+          "-"
         ]
       ],
       "BioGRID-ORCS": [
         [
           "3001",
-          "13 hits in 992 CRISPR screens."
+          "13 hits in 992 CRISPR screens"
         ]
       ],
       "EvolutionaryTrace": [
         [
           "P12544",
-          "-."
+          "-"
         ]
       ],
       "GeneWiki": [
         [
           "GZMA",
-          "-."
+          "-"
         ]
       ],
       "GenomeRNAi": [
         [
           "3001",
-          "-."
+          "-"
         ]
       ],
       "Pharos": [
         [
           "P12544",
-          "Tbio."
+          "Tbio"
         ]
       ],
       "PRO": [
         [
           "PR:P12544",
-          "-."
+          "-"
         ]
       ],
       "Proteomes": [
         [
           "UP000005640",
-          "Chromosome 5."
+          "Chromosome 5"
         ]
       ],
       "RNAct": [
         [
           "P12544",
-          "protein."
+          "protein"
         ]
       ],
       "Bgee": [
         [
           "ENSG00000145649",
-          "Expressed in granulocyte and 169 other tissues."
+          "Expressed in granulocyte and 169 other tissues"
         ]
       ],
       "Genevisible": [
         [
           "P12544",
-          "HS."
+          "HS"
         ]
       ],
       "GO": [
         [
           "GO:0005576",
           "C:extracellular region",
-          "IEA:UniProtKB-SubCell."
+          "IEA:UniProtKB-SubCell"
         ],
         [
           "GO:0001772",
           "C:immunological synapse",
-          "TAS:UniProtKB."
+          "TAS:UniProtKB"
         ],
         [
           "GO:0005634",
           "C:nucleus",
-          "TAS:UniProtKB."
+          "TAS:UniProtKB"
         ],
         [
           "GO:0042803",
           "F:protein homodimerization activity",
-          "IDA:UniProtKB."
+          "IDA:UniProtKB"
         ],
         [
           "GO:0004252",
           "F:serine-type endopeptidase activity",
-          "IDA:UniProtKB."
+          "IDA:UniProtKB"
         ],
         [
           "GO:0006915",
           "P:apoptotic process",
-          "TAS:UniProtKB."
+          "TAS:UniProtKB"
         ],
         [
           "GO:0019835",
           "P:cytolysis",
-          "IEA:UniProtKB-KW."
+          "IEA:UniProtKB-KW"
         ],
         [
           "GO:1902483",
           "P:cytotoxic T cell pyroptotic process",
-          "IDA:UniProtKB."
+          "IDA:UniProtKB"
         ],
         [
           "GO:0140507",
           "P:granzyme-mediated programmed cell death signaling pathway",
-          "IDA:UniProtKB."
+          "IDA:UniProtKB"
         ],
         [
           "GO:0006955",
           "P:immune response",
-          "TAS:UniProtKB."
+          "TAS:UniProtKB"
         ],
         [
           "GO:0043392",
           "P:negative regulation of DNA binding",
-          "IDA:UniProtKB."
+          "IDA:UniProtKB"
         ],
         [
           "GO:0032078",
           "P:negative regulation of endodeoxyribonuclease activity",
-          "IDA:UniProtKB."
+          "IDA:UniProtKB"
         ],
         [
           "GO:0051354",
           "P:negative regulation of oxidoreductase activity",
-          "IDA:UniProtKB."
+          "IDA:UniProtKB"
         ],
         [
           "GO:0043065",
           "P:positive regulation of apoptotic process",
-          "IDA:UniProtKB."
+          "IDA:UniProtKB"
         ],
         [
           "GO:0051603",
           "P:proteolysis involved in cellular protein catabolic process",
-          "IDA:UniProtKB."
+          "IDA:UniProtKB"
         ],
         [
           "GO:0070269",
           "P:pyroptosis",
-          "IDA:UniProtKB."
+          "IDA:UniProtKB"
         ],
         [
           "GO:0009617",
           "P:response to bacterium",
-          "IEA:Ensembl."
+          "IEA:Ensembl"
         ]
       ],
       "CDD": [
         [
           "cd00190",
           "Tryp_SPc",
-          "1."
+          "1"
         ]
       ],
       "Gene3D": [
         [
           "2.40.10.10",
           "-",
-          "2."
+          "2"
         ]
       ],
       "InterPro": [
         [
           "IPR009003",
-          "Peptidase_S1_PA."
+          "Peptidase_S1_PA"
         ],
         [
           "IPR043504",
-          "Peptidase_S1_PA_chymotrypsin."
+          "Peptidase_S1_PA_chymotrypsin"
         ],
         [
           "IPR001314",
-          "Peptidase_S1A."
+          "Peptidase_S1A"
         ],
         [
           "IPR001254",
-          "Trypsin_dom."
+          "Trypsin_dom"
         ],
         [
           "IPR018114",
-          "TRYPSIN_HIS."
+          "TRYPSIN_HIS"
         ],
         [
           "IPR033116",
-          "TRYPSIN_SER."
+          "TRYPSIN_SER"
         ]
       ],
       "Pfam": [
         [
           "PF00089",
           "Trypsin",
-          "1."
+          "1"
         ]
       ],
       "PRINTS": [
         [
           "PR00722",
-          "CHYMOTRYPSIN."
+          "CHYMOTRYPSIN"
         ]
       ],
       "SMART": [
         [
           "SM00020",
           "Tryp_SPc",
-          "1."
+          "1"
         ]
       ],
       "SUPFAM": [
         [
           "SSF50494",
           "SSF50494",
-          "1."
+          "1"
         ]
       ],
       "PROSITE": [
         [
           "PS50240",
           "TRYPSIN_DOM",
-          "1."
+          "1"
         ],
         [
           "PS00134",
           "TRYPSIN_HIS",
-          "1."
+          "1"
         ],
         [
           "PS00135",
           "TRYPSIN_SER",
-          "1."
+          "1"
         ]
       ]
     },
@@ -3534,7 +3534,7 @@
       "A4PHN1",
       "Q6IB36"
     ],
-    "description": "RecName: Full=Granzyme A {ECO:0000303|PubMed:3263427};\n         EC=3.4.21.78 {ECO:0000269|PubMed:12819770, ECO:0000269|PubMed:32299851};\nAltName: Full=CTL tryptase {ECO:0000303|PubMed:3047119};\nAltName: Full=Cytotoxic T-lymphocyte proteinase 1 {ECO:0000303|PubMed:3047119};\nAltName: Full=Fragmentin-1;\nAltName: Full=Granzyme-1 {ECO:0000303|PubMed:3262682};\nAltName: Full=Hanukkah factor {ECO:0000303|PubMed:3257574};\n         Short=H factor {ECO:0000303|PubMed:3257574};\n         Short=HF {ECO:0000303|PubMed:3257574};\nFlags: Precursor;\n",
+    "description": "RecName: Full=Granzyme A {ECO:0000303|PubMed:3263427}\n         EC=3.4.21.78 {ECO:0000269|PubMed:12819770, ECO:0000269|PubMed:32299851}\nAltName: Full=CTL tryptase {ECO:0000303|PubMed:3047119}\nAltName: Full=Cytotoxic T-lymphocyte proteinase 1 {ECO:0000303|PubMed:3047119}\nAltName: Full=Fragmentin-1\nAltName: Full=Granzyme-1 {ECO:0000303|PubMed:3262682}\nAltName: Full=Hanukkah factor {ECO:0000303|PubMed:3257574}\n         Short=H factor {ECO:0000303|PubMed:3257574}\n         Short=HF {ECO:0000303|PubMed:3257574}\nFlags: Precursor\n",
     "gene_name": "GZMA",
     "gene_evidence": [
       "ECO:0000303|PubMed:32299851",
@@ -3548,27 +3548,27 @@
     "taxonomy": "Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; HominidaeHomo",
     "ncbi_taxaID": "9606",
     "references": [
-      "NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM ALPHA), FUNCTION, SUBCELLULAR LOCATION,\nAND VARIANT THR-121.\nTISSUE=T-cell;\nPubMed=3257574; DOI=10.1073/pnas.85.4.1184;\nGershenfeld H.K., Hershberger R.J., Shows T.B., Weissman I.L.;\n\"Cloning and chromosomal assignment of a human cDNA encoding a T cell- and\nnatural killer cell-specific trypsin-like serine protease.\";\nProc. Natl. Acad. Sci. U.S.A. 85:1184-1188(1988).\n",
-      "NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM ALPHA), AND VARIANT\nTHR-121.\nEbert L., Schick M., Neubert P., Schatten R., Henze S., Korn B.;\n\"Cloning of human full open reading frames in Gateway(TM) system entry\nvector (pDONR201).\";\nSubmitted (JUN-2004) to the EMBL/GenBank/DDBJ databases.\n",
-      "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].\nPubMed=15372022; DOI=10.1038/nature02919;\nSchmutz J., Martin J., Terry A., Couronne O., Grimwood J., Lowry S.,\nGordon L.A., Scott D., Xie G., Huang W., Hellsten U., Tran-Gyamfi M.,\nShe X., Prabhakar S., Aerts A., Altherr M., Bajorek E., Black S.,\nBranscomb E., Caoile C., Challacombe J.F., Chan Y.M., Denys M.,\nDetter J.C., Escobar J., Flowers D., Fotopulos D., Glavina T., Gomez M.,\nGonzales E., Goodstein D., Grigoriev I., Groza M., Hammon N., Hawkins T.,\nHaydu L., Israni S., Jett J., Kadner K., Kimball H., Kobayashi A.,\nLopez F., Lou Y., Martinez D., Medina C., Morgan J., Nandkeshwar R.,\nNoonan J.P., Pitluck S., Pollard M., Predki P., Priest J., Ramirez L.,\nRetterer J., Rodriguez A., Rogers S., Salamov A., Salazar A., Thayer N.,\nTice H., Tsai M., Ustaszewska A., Vo N., Wheeler J., Wu K., Yang J.,\nDickson M., Cheng J.-F., Eichler E.E., Olsen A., Pennacchio L.A.,\nRokhsar D.S., Richardson P., Lucas S.M., Myers R.M., Rubin E.M.;\n\"The DNA sequence and comparative analysis of human chromosome 5.\";\nNature 431:268-274(2004).\n",
-      "NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM ALPHA), AND VARIANT\nTHR-121.\nTISSUE=Blood;\nPubMed=15489334; DOI=10.1101/gr.2596504;\nThe MGC Project Team;\n\"The status, quality, and expansion of the NIH full-length cDNA project:\nthe Mammalian Gene Collection (MGC).\";\nGenome Res. 14:2121-2127(2004).\n",
-      "NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-72, NUCLEOTIDE SEQUENCE [MRNA] OF\n1-34 (ISOFORM BETA), ALTERNATIVE PROMOTER USAGE, AND INDUCTION.\nPubMed=17180578; DOI=10.1007/s10038-006-0099-9;\nRuike Y., Katsuma S., Hirasawa A., Tsujimoto G.;\n\"Glucocorticoid-induced alternative promoter usage for a novel 5' variant\nof granzyme A.\";\nJ. Hum. Genet. 52:172-178(2007).\n",
-      "NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-23.\nGoralski T.J., Krensky A.M.;\n\"The upstream region of the human granzyme A locus contains both positive\nand negative transcriptional regulatory elements.\";\nSubmitted (NOV-1995) to the EMBL/GenBank/DDBJ databases.\n",
-      "PROTEIN SEQUENCE OF 29-53.\nPubMed=3047119;\nPoe M., Bennett C.D., Biddison W.E., Blake J.T., Norton G.P., Rodkey J.A.,\nSigal N.H., Turner R.V., Wu J.K., Zweerink H.J.;\n\"Human cytotoxic lymphocyte tryptase. Its purification from granules and\nthe characterization of inhibitor and substrate specificity.\";\nJ. Biol. Chem. 263:13215-13222(1988).\n",
-      "PROTEIN SEQUENCE OF 29-40, AND FUNCTION.\nPubMed=3262682;\nHameed A., Lowrey D.M., Lichtenheld M., Podack E.R.;\n\"Characterization of three serine esterases isolated from human IL-2\nactivated killer cells.\";\nJ. Immunol. 141:3142-3147(1988).\n",
-      "PROTEIN SEQUENCE OF 29-39, AND FUNCTION.\nPubMed=3263427;\nKraehenbuhl O., Rey C., Jenne D.E., Lanzavecchia A., Groscurth P.,\nCarrel S., Tschopp J.;\n\"Characterization of granzymes A and B isolated from granules of cloned\nhuman cytotoxic T lymphocytes.\";\nJ. Immunol. 141:3471-3477(1988).\n",
-      "FUNCTION AS SET PROTEASE.\nPubMed=11555662; DOI=10.1074/jbc.m108137200;\nBeresford P.J., Zhang D., Oh D.Y., Fan Z., Greer E.L., Russo M.L., Jaju M.,\nLieberman J.;\n\"Granzyme A activates an endoplasmic reticulum-associated caspase-\nindependent nuclease to induce single-stranded DNA nicks.\";\nJ. Biol. Chem. 276:43285-43293(2001).\n",
-      "FUNCTION AS SET PROTEASE.\nPubMed=12628186; DOI=10.1016/s0092-8674(03)00150-8;\nFan Z., Beresford P.J., Oh D.Y., Zhang D., Lieberman J.;\n\"Tumor suppressor NM23-H1 is a granzyme A-activated DNase during CTL-\nmediated apoptosis, and the nucleosome assembly protein SET is its\ninhibitor.\";\nCell 112:659-672(2003).\n",
-      "FUNCTION, AND INTERACTION WITH APEX1.\nPubMed=12524539; DOI=10.1038/ni885;\nFan Z., Beresford P.J., Zhang D., Xu Z., Novina C.D., Yoshida A.,\nPommier Y., Lieberman J.;\n\"Cleaving the oxidative repair protein Ape1 enhances cell death mediated by\ngranzyme A.\";\nNat. Immunol. 4:145-153(2003).\n",
-      "FUNCTION AS SET PROTEASE.\nPubMed=16818237; DOI=10.1016/j.molcel.2006.06.005;\nChowdhury D., Beresford P.J., Zhu P., Zhang D., Sung J.S., Demple B.,\nPerrino F.W., Lieberman J.;\n\"The exonuclease TREX1 is in the SET complex and acts in concert with NM23-\nH1 to degrade DNA during granzyme A-mediated cell death.\";\nMol. Cell 23:133-142(2006).\n",
-      "GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-170.\nTISSUE=Liver;\nPubMed=19159218; DOI=10.1021/pr8008012;\nChen R., Jiang X., Sun D., Han G., Wang F., Ye M., Wang L., Zou H.;\n\"Glycoproteomics analysis of human liver tissue by combination of multiple\nenzyme digestion and hydrazide chemistry.\";\nJ. Proteome Res. 8:651-661(2009).\n",
-      "SUBCELLULAR LOCATION.\nPubMed=20038786; DOI=10.1182/blood-2009-10-246116;\nThiery J., Keefe D., Saffarian S., Martinvalet D., Walch M., Boucrot E.,\nKirchhausen T., Lieberman J.;\n\"Perforin activates clathrin- and dynamin-dependent endocytosis, which is\nrequired for plasma membrane repair and delivery of granzyme B for\ngranzyme-mediated apoptosis.\";\nBlood 115:1582-1593(2010).\n",
-      "FUNCTION, SUBCELLULAR LOCATION, CATALYTIC ACTIVITY, ACTIVE SITE, AND\nMUTAGENESIS OF SER-212.\nPubMed=32299851; DOI=10.1126/science.aaz7548;\nZhou Z., He H., Wang K., Shi X., Wang Y., Su Y., Wang Y., Li D., Liu W.,\nZhang Y., Shen L., Han W., Shen L., Ding J., Shao F.;\n\"Granzyme A from cytotoxic lymphocytes cleaves GSDMB to trigger pyroptosis\nin target cells.\";\nScience 368:0-0(2020).\n",
-      "3D-STRUCTURE MODELING OF 29-262.\nPubMed=3237717; DOI=10.1002/prot.340040306;\nMurphy M.E.P., Moult J., Bleackley R.C., Gershenfeld H., Weissman I.L.,\nJames M.N.G.;\n\"Comparative molecular model building of two serine proteinases from\ncytotoxic T lymphocytes.\";\nProteins 4:190-204(1988).\n",
-      "X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS) OF 29-262 IN COMPLEX WITH A\nTRIPEPTIDE CMK INHIBITOR, AND DISULFIDE BONDS.\nPubMed=12819769; DOI=10.1038/nsb944;\nBell J.K., Goetz D.H., Mahrus S., Harris J.L., Fletterick R.J., Craik C.S.;\n\"The oligomeric structure of human granzyme A is a determinant of its\nextended substrate specificity.\";\nNat. Struct. Biol. 10:527-534(2003).\n",
-      "X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS) OF 29-262 IN COMPLEX WITH SUBSTRATE,\nFUNCTION, CATALYTIC ACTIVITY, AND DISULFIDE BONDS.\nPubMed=12819770; DOI=10.1038/nsb945;\nHink-Schauer C., Estebanez-Perpina E., Kurschus F.C., Bode W., Jenne D.E.;\n\"Crystal structure of the apoptosis-inducing human granzyme A dimer.\";\nNat. Struct. Biol. 10:535-540(2003).\n"
+      "NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM ALPHA), FUNCTION, SUBCELLULAR LOCATION,\nAND VARIANT THR-121\nTISSUE=T-cell\nPubMed=3257574; DOI=10.1073/pnas.85.4.1184\nGershenfeld H.K., Hershberger R.J., Shows T.B., Weissman I.L.\n\"Cloning and chromosomal assignment of a human cDNA encoding a T cell- and\nnatural killer cell-specific trypsin-like serine protease.\"\nProc. Natl. Acad. Sci. U.S.A. 85:1184-1188(1988)\n",
+      "NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM ALPHA), AND VARIANT\nTHR-121\nEbert L., Schick M., Neubert P., Schatten R., Henze S., Korn B.\n\"Cloning of human full open reading frames in Gateway(TM) system entry\nvector (pDONR201).\"\nSubmitted (JUN-2004) to the EMBL/GenBank/DDBJ databases\n",
+      "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]\nPubMed=15372022; DOI=10.1038/nature02919\nSchmutz J., Martin J., Terry A., Couronne O., Grimwood J., Lowry S.,\nGordon L.A., Scott D., Xie G., Huang W., Hellsten U., Tran-Gyamfi M.,\nShe X., Prabhakar S., Aerts A., Altherr M., Bajorek E., Black S.,\nBranscomb E., Caoile C., Challacombe J.F., Chan Y.M., Denys M.,\nDetter J.C., Escobar J., Flowers D., Fotopulos D., Glavina T., Gomez M.,\nGonzales E., Goodstein D., Grigoriev I., Groza M., Hammon N., Hawkins T.,\nHaydu L., Israni S., Jett J., Kadner K., Kimball H., Kobayashi A.,\nLopez F., Lou Y., Martinez D., Medina C., Morgan J., Nandkeshwar R.,\nNoonan J.P., Pitluck S., Pollard M., Predki P., Priest J., Ramirez L.,\nRetterer J., Rodriguez A., Rogers S., Salamov A., Salazar A., Thayer N.,\nTice H., Tsai M., Ustaszewska A., Vo N., Wheeler J., Wu K., Yang J.,\nDickson M., Cheng J.-F., Eichler E.E., Olsen A., Pennacchio L.A.,\nRokhsar D.S., Richardson P., Lucas S.M., Myers R.M., Rubin E.M.\n\"The DNA sequence and comparative analysis of human chromosome 5.\"\nNature 431:268-274(2004)\n",
+      "NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM ALPHA), AND VARIANT\nTHR-121\nTISSUE=Blood\nPubMed=15489334; DOI=10.1101/gr.2596504\nThe MGC Project Team\n\"The status, quality, and expansion of the NIH full-length cDNA project:\nthe Mammalian Gene Collection (MGC).\"\nGenome Res. 14:2121-2127(2004)\n",
+      "NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-72, NUCLEOTIDE SEQUENCE [MRNA] OF\n1-34 (ISOFORM BETA), ALTERNATIVE PROMOTER USAGE, AND INDUCTION\nPubMed=17180578; DOI=10.1007/s10038-006-0099-9\nRuike Y., Katsuma S., Hirasawa A., Tsujimoto G.\n\"Glucocorticoid-induced alternative promoter usage for a novel 5' variant\nof granzyme A.\"\nJ. Hum. Genet. 52:172-178(2007)\n",
+      "NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-23\nGoralski T.J., Krensky A.M.\n\"The upstream region of the human granzyme A locus contains both positive\nand negative transcriptional regulatory elements.\"\nSubmitted (NOV-1995) to the EMBL/GenBank/DDBJ databases\n",
+      "PROTEIN SEQUENCE OF 29-53\nPubMed=3047119\nPoe M., Bennett C.D., Biddison W.E., Blake J.T., Norton G.P., Rodkey J.A.,\nSigal N.H., Turner R.V., Wu J.K., Zweerink H.J.\n\"Human cytotoxic lymphocyte tryptase. Its purification from granules and\nthe characterization of inhibitor and substrate specificity.\"\nJ. Biol. Chem. 263:13215-13222(1988)\n",
+      "PROTEIN SEQUENCE OF 29-40, AND FUNCTION\nPubMed=3262682\nHameed A., Lowrey D.M., Lichtenheld M., Podack E.R.\n\"Characterization of three serine esterases isolated from human IL-2\nactivated killer cells.\"\nJ. Immunol. 141:3142-3147(1988)\n",
+      "PROTEIN SEQUENCE OF 29-39, AND FUNCTION\nPubMed=3263427\nKraehenbuhl O., Rey C., Jenne D.E., Lanzavecchia A., Groscurth P.,\nCarrel S., Tschopp J.\n\"Characterization of granzymes A and B isolated from granules of cloned\nhuman cytotoxic T lymphocytes.\"\nJ. Immunol. 141:3471-3477(1988)\n",
+      "FUNCTION AS SET PROTEASE\nPubMed=11555662; DOI=10.1074/jbc.m108137200\nBeresford P.J., Zhang D., Oh D.Y., Fan Z., Greer E.L., Russo M.L., Jaju M.,\nLieberman J.\n\"Granzyme A activates an endoplasmic reticulum-associated caspase-\nindependent nuclease to induce single-stranded DNA nicks.\"\nJ. Biol. Chem. 276:43285-43293(2001)\n",
+      "FUNCTION AS SET PROTEASE\nPubMed=12628186; DOI=10.1016/s0092-8674(03)00150-8\nFan Z., Beresford P.J., Oh D.Y., Zhang D., Lieberman J.\n\"Tumor suppressor NM23-H1 is a granzyme A-activated DNase during CTL-\nmediated apoptosis, and the nucleosome assembly protein SET is its\ninhibitor.\"\nCell 112:659-672(2003)\n",
+      "FUNCTION, AND INTERACTION WITH APEX1\nPubMed=12524539; DOI=10.1038/ni885\nFan Z., Beresford P.J., Zhang D., Xu Z., Novina C.D., Yoshida A.,\nPommier Y., Lieberman J.\n\"Cleaving the oxidative repair protein Ape1 enhances cell death mediated by\ngranzyme A.\"\nNat. Immunol. 4:145-153(2003)\n",
+      "FUNCTION AS SET PROTEASE\nPubMed=16818237; DOI=10.1016/j.molcel.2006.06.005\nChowdhury D., Beresford P.J., Zhu P., Zhang D., Sung J.S., Demple B.,\nPerrino F.W., Lieberman J.\n\"The exonuclease TREX1 is in the SET complex and acts in concert with NM23-\nH1 to degrade DNA during granzyme A-mediated cell death.\"\nMol. Cell 23:133-142(2006)\n",
+      "GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-170\nTISSUE=Liver\nPubMed=19159218; DOI=10.1021/pr8008012\nChen R., Jiang X., Sun D., Han G., Wang F., Ye M., Wang L., Zou H.\n\"Glycoproteomics analysis of human liver tissue by combination of multiple\nenzyme digestion and hydrazide chemistry.\"\nJ. Proteome Res. 8:651-661(2009)\n",
+      "SUBCELLULAR LOCATION\nPubMed=20038786; DOI=10.1182/blood-2009-10-246116\nThiery J., Keefe D., Saffarian S., Martinvalet D., Walch M., Boucrot E.,\nKirchhausen T., Lieberman J.\n\"Perforin activates clathrin- and dynamin-dependent endocytosis, which is\nrequired for plasma membrane repair and delivery of granzyme B for\ngranzyme-mediated apoptosis.\"\nBlood 115:1582-1593(2010)\n",
+      "FUNCTION, SUBCELLULAR LOCATION, CATALYTIC ACTIVITY, ACTIVE SITE, AND\nMUTAGENESIS OF SER-212\nPubMed=32299851; DOI=10.1126/science.aaz7548\nZhou Z., He H., Wang K., Shi X., Wang Y., Su Y., Wang Y., Li D., Liu W.,\nZhang Y., Shen L., Han W., Shen L., Ding J., Shao F.\n\"Granzyme A from cytotoxic lymphocytes cleaves GSDMB to trigger pyroptosis\nin target cells.\"\nScience 368:0-0(2020)\n",
+      "3D-STRUCTURE MODELING OF 29-262\nPubMed=3237717; DOI=10.1002/prot.340040306\nMurphy M.E.P., Moult J., Bleackley R.C., Gershenfeld H., Weissman I.L.,\nJames M.N.G.\n\"Comparative molecular model building of two serine proteinases from\ncytotoxic T lymphocytes.\"\nProteins 4:190-204(1988)\n",
+      "X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS) OF 29-262 IN COMPLEX WITH A\nTRIPEPTIDE CMK INHIBITOR, AND DISULFIDE BONDS\nPubMed=12819769; DOI=10.1038/nsb944\nBell J.K., Goetz D.H., Mahrus S., Harris J.L., Fletterick R.J., Craik C.S.\n\"The oligomeric structure of human granzyme A is a determinant of its\nextended substrate specificity.\"\nNat. Struct. Biol. 10:527-534(2003)\n",
+      "X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS) OF 29-262 IN COMPLEX WITH SUBSTRATE,\nFUNCTION, CATALYTIC ACTIVITY, AND DISULFIDE BONDS\nPubMed=12819770; DOI=10.1038/nsb945\nHink-Schauer C., Estebanez-Perpina E., Kurschus F.C., Bode W., Jenne D.E.\n\"Crystal structure of the apoptosis-inducing human granzyme A dimer.\"\nNat. Struct. Biol. 10:535-540(2003)\n"
     ],
-    "comments": "-!- FUNCTION: Abundant protease in the cytosolic granules of cytotoxic T-\n    cells and NK-cells which activates caspase-independent pyroptosis when\n    delivered into the target cell through the immunological synapse\n    (PubMed:3257574, PubMed:3262682, PubMed:3263427, PubMed:32299851,\n    PubMed:12819770). It cleaves after Lys or Arg (PubMed:32299851,\n    PubMed:12819770). Once delivered into the target cell, acts by\n    catalyzing cleavage of gasdermin-B (GSDMB), releasing the pore-forming\n    moiety of GSDMB, thereby triggering pyroptosis and target cell death\n    (PubMed:32299851). Cleaves APEX1 after 'Lys-31' and destroys its\n    oxidative repair activity (PubMed:12524539). Cleaves the nucleosome\n    assembly protein SET after 'Lys-189', which disrupts its nucleosome\n    assembly activity and allows the SET complex to translocate into the\n    nucleus to nick and degrade the DNA (PubMed:11555662, PubMed:12628186,\n    PubMed:16818237). {ECO:0000269|PubMed:11555662,\n    ECO:0000269|PubMed:12524539, ECO:0000269|PubMed:12628186,\n    ECO:0000269|PubMed:12819770, ECO:0000269|PubMed:16818237,\n    ECO:0000269|PubMed:32299851, ECO:0000269|PubMed:3257574,\n    ECO:0000269|PubMed:3262682, ECO:0000269|PubMed:3263427}.\n-!- CATALYTIC ACTIVITY:\n    Reaction=Hydrolysis of proteins, including fibronectin, type IV\n      collagen and nucleolin. Preferential cleavage: -Arg-|-Xaa-, -Lys-|-\n      Xaa- >> -Phe-|-Xaa- in small molecule substrates.; EC=3.4.21.78;\n      Evidence={ECO:0000269|PubMed:12819770, ECO:0000269|PubMed:32299851};\n-!- SUBUNIT: Homodimer; disulfide-linked (PubMed:12819769,\n    PubMed:12819770). Interacts with APEX1 (PubMed:12524539).\n    {ECO:0000269|PubMed:12524539, ECO:0000269|PubMed:12819769,\n    ECO:0000269|PubMed:12819770}.\n-!- SUBCELLULAR LOCATION: [Isoform alpha]: Secreted\n    {ECO:0000269|PubMed:3257574}. Cytoplasmic granule\n    {ECO:0000269|PubMed:3257574}. Note=Delivered into the target cell by\n    perforin. {ECO:0000269|PubMed:20038786, ECO:0000269|PubMed:32299851}.\n-!- ALTERNATIVE PRODUCTS:\n    Event=Alternative promoter usage; Named isoforms=2;\n    Name=alpha {ECO:0000303|PubMed:17180578};\n      IsoId=P12544-1; Sequence=Displayed;\n    Name=beta {ECO:0000303|PubMed:17180578};\n      IsoId=P12544-2; Sequence=VSP_038571, VSP_038572;\n-!- INDUCTION: Dexamethasone (DEX) induces expression of isoform beta and\n    represses expression of isoform alpha. The alteration in expression is\n    mediated by binding of glucocorticoid receptor to independent promoters\n    adjacent to the alternative first exons of isoform alpha and isoform\n    beta. {ECO:0000269|PubMed:17180578}.\n-!- SIMILARITY: Belongs to the peptidase S1 family. Granzyme subfamily.\n    {ECO:0000255|PROSITE-ProRule:PRU00274}.\n-!- CAUTION: Exons 1a and 1b of the sequence reported in PubMed:17180578\n    are of human origin, however exon 2 shows strong similarity to the rat\n    sequence. {ECO:0000305|PubMed:17180578}.\n-!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology and\n    Haematology;\n    URL=\"http://atlasgeneticsoncology.org/Genes/GZMAID51130ch5q11.html\";\n---------------------------------------------------------------------------\nCopyrighted by the UniProt Consortium, see https://www.uniprot.org/terms\nDistributed under the Creative Commons Attribution (CC BY 4.0) License\n---------------------------------------------------------------------------\n",
+    "comments": "-!- FUNCTION: Abundant protease in the cytosolic granules of cytotoxic T-\n    cells and NK-cells which activates caspase-independent pyroptosis when\n    delivered into the target cell through the immunological synapse\n    (PubMed:3257574, PubMed:3262682, PubMed:3263427, PubMed:32299851,\n    PubMed:12819770). It cleaves after Lys or Arg (PubMed:32299851,\n    PubMed:12819770). Once delivered into the target cell, acts by\n    catalyzing cleavage of gasdermin-B (GSDMB), releasing the pore-forming\n    moiety of GSDMB, thereby triggering pyroptosis and target cell death\n    (PubMed:32299851). Cleaves APEX1 after 'Lys-31' and destroys its\n    oxidative repair activity (PubMed:12524539). Cleaves the nucleosome\n    assembly protein SET after 'Lys-189', which disrupts its nucleosome\n    assembly activity and allows the SET complex to translocate into the\n    nucleus to nick and degrade the DNA (PubMed:11555662, PubMed:12628186,\n    PubMed:16818237). {ECO:0000269|PubMed:11555662,\n    ECO:0000269|PubMed:12524539, ECO:0000269|PubMed:12628186,\n    ECO:0000269|PubMed:12819770, ECO:0000269|PubMed:16818237,\n    ECO:0000269|PubMed:32299851, ECO:0000269|PubMed:3257574,\n    ECO:0000269|PubMed:3262682, ECO:0000269|PubMed:3263427}\n-!- CATALYTIC ACTIVITY:\n    Reaction=Hydrolysis of proteins, including fibronectin, type IV\n      collagen and nucleolin. Preferential cleavage: -Arg-|-Xaa-, -Lys-|-\n      Xaa- >> -Phe-|-Xaa- in small molecule substrates.; EC=3.4.21.78\n      Evidence={ECO:0000269|PubMed:12819770, ECO:0000269|PubMed:32299851}\n-!- SUBUNIT: Homodimer; disulfide-linked (PubMed:12819769,\n    PubMed:12819770). Interacts with APEX1 (PubMed:12524539)\n    {ECO:0000269|PubMed:12524539, ECO:0000269|PubMed:12819769,\n    ECO:0000269|PubMed:12819770}\n-!- SUBCELLULAR LOCATION: [Isoform alpha]: Secreted\n    {ECO:0000269|PubMed:3257574}. Cytoplasmic granule\n    {ECO:0000269|PubMed:3257574}. Note=Delivered into the target cell by\n    perforin. {ECO:0000269|PubMed:20038786, ECO:0000269|PubMed:32299851}\n-!- ALTERNATIVE PRODUCTS:\n    Event=Alternative promoter usage; Named isoforms=2\n    Name=alpha {ECO:0000303|PubMed:17180578}\n      IsoId=P12544-1; Sequence=Displayed\n    Name=beta {ECO:0000303|PubMed:17180578}\n      IsoId=P12544-2; Sequence=VSP_038571, VSP_038572\n-!- INDUCTION: Dexamethasone (DEX) induces expression of isoform beta and\n    represses expression of isoform alpha. The alteration in expression is\n    mediated by binding of glucocorticoid receptor to independent promoters\n    adjacent to the alternative first exons of isoform alpha and isoform\n    beta. {ECO:0000269|PubMed:17180578}\n-!- SIMILARITY: Belongs to the peptidase S1 family. Granzyme subfamily\n    {ECO:0000255|PROSITE-ProRule:PRU00274}\n-!- CAUTION: Exons 1a and 1b of the sequence reported in PubMed:17180578\n    are of human origin, however exon 2 shows strong similarity to the rat\n    sequence. {ECO:0000305|PubMed:17180578}\n-!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology and\n    Haematology\n    URL=\"http://atlasgeneticsoncology.org/Genes/GZMAID51130ch5q11.html\"\n---------------------------------------------------------------------------\nCopyrighted by the UniProt Consortium, see https://www.uniprot.org/terms\nDistributed under the Creative Commons Attribution (CC BY 4.0) License\n---------------------------------------------------------------------------\n",
     "protein_existence": "1: Evidence at protein level",
     "keywords": "3D-structure; Alternative promoter usage; Cytolysis; Direct protein sequencing; Disulfide bond; Glycoprotein; HydrolaseProtease; Reference proteome; Secreted; Serine protease; Signal; Zymogen"
   }

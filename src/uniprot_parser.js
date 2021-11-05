@@ -32,13 +32,13 @@ export async function parseUniprotFormat(location)
   const lines = data.split("\n");
   lines.forEach(function(line, i){
     let line_data = line.substring(5);
-
+    line_data = line_data.replace(/\.$/, '');
+    line_data = line_data.replace(/;$/, '');
     if(line.startsWith("ID")){
       let entries = line_data.split(/\s+/);
       protein_features.uniprotID = entries[0];
     }
     if(line.startsWith("AC")){
-      line_data = line_data.slice(0, -1);
       let entries = line_data.split(/;\s+/);
       protein_features.accession = entries;
     }
@@ -58,7 +58,6 @@ export async function parseUniprotFormat(location)
         }
       }
       if(line_data.startsWith("Synonyms")){
-        line_data = line_data.slice(0, -1);
         let matches = line_data.match(/Synonyms=(.+)/);
         if(matches){
           let synonyms = matches[1].split(", ");
@@ -68,19 +67,16 @@ export async function parseUniprotFormat(location)
 
     }
     if(line.startsWith("OS")){
-      line_data = line_data.slice(0, -1);
       protein_features.organism_nane = line_data;
     }
     if(line.startsWith("OG")){
       protein_features.organelle = line_data;
     }
     if(line.startsWith("OC")){
-      line_data = line_data.slice(0, -1);
       if(! protein_features.taxonomy){protein_features.taxonomy=line_data+"; "; return;}
       protein_features.taxonomy+=line_data;
     }
     if(line.startsWith("OX")){
-      line_data = line_data.slice(0, -1);
       let matches = line_data.match(/NCBI_TaxID=(.+)/);
       if(matches){
         protein_features.ncbi_taxaID = matches[1];
@@ -124,16 +120,14 @@ export async function parseUniprotFormat(location)
     if(line.startsWith("DR")){
       let entries = line_data.split(/; /);
       if(! protein_features.database_refs[entries[0]]){
-        protein_features.database_refs[entries[0]] = []
+        protein_features.database_refs[entries[0]] = [];
       }
       protein_features.database_refs[entries[0]].push(entries.slice(1));
     }
     if(line.startsWith("PE")){
-      line_data = line_data.slice(0, -1);
       protein_features.protein_existence = line_data;
     }
     if(line.startsWith("KW")){
-      line_data = line_data.slice(0, -1);
       if(! protein_features.keywords){protein_features.keywords=line_data+"; "; return;}
       protein_features.keywords+=line_data;
     }
