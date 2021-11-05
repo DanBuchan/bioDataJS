@@ -10,9 +10,10 @@ let uniprot_parsed = await parseUniprotFormat(uniprot_file);
 fs.writeFileSync('./files/uniprot_test.txt', JSON.stringify(uniprot_parsed, null, 2) , 'utf-8');
 let uniprot_data = fs.readFileSync("./files/uniprot_test.txt", 'utf8');
 uniprot_data = JSON.parse(uniprot_data);
-
+//console.log(uniprot_data);
+//console.log(uniprot_parsed);
 describe('Parsers: parse UNIPROT files tests', () => {
   it('should parse uniprot file', () => {
-    return parseUniprotFormat(uniprot_file).then(result => {assert.deepEqual(result, uniprot_data)});
+    return parseUniprotFormat(uniprot_file).then(result => {assert.equal(JSON.stringify(result, null, 2), JSON.stringify(uniprot_data, null, 2))});
   });
 });
