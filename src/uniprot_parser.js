@@ -17,7 +17,7 @@ export async function parseUniprotFormat(location)
     data = readData(location);
   }
   let protein_features = {};
-  protein_features.database_refs = {};
+  protein_features.database_refstou = {};
   let sequence_features = [];
   let residue_features = [];
   let seq = '';
