@@ -6,8 +6,8 @@ import fs from 'fs';
 
 let uniprot_file = "./files/P12544.txt";
 
-let uniprot_parsed = await parseUniprotFormat(uniprot_file);
-fs.writeFileSync('./files/uniprot_test.txt', JSON.stringify(uniprot_parsed, null, 2) , 'utf-8');
+// let uniprot_parsed = await parseUniprotFormat(uniprot_file);
+// fs.writeFileSync('./files/uniprot_test.txt', JSON.stringify(uniprot_parsed, null, 2) , 'utf-8');
 let uniprot_data = fs.readFileSync("./files/uniprot_test.txt", 'utf8');
 uniprot_data = JSON.parse(uniprot_data);
 //console.log(uniprot_data);

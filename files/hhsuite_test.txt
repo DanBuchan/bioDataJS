@@ -1,0 +1,1483 @@
+{
+  "identity": "sequence",
+  "sequence": "MSGRGKQGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIRNDEELNKLLGKVTIAQGGVLPNIQAVLLPKKTESHHKAKG",
+  "type": "aminoacid",
+  "source": "./files/test_out.hhpred",
+  "residues": [
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "H",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "N",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "N",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "N",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "H",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "N",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "N",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "N",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "H",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "H",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    }
+  ],
+  "annotations": {
+    "query": "AAN59974.1 histone H2A [Homo sapiens]",
+    "hits": [
+      {
+        "hit_name": "1TZY_E Histone H2A-IV; Histone  ",
+        "prob": "99.5",
+        "e_value": "4.9E-11",
+        "p_value": "8.7E-16",
+        "score": "62.9",
+        "ss": "14.3",
+        "cols": "128",
+        "query_start": "1",
+        "query_stop": "129",
+        "template_start": "1",
+        "template_stop": "128",
+        "hmm": "(129)",
+        "alignment": ">1TZY_E Histone H2A-IV; Histone-fold, tetramer-dimer-dimer, DNA BINDING PROTEIN; HET: CL, PO4; 1.9A {Gallus gallus} SCOP: a.22.1.1\nProbab=99.46  E-value=4.9e-11  Score=62.95  Aligned_cols=128  Identities=97%  Similarity=1.344  Sum_probs=87.0  Template_Neff=12.300\n\nQ ss_pred             CCCCCCCCCCccccCCChhhhcCCcCCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccC\nQ AAN59974.1        1 MSGRGKQGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRII   80 (130)\nQ Consensus         1 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   80 (130)\n                      ||++++.++........+....++.++.+.+.+++.++.+....+.....++...+++++..++..++..........++\nT Consensus         1 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   80 (129)\nT 1TZY_E            1 MSGRGKQGGKARAKAKSRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRII   80 (129)\nT ss_dssp             --------------CCSHHHHHTCSSCHHHHHHHHHHTTSCSEECTHHHHHHHHHHHHHHHHHHHHHHHHHHHTTCSEEC\nT ss_pred             CCCCCCCCCCccccCCChhhhcCCCCCHHHHHHHHHcCCCcceeCCCHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCeeC\nConfidence            78999988887888888888888999999999999888888888888999999999999988888888777667777888\n\n\nQ ss_pred             HHHHHHHHHCCHHHHHHhCCCccccCCcCCCcchhhCCCCCcchhhhcC\nQ AAN59974.1       81 PRHLQLAIRNDEELNKLLGKVTIAQGGVLPNIQAVLLPKKTESHHKAKG  129 (130)\nQ Consensus        81 ~~~~~~~l~~~~~~~~~~~~~~~~~~g~~~~~~~~~~~~~~~~~~~~~~  129 (130)\n                      +.++.+.+..+.++++++.+......+.++.++..+++++. ..+|-|+\nT Consensus        81 ~~~~~~~l~~~~~~~~~~~~~~~~~~g~~~~~~~~~~~~~~-~~~~~~~  128 (129)\nT 1TZY_E           81 PRHLQLAIRNDEELNKLLGKVTIAQGGVLPNIQAVLLPKKT-DSHKAKA  128 (129)\nT ss_dssp             HHHHHHHHHTSHHHHHHTTTEEETTCCCCCCCCGGGCC-----------\nT ss_pred             HHHHHHHHHCCHHHHHHhCCCcccCCCCCCCccHhhCCCCC-cchhhhc\nConfidence            99988888888888888888877777766775554555544 4444444\n\n\n"
+      },
+      {
+        "hit_name": "5Z23_C Histone H2A type 1-B/E;  ",
+        "prob": "99.4",
+        "e_value": "8E-11",
+        "p_value": "1.4E-15",
+        "score": "65.3",
+        "ss": "13.1",
+        "cols": "121",
+        "query_start": "1",
+        "query_stop": "121",
+        "template_start": "4",
+        "template_stop": "124",
+        "hmm": "(167)",
+        "alignment": ">5Z23_C Histone H2A type 1-B/E; Nucleosome, Chromosome, CENP-A, centromere, DNA BINDING PROTEIN, DNA BINDING PROTEIN-DNA complex; HET: MSE; 2.73A {Homo sapiens} SCOP: a.22.1.1\nProbab=99.40  E-value=8e-11  Score=65.33  Aligned_cols=121  Identities=96%  Similarity=1.366  Sum_probs=89.7  Template_Neff=11.300\n\nQ ss_pred             CCCCCCCCCCccccCCChhhhcCCcCCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccC\nQ AAN59974.1        1 MSGRGKQGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRII   80 (130)\nQ Consensus         1 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   80 (130)\n                      ||++++.++........+..+.++.++.+.+.+++.++.+...++.....++...+++++..++..++..........++\nT Consensus         4 ~~~~~~~~~~~~~~~~~~~~~~g~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~le~~~~~~l~~~~~~~~~~~~~~~~   83 (167)\nT 5Z23_C            4 MSGRGKQGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYSERVGAGAPVYMAAVLEYMTAEILELAGNAARDNKKTRII   83 (167)\nT ss_dssp             ------------CCCCCHHHHHTCSSCHHHHHHHHHHTTSCSEECSHHHHHHHHHHHHHHHHHHHHHHHHHHHTTCSEEC\nT ss_pred             CCCCCCCCCCcccccccccccccCCCCHHHHHHHHHhCCCCCccCCCHHHHHHHHHHHhhHHHHHHHHHHHHHCCCCeeC\nConfidence            78888877777788888888999999999999999988888888889999999999999998999898887777788888\n\n\nQ ss_pred             HHHHHHHHHCCHHHHHHhCCCccccCCcCCCcchhhCCCCC\nQ AAN59974.1       81 PRHLQLAIRNDEELNKLLGKVTIAQGGVLPNIQAVLLPKKT  121 (130)\nQ Consensus        81 ~~~~~~~l~~~~~~~~~~~~~~~~~~g~~~~~~~~~~~~~~  121 (130)\n                      ++++...+..+.++++++.+......+.++.+....+++..\nT Consensus        84 ~~~l~~~l~~~~~~~~l~~~~~~~~~g~~~~~~~~~~~~~~  124 (167)\nT 5Z23_C           84 PRHLQLAIRNDEEMNKLLGRVTIAQGGVLPNIQAVLLPKKT  124 (167)\nT ss_dssp             HHHHHHHHHHSHHHHHHTTTEEETTCCCCCCCCGGGCC---\nT ss_pred             HHHHHHHHHCCHHHHHHhCCCeeecCcccCCCcceeCCCCC\nConfidence            99988888888888888877777777766765554555544\n\n\n"
+      },
+      {
+        "hit_name": "6K1K_C Histone H2AX; Nucleosom  ",
+        "prob": "99.4",
+        "e_value": "3.6E-10",
+        "p_value": "6.3E-15",
+        "score": "61.4",
+        "ss": "14.0",
+        "cols": "121",
+        "query_start": "1",
+        "query_stop": "121",
+        "template_start": "4",
+        "template_stop": "124",
+        "hmm": "(146)",
+        "alignment": ">6K1K_C Histone H2AX; Nucleosome, H2A.X, DNA BINDING PROTEIN-DNA complex; HET: MN; 2.2A {Homo sapiens} SCOP: a.22.1.1\nProbab=99.37  E-value=3.6e-10  Score=61.38  Aligned_cols=121  Identities=97%  Similarity=1.352  Sum_probs=87.9  Template_Neff=11.300\n\nQ ss_pred             CCCCCCCCCCccccCCChhhhcCCcCCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccC\nQ AAN59974.1        1 MSGRGKQGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRII   80 (130)\nQ Consensus         1 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   80 (130)\n                      ||+++++++.......++..+.++.++.+.+.+++.++.+....+.....++...+++++..++..++..........++\nT Consensus         4 ~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~l~~~~~~~~~~~~~~~~   83 (146)\nT 6K1K_C            4 MSGRGKTGGKARAKAKSRSSRAGLQFPVGRVHRLLRKGHYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRII   83 (146)\nT ss_dssp             --------------CCSHHHHHTCSSCHHHHHHHHHHTSSCSEECTHHHHHHHHHHHHHHHHHHHHHHHHHHHTTCSEEC\nT ss_pred             CCCCCCCCCchhcccccccccCCCCCCHHHHHHHHHhCCCCCcccCCHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCeeC\nConfidence            89999988887888888888999999999999999888887888888999999999999988888888777677788888\n\n\nQ ss_pred             HHHHHHHHHCCHHHHHHhCCCccccCCcCCCcchhhCCCCC\nQ AAN59974.1       81 PRHLQLAIRNDEELNKLLGKVTIAQGGVLPNIQAVLLPKKT  121 (130)\nQ Consensus        81 ~~~~~~~l~~~~~~~~~~~~~~~~~~g~~~~~~~~~~~~~~  121 (130)\n                      ++++.+.+....++++++.+......+.++.+...++.+..\nT Consensus        84 ~~~~~~~l~~~~~~~~~~~~~~~~~~g~~~~~~~~~~~~~~  124 (146)\nT 6K1K_C           84 PRHLQLAIRNDEELNKLLGGVTIAQGGVLPNIQAVLLPKKT  124 (146)\nT ss_dssp             HHHHHHHHHHSHHHHHHTTTCEETTCCCCCCCCGGGSCCCC\nT ss_pred             HHHHHHHHHCcHHHHHHhCCCccccCCCCCCcchhhCCCCC\nConfidence            99988888888888888888877777766665554455444\n\n\n"
+      },
+      {
+        "hit_name": "4WNN_C Histone H2A.1; FACT, SP  ",
+        "prob": "99.2",
+        "e_value": "2.3E-08",
+        "p_value": "4.1E-13",
+        "score": "52.9",
+        "ss": "13.8",
+        "cols": "128",
+        "query_start": "1",
+        "query_stop": "128",
+        "template_start": "1",
+        "template_stop": "129",
+        "hmm": "(132)",
+        "alignment": ">4WNN_C Histone H2A.1; FACT, SPT16, Histone, POB3, H2A, H2B, DNA BINDING PROTEIN; HET: PO4; 1.8A {Saccharomyces cerevisiae} SCOP: a.22.1.1\nProbab=99.15  E-value=2.3e-08  Score=52.89  Aligned_cols=128  Identities=75%  Similarity=1.133  Sum_probs=0.0  Template_Neff=12.200\n\nQ ss_pred             CCCCCC-CCCCccccCCChhhhcCCcCCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCcc\nQ AAN59974.1        1 MSGRGK-QGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRI   79 (130)\nQ Consensus         1 ~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   79 (130)\n                      ||++.+ .++........+..+.++.++.+.+.+++..+.+...++.....++...+++++..++..++..........+\nT Consensus         1 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   80 (132)\nT 4WNN_C            1 MSGGKGGKAGSAAKASQSRSAKAGLTFPVGRVHRLLRRGNYAQRIGSGAPVYLTAVLEYLAAEILELAGNAARDNKKTRI   80 (132)\nT ss_dssp             -----------------CHHHHHTCSSCHHHHHHHHHHTTSSSEECTHHHHHHHHHHHHHHHHHHHHHHHHHHHTTCSEE\nT ss_pred             CCCCCCCccccccccccChhHhhCCCCCHHHHHHHHHcCCCCcccCCCHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCcc\n\n\nQ ss_pred             CHHHHHHHHHCCHHHHHHhCCCccccCCcCCCcchhhCCCCCcchhhhc\nQ AAN59974.1       80 IPRHLQLAIRNDEELNKLLGKVTIAQGGVLPNIQAVLLPKKTESHHKAK  128 (130)\nQ Consensus        80 ~~~~~~~~l~~~~~~~~~~~~~~~~~~g~~~~~~~~~~~~~~~~~~~~~  128 (130)\n                      ++.++.+.+..+.++++++.+......+.++.+....+.+..++..+.+\nT Consensus        81 ~~~~~~~~l~~~~~~~~~~~~~~~~~~g~~~~~~~~~~~~~~~~~~~~~  129 (132)\nT 4WNN_C           81 IPRHLQLAIRNDDELNKLLGNVTIAQGGVLPNIHQNLLPKKSAKATKAS  129 (132)\nT ss_dssp             CHHHHHHHHHTSHHHHHHTC-----------------------------\nT ss_pred             CHHHHHHHHHCCHHHHHHhcCCccccCCcCCCcChhhCCCCccccchhh\n\n\n"
+      },
+      {
+        "hit_name": "7KBF_G Histone H2A; nucleosome  ",
+        "prob": "99.1",
+        "e_value": "2.4E-08",
+        "p_value": "4.2E-13",
+        "score": "53.8",
+        "ss": "13.8",
+        "cols": "130",
+        "query_start": "1",
+        "query_stop": "130",
+        "template_start": "1",
+        "template_stop": "130",
+        "hmm": "(139)",
+        "alignment": ">7KBF_G Histone H2A; nucleosome, M phase, cell cycle, chromatin, Xenopus egg extract, DNA BINDING PROTEIN, H1, Chromatosome, Linker histone; 4.42A {Xenopus laevis}\nProbab=99.15  E-value=2.4e-08  Score=53.78  Aligned_cols=130  Identities=68%  Similarity=1.035  Sum_probs=0.0  Template_Neff=11.200\n\nQ ss_pred             CCCCCCCCCCccccCCChhhhcCCcCCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccC\nQ AAN59974.1        1 MSGRGKQGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRII   80 (130)\nQ Consensus         1 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   80 (130)\n                      ||+++++..........+....++.++.+.+.+++..+.+....+.....++...+++++..++..++..........++\nT Consensus         1 ~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~   80 (139)\nT 7KBF_G            1 MSGRGKKVQKAASGKASRSAKAGLQFPVGRIHRLLRKGNYAVRIGSGSAIYLAATLEYLCAEVLELAGNAARDNKKLRIM   80 (139)\nT ss_dssp             ---------------CCHHHHHTCSSCHHHHHHHHHTTTSCSEECHHHHHHHHHHHHHHHHHHHHHHHHHHTTTTCSBCC\nT ss_pred             CCCCCccccccccCCCCchHhCCCcCCHHHHHHHHHhCCCceEeccchHHHHHHHHHHHHHHHHHHHHHHHHHCCCCeeC\n\n\nQ ss_pred             HHHHHHHHHCCHHHHHHhCCCccccCCcCCCcchhhCCCCCcchhhhcCC\nQ AAN59974.1       81 PRHLQLAIRNDEELNKLLGKVTIAQGGVLPNIQAVLLPKKTESHHKAKGK  130 (130)\nQ Consensus        81 ~~~~~~~l~~~~~~~~~~~~~~~~~~g~~~~~~~~~~~~~~~~~~~~~~~  130 (130)\n                      +.++.+.+....++++++.+......|.++.++..++.+......-+-.+\nT Consensus        81 ~~~~~~~l~~~~~~~~~~~~~~~~~~g~~~~~~~~~~~~~~~~~~~~~~~  130 (139)\nT 7KBF_G           81 PRHIQLAVRNDDELAKLFEGVTIADGGVLPNIQSALLPKKTVKGSSSSQE  130 (139)\nT ss_dssp             HHHHHHHHHTCHHHHTTCTTEEETTCCCCCCCCGGGSCCC----------\nT ss_pred             HHHHHHHHHCCHHHHHHcCCCeecCCCCCCCccHhhCCCCCCCCCCCCCC\n\n\n"
+      },
+      {
+        "hit_name": "6M4G_C Histone H2A-Bbd type 2/  ",
+        "prob": "99.0",
+        "e_value": "2.1E-07",
+        "p_value": "3.6E-12",
+        "score": "48.5",
+        "ss": "12.2",
+        "cols": "106",
+        "query_start": "2",
+        "query_stop": "107",
+        "template_start": "6",
+        "template_stop": "111",
+        "hmm": "(115)",
+        "alignment": ">6M4G_C Histone H2A-Bbd type 2/3; histone  variant  H2A.B  nucleosome, NUCLEAR PROTEIN;{Homo sapiens}\nProbab=98.96  E-value=2.1e-07  Score=48.52  Aligned_cols=106  Identities=45%  Similarity=0.722  Sum_probs=0.0  Template_Neff=11.100\n\nQ ss_pred             CCCCCCCCCccccCCChhhhcCCcCCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCH\nQ AAN59974.1        2 SGRGKQGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIP   81 (130)\nQ Consensus         2 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   81 (130)\n                      +.+++.+.........+..+.++.++...+.+++....+...++.....++...++++...++..++..........+++\nT Consensus         6 ~~~~~~~~~~~~~~~~~~~r~~l~~p~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~~~~~~i~~   85 (115)\nT 6M4G_C            6 RRRGSSGAGGRGRTCSRTVRAELSFSVSQVERSLREGHYAQRLSRTAPVYLAAVIEYLTAKVLELAGNEAQNSGERNITP   85 (115)\nT ss_dssp             ---------------CHHHHTTCSSCHHHHHHHHHHHTCSSBCCSSHHHHHHHHHHHHHHHHHHHHHHHHHHHTCSSCCH\nT ss_pred             CCCCCCCCCCCCCCCCccccCCccCCHHHHHHHHHhCCCcceecCchHHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCH\n\n\nQ ss_pred             HHHHHHHHCCHHHHHHhCCCccccCC\nQ AAN59974.1       82 RHLQLAIRNDEELNKLLGKVTIAQGG  107 (130)\nQ Consensus        82 ~~~~~~l~~~~~~~~~~~~~~~~~~g  107 (130)\n                      .++...+..+.+++.++........+\nT Consensus        86 ~~~~~~i~~~~~l~~l~~~~~i~~~~  111 (115)\nT 6M4G_C           86 LLLDMVVHNDRLLSTLFNTTTISQVA  111 (115)\nT ss_dssp             HHHHHHHHSCTTTTTTTSSEEECCC-\nT ss_pred             HHHHHHHHcCHHHHHHhcCCccccCC\n\n\n"
+      },
+      {
+        "hit_name": "7D69_G Histone H2A; nucleosome  ",
+        "prob": "98.9",
+        "e_value": "4.4E-07",
+        "p_value": "7.8E-12",
+        "score": "47.6",
+        "ss": "12.6",
+        "cols": "124",
+        "query_start": "2",
+        "query_stop": "125",
+        "template_start": "2",
+        "template_stop": "125",
+        "hmm": "(127)",
+        "alignment": ">7D69_G Histone H2A; nucleosome, chromatin, histone, Giardia lamblia, NUCLEAR PROTEIN;{Giardia intestinalis}\nProbab=98.91  E-value=4.4e-07  Score=47.61  Aligned_cols=124  Identities=42%  Similarity=0.663  Sum_probs=0.0  Template_Neff=12.200\n\nQ ss_pred             CCCCCCCCCccccCCChhhhcCCcCCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCH\nQ AAN59974.1        2 SGRGKQGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIP   81 (130)\nQ Consensus         2 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   81 (130)\n                      +...+.++........+..+.++.++.+.+.+++..+.+....+.....++...+++++..++..++..........+++\nT Consensus         2 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~~~~~~~~~   81 (127)\nT 7D69_G            2 SHMSTKPVKDNSKMKSRSARAGISFPIGRIHRHLREGRYAERISSDAPVYLAAVLENVVAEVFREACNHRDKKSQKRIVP   81 (127)\nT ss_dssp             --------------CCHHHHTTCCSCHHHHHHHHHHTTSSSBCCTTHHHHHHHHHHHHHHHHHHHHHHHHTTTCCSSBCH\nT ss_pred             CCcCCCCCCCCCcCCChhHhCCcccCHHHHHHHHHhCCCCceecCcHHHHHHHHHHHHHHHHHHHHHHHHcccCCCccCH\n\n\nQ ss_pred             HHHHHHHHCCHHHHHHhCCCccccCCcCCCcchhhCCCCCcchh\nQ AAN59974.1       82 RHLQLAIRNDEELNKLLGKVTIAQGGVLPNIQAVLLPKKTESHH  125 (130)\nQ Consensus        82 ~~~~~~l~~~~~~~~~~~~~~~~~~g~~~~~~~~~~~~~~~~~~  125 (130)\n                      .++.+.+....++++++.+.+....|.++.....++.+...+.+\nT Consensus        82 ~~~~~~l~~~~~~~~~~~~~~~~~~g~~~~~~~~~~~~~~~~~~  125 (127)\nT 7D69_G           82 NHILTALRKDKELATIFANVTIREGGVARSAKEGREGKGSHRSQ  125 (127)\nT ss_dssp             HHHHHHHHHSHHHHHHTTTCEETTCCCCC---------------\nT ss_pred             HHHHHHHHcCHHHHHHhCCCeeccCCCCCCCcccccCCCCCccc\n\n\n"
+      },
+      {
+        "hit_name": "6M4D_C Histone H2A.V; histone   ",
+        "prob": "98.9",
+        "e_value": "9.2E-07",
+        "p_value": "1.6E-11",
+        "score": "45.8",
+        "ss": "12.3",
+        "cols": "109",
+        "query_start": "1",
+        "query_stop": "110",
+        "template_start": "1",
+        "template_stop": "112",
+        "hmm": "(114)",
+        "alignment": ">6M4D_C Histone H2A.V; histone  H2A.Z  H2A.Z.2.2  nucleosome, NUCLEAR PROTEIN;{Homo sapiens}\nProbab=98.86  E-value=9.2e-07  Score=45.78  Aligned_cols=109  Identities=62%  Similarity=0.883  Sum_probs=0.0  Template_Neff=11.600\n\nQ ss_pred             CCCCCC--CCCCccccCCChhhhcCCcCCHHHHHHHHHcCCCc-cccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCC\nQ AAN59974.1        1 MSGRGK--QGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYA-ERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKT   77 (130)\nQ Consensus         1 ~~~~~~--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   77 (130)\n                      |++.+.  ..+........+..+.++.++...+.+++....+. ...+.....++...++++...++..++..+......\nT Consensus         1 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~p~~~~~~~l~~~~~~~~~~~~~~~~~l~~~~~~~~~~i~~~~~~~~~~~~~~   80 (114)\nT 6M4D_C            1 MAGGKAGKDSGKAKAKAVSRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLKVK   80 (114)\nT ss_dssp             ----------------CCCHHHHHTCSSCHHHHHHHHHTTCTTCCCBCHHHHHHHHHHHHHHHHHHHHHHHHHHHTTTCS\nT ss_pred             CCCCCcCccccchhccccchhHhcCCCCCHHHHHHHHhhCCCCcCccccccHHHHHHHHHHHHHHHHHHHHHHHHHcCCC\n\n\nQ ss_pred             ccCHHHHHHHHHCCHHHHHHhCCCccccCCcCC\nQ AAN59974.1       78 RIIPRHLQLAIRNDEELNKLLGKVTIAQGGVLP  110 (130)\nQ Consensus        78 ~~~~~~~~~~l~~~~~~~~~~~~~~~~~~g~~~  110 (130)\n                      .+++.++...+..+.+++.++. ......+.+|\nT Consensus        81 ~i~~~~~~~~~~~~~~l~~l~~-~~~~~~~~~~  112 (114)\nT 6M4D_C           81 RITPRHLQLAIRGDEELDSLIK-ATIAGGEKRR  112 (114)\nT ss_dssp             SCCHHHHHHHHTTCHHHHHHCC-SBCCC-----\nT ss_pred             ccCHHHHHHHHHCCHHHHHHHh-cccccCCccc\n\n\n"
+      },
+      {
+        "hit_name": "6IPU_C Histone H2A type 1-B/E;  ",
+        "prob": "98.6",
+        "e_value": "7.4E-06",
+        "p_value": "1.3E-10",
+        "score": "40.9",
+        "ss": "12.8",
+        "cols": "107",
+        "query_start": "14",
+        "query_stop": "120",
+        "template_start": "1",
+        "template_stop": "107",
+        "hmm": "(107)",
+        "alignment": ">6IPU_C Histone H2A type 1-B/E; Nucleosome, DNA BINDING PROTEIN-DNA complex; 1.99A {Homo sapiens} SCOP: a.22.1.1\nProbab=98.59  E-value=7.4e-06  Score=40.91  Aligned_cols=107  Identities=98%  Similarity=1.374  Sum_probs=0.0  Template_Neff=13.300\n\nQ ss_pred             cCCChhhhcCCcCCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHHCCHH\nQ AAN59974.1       14 KAKTRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIRNDEE   93 (130)\nQ Consensus        14 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~   93 (130)\n                      +...+....++.++.+.+.+++..+.+....+.....++...++.++..++..++..........+++.++.+.+..+.+\nT Consensus         1 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~   80 (107)\nT 6IPU_C            1 KAKTRSSRAGLQFPVGRVHRLLRKGNYSERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIRNDEE   80 (107)\nT ss_dssp             CCCCHHHHHTCSSCHHHHHHHHHHTTSCSEECSSHHHHHHHHHHHHHHHHHHHHHHHHHHTTCSEECHHHHHHHHHHSHH\nT ss_pred             CCCchhHhcCCCCCHHHHHHHHHcCCCccccCCCHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHHCCHH\n\n\nQ ss_pred             HHHHhCCCccccCCcCCCcchhhCCCC\nQ AAN59974.1       94 LNKLLGKVTIAQGGVLPNIQAVLLPKK  120 (130)\nQ Consensus        94 ~~~~~~~~~~~~~g~~~~~~~~~~~~~  120 (130)\n                      +++++.+......+.++.+++.+++++\nT Consensus        81 ~~~~~~~~~~~~~g~~~~~~~~~~~~~  107 (107)\nT 6IPU_C           81 LNKLLGRVTIAQGGVLPNIQAVLLPKK  107 (107)\nT ss_dssp             HHHHTTTEEETTCCCCCCCCGGGSSCC\nT ss_pred             HHHHHcCCcccCCCCCCCcchhhCCCC\n\n\n"
+      },
+      {
+        "hit_name": "7N8N_B Histone H2B-H2A doublet  ",
+        "prob": "98.6",
+        "e_value": "3.3E-06",
+        "p_value": "5.8E-11",
+        "score": "51.7",
+        "ss": "10.5",
+        "cols": "121",
+        "query_start": "8",
+        "query_stop": "129",
+        "template_start": "129",
+        "template_stop": "249",
+        "hmm": "(297)",
+        "alignment": ">7N8N_B Histone H2B-H2A doublet; nucleosome, Virus, DNA BINDING PROTEIN, DNA BINDING PROTEIN-DNA complex;{Melbournevirus}\nProbab=98.58  E-value=3.3e-06  Score=51.73  Aligned_cols=121  Identities=43%  Similarity=0.594  Sum_probs=0.0  Template_Neff=9.100\n\nQ ss_pred             CCCccccCCChhhhcCCcCCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHH\nQ AAN59974.1        8 GGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLA   87 (130)\nQ Consensus         8 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   87 (130)\n                      ..........+..+.++.++++.+.++++...+....+.....++..+++++...++..++..+.......++++++...\nT Consensus       129 ~~~~~~~~~~~s~~~gl~fpv~ri~r~l~~~~~~~~v~~~~~v~l~a~le~l~~~il~~a~~~a~~~~~~~It~~~l~~a  208 (297)\nT 7N8N_B          129 GSAKESKEGSRSSKAKLQISVARSERLLREHGGCSRVSEGAAVALAAAIEYFMGEVLELAGNAARDSKKVRISVKHITLA  208 (297)\nT ss_dssp             HHHHHSSSGGGTTTTCCSTHHHHHHCCCCCTCSCSCBCHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTCSBCCHHHHHHH\nT ss_pred             ccccCcccCCCCccccceecHHHHHHHHHhcCCCCccCHHHHHHHHHHHHHHHHHHHHHHHHHHHhcCCceecHhhHHHH\n\n\nQ ss_pred             HHCCHHHHHHhCCCccccCCcCCCcchhhCCCCCcchhhhcC\nQ AAN59974.1       88 IRNDEELNKLLGKVTIAQGGVLPNIQAVLLPKKTESHHKAKG  129 (130)\nQ Consensus        88 l~~~~~~~~~~~~~~~~~~g~~~~~~~~~~~~~~~~~~~~~~  129 (130)\n                      +..+.+++.++..+... .|.++......+..+.....+.+.\nT Consensus       209 i~~d~~l~~l~~~v~~~-~g~~~~~~~~~~~~~~~~~~~~~~  249 (297)\nT 7N8N_B          209 IQNDAALFAVVGKGVFS-GAGVSLISVPIPRKKARKTTEKEA  249 (297)\nT ss_dssp             HHHCHHHHHHHTTSCCS-SCCCCCCCCCSCC-----------\nT ss_pred             HhcCHHHHHHhCCCeec-ccccCCCCCCCCCcccCCCcchhc\n\n\n"
+      },
+      {
+        "hit_name": "7DLX_F Histone H2B,Histone H2A  ",
+        "prob": "98.4",
+        "e_value": "3.9E-05",
+        "p_value": "6.9E-10",
+        "score": "43.6",
+        "ss": "11.8",
+        "cols": "110",
+        "query_start": "2",
+        "query_stop": "111",
+        "template_start": "98",
+        "template_stop": "207",
+        "hmm": "(208)",
+        "alignment": ">7DLX_F Histone H2B,Histone H2A; histone, H2A mutant, H2A-H2B dimer, NUCLEAR PROTEIN; 2.395A {Saccharomyces cerevisiae (strain RM11-1a)}\nProbab=98.43  E-value=3.9e-05  Score=43.62  Aligned_cols=110  Identities=76%  Similarity=1.197  Sum_probs=0.0  Template_Neff=12.300\n\nQ ss_pred             CCCCCCCCCccccCCChhhhcCCcCCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCH\nQ AAN59974.1        2 SGRGKQGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIP   81 (130)\nQ Consensus         2 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   81 (130)\n                      ...+...+........+....++.++...+.+++..+.+....+.....++...++++...++..++..........+++\nT Consensus        98 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~e~~~~~~l~~~~~~~~~~~~~~~~~  177 (208)\nT 7DLX_F           98 GGKGGKAGSAAKASQSRSAKAGLTFPVGRVHRLLRRGNYAQRIGSKAAIYLTAVLEYLTAEVLELAGNAARDNKKTRIIP  177 (208)\nT ss_dssp             ---------------CHHHHTTCSSCHHHHHHHHHSSCSSSEECHHHHHHHHHHHHHHHHHHHHHHHHHHHTTTCSEECH\nT ss_pred             CCCCCccchhhccccccccccCCCcchhHHHHHHhhcCCcceecccHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCEeCH\n\n\nQ ss_pred             HHHHHHHHCCHHHHHHhCCCccccCCcCCC\nQ AAN59974.1       82 RHLQLAIRNDEELNKLLGKVTIAQGGVLPN  111 (130)\nQ Consensus        82 ~~~~~~l~~~~~~~~~~~~~~~~~~g~~~~  111 (130)\n                      .++...+..+.++++++........+.+|.\nT Consensus       178 ~~~~~~~~~~~~~~~~~~~~~~~~~g~~p~  207 (208)\nT 7DLX_F          178 RHLQLAIRNDDELNKLLGNVTIAQGGVLPN  207 (208)\nT ss_dssp             HHHHHHHHTSHHHHHHC-------------\nT ss_pred             HHHHHHHHCCHHHHHHhCCCcccCCCCCCC\n\n\n"
+      },
+      {
+        "hit_name": "7LV9_C Histone doublet Beta-Al  ",
+        "prob": "98.4",
+        "e_value": "4.6E-05",
+        "p_value": "8E-10",
+        "score": "42.4",
+        "ss": "10.9",
+        "cols": "99",
+        "query_start": "12",
+        "query_stop": "110",
+        "template_start": "1",
+        "template_stop": "99",
+        "hmm": "(165)",
+        "alignment": ">7LV9_C Histone doublet Beta-Alpha (Alpha); Structural Protein/DNA, STRUCTURAL PROTEIN, STRUCTURAL PROTEIN-DNA complex; 4.5A {Marseillevirus marseillevirus}\nProbab=98.37  E-value=4.6e-05  Score=42.35  Aligned_cols=99  Identities=49%  Similarity=0.674  Sum_probs=0.0  Template_Neff=10.800\n\nQ ss_pred             cccCCChhhhcCCcCCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHHCC\nQ AAN59974.1       12 RAKAKTRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIRND   91 (130)\nQ Consensus        12 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~   91 (130)\n                      .........+.++.|+++.+.+++....+....+.....++...++++...++..++..........+++.++...+..+\nT Consensus         1 ~~k~~s~~~r~gl~fpv~~i~r~l~~~~~~~~~~~~a~~~l~~~le~~~~~i~~~a~~~~~~~~~~~i~~~~i~~~i~~~   80 (165)\nT 7LV9_C            1 ESKEGSRSSKAKLQISVARSERLLREHGGCSRVSEGAAVALAAAIEYFMGEVLELAGNAARDSKKVRISVKHITLAIQND   80 (165)\nT ss_dssp             CCCSSCHHHHTTCSSCHHHHHHHHHTTSSCSEECHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTCSEECHHHHHHHHHTC\nT ss_pred             CCCccchhhhcCcccCHHHHHHHHHhcCCCcccChhHHHHHHHHHHHHHHHHHHHHHHHHHHCCCcEeeHHHHHHHHHCC\n\n\nQ ss_pred             HHHHHHhCCCccccCCcCC\nQ AAN59974.1       92 EELNKLLGKVTIAQGGVLP  110 (130)\nQ Consensus        92 ~~~~~~~~~~~~~~~g~~~  110 (130)\n                      ..++.++........+.++\nT Consensus        81 ~~l~~l~~~~~~~~~~~~~   99 (165)\nT 7LV9_C           81 AALFAVVGKGVFSGAGVSL   99 (165)\nT ss_dssp             HHHHTTSTTSBCCC-----\nT ss_pred             HHHHHHhCCCeecCCcccc\n\n\n"
+      },
+      {
+        "hit_name": "6JOU_G Histone H2A.Z; DNA-prot  ",
+        "prob": "97.9",
+        "e_value": "0.00063",
+        "p_value": "1.1E-08",
+        "score": "36.0",
+        "ss": "13.0",
+        "cols": "124",
+        "query_start": "1",
+        "query_stop": "125",
+        "template_start": "4",
+        "template_stop": "130",
+        "hmm": "(131)",
+        "alignment": ">6JOU_G Histone H2A.Z; DNA-protein complex, histone fold, histone variant, nucleosome, DNA BINDING PROTEIN, DNA BINDING PROTEIN-DNA complex; 2.17A {Homo sapiens} SCOP: a.22.1.0\nProbab=97.94  E-value=0.00063  Score=35.99  Aligned_cols=124  Identities=60%  Similarity=0.884  Sum_probs=0.0  Template_Neff=11.500\n\nQ ss_pred             CCCCCC--CCCCccccCCChhhhcCCcCCHHHHHHHHHcCC-CccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCC\nQ AAN59974.1        1 MSGRGK--QGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGN-YAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKT   77 (130)\nQ Consensus         1 ~~~~~~--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   77 (130)\n                      |++.+.  ..+...........+.++.++.+.+.+++.... .....+.....++...++++...++...+.........\nT Consensus         4 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~p~~~~~~~l~~~~~~~~~~~~~~~~~l~~~~~~~~~~i~~~a~~~a~~~~~~   83 (131)\nT 6JOU_G            4 MAGGKAGKDSGKAKTKAVSRSQRAGLQFPVGRIHRHLKSRTTRHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLKVK   83 (131)\nT ss_dssp             -----------------CCHHHHTTCSSCHHHHHHHHHHTCCTTCEECTTHHHHHHHHHHHHHHHHHHHHHHHHHHTTCS\nT ss_pred             ccCCCCCCCCccccccCCChhhcCCCcCCHHHHHHHHhhCCCcccccchHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCC\n\n\nQ ss_pred             ccCHHHHHHHHHCCHHHHHHhCCCccccCCcCCCcchhhCCCCCcchh\nQ AAN59974.1       78 RIIPRHLQLAIRNDEELNKLLGKVTIAQGGVLPNIQAVLLPKKTESHH  125 (130)\nQ Consensus        78 ~~~~~~~~~~l~~~~~~~~~~~~~~~~~~g~~~~~~~~~~~~~~~~~~  125 (130)\n                      .+.+.++...+..+.++..++. ......+.++......+........\nT Consensus        84 ~i~~~~i~~a~~~~~~l~~l~~-~~~~~~~~~~~~~~~~~~~~~~~~~  130 (131)\nT 6JOU_G           84 RITPRHLQLAIRGDEELDSLIK-ATIAGGGVIPHIHKSLIGKKGQQKT  130 (131)\nT ss_dssp             EECHHHHHHHHHTSHHHHHHCC-SEETTCCCCCCCCGGGC--------\nT ss_pred             eecHHHHHHHHHCCHHHHHHhc-ccccCCCccCCcchHhcCCCCCCCC\n\n\n"
+      },
+      {
+        "hit_name": "1Q9C_G Son of sevenless protei  ",
+        "prob": "97.9",
+        "e_value": "0.00039",
+        "p_value": "6.9E-09",
+        "score": "39.8",
+        "ss": "8.9",
+        "cols": "84",
+        "query_start": "18",
+        "query_stop": "102",
+        "template_start": "97",
+        "template_stop": "180",
+        "hmm": "(191)",
+        "alignment": ">1Q9C_G Son of sevenless protein; Histone fold, H2A, H2B, SIGNALING PROTEIN; HET: MSE; 3.21A {Homo sapiens} SCOP: a.22.1.3\nProbab=97.93  E-value=0.00039  Score=39.76  Aligned_cols=84  Identities=32%  Similarity=0.567  Sum_probs=0.0  Template_Neff=10.300\n\nQ ss_pred             hhhhcCCcCCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHHCCHHHHHH\nQ AAN59974.1       18 RSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIRNDEELNKL   97 (130)\nQ Consensus        18 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~   97 (130)\n                      +..+.++.++.+.+.+++.+ .+....+.....++...++++...++..++..+.......+++.++...+..+.+++.+\nT Consensus        97 ~~~~~~l~~p~~~~~~~l~~-~~~~~~~~~~~v~l~~~le~~~~eil~~a~~~a~~~~~~~i~~~~i~~ai~~d~~l~~l  175 (191)\nT 1Q9C_G           97 RKRRNPLSLPVEKIHPLLKE-VLGYKIDHQVSVYIVAVLEYISADILKLAGNYVRNIRHYEITKQDIKVAMCADKVLMDM  175 (191)\nT ss_dssp             CCCSSCCCSCHHHHHHHHHH-HSSSCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHTCSBCCHHHHHHHHTTCHHHHTT\nT ss_pred             hhccCCCCCCHHHHHHHHHH-HhcccCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCEeCHHHHHHHHHcCHHHHHH\n\n\nQ ss_pred             hCCCc\nQ AAN59974.1       98 LGKVT  102 (130)\nQ Consensus        98 ~~~~~  102 (130)\n                      +.+.+\nT Consensus       176 ~~~~~  180 (191)\nT 1Q9C_G          176 FHQDV  180 (191)\nT ss_dssp             TTTC-\nT ss_pred             cCCCh\n\n\n"
+      },
+      {
+        "hit_name": "2F8N_G Core histone macro-H2A.  ",
+        "prob": "97.6",
+        "e_value": "0.0025",
+        "p_value": "4.3E-08",
+        "score": "33.0",
+        "ss": "12.8",
+        "cols": "118",
+        "query_start": "1",
+        "query_stop": "121",
+        "template_start": "1",
+        "template_stop": "118",
+        "hmm": "(120)",
+        "alignment": ">2F8N_G Core histone macro-H2A.1; Nucleosome, NCP, macroH2A, Histone variant, chromatin, STRUCTURAL PROTEIN-DNA COMPLEX; 2.9A {Homo sapiens} SCOP: a.22.1.1\nProbab=97.60  E-value=0.0025  Score=32.96  Aligned_cols=118  Identities=64%  Similarity=0.941  Sum_probs=0.0  Template_Neff=11.900\n\nQ ss_pred             CCCCCCCCCCccccCCChhhhcCCcCCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccC\nQ AAN59974.1        1 MSGRGKQGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRII   80 (130)\nQ Consensus         1 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   80 (130)\n                      |+..+.....   .......+.++.++.+.+.+++..+......+.....++...++.+...++...+..........+.\nT Consensus         1 ~~~~~~~~~~---~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~~~~~~~~~~~~   77 (120)\nT 2F8N_G            1 MSSRGGKKKS---TKTSRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLTAEILELAVNAARDNKKGRVT   77 (120)\nT ss_dssp             ---------C---CCCCHHHHHTCSSCHHHHHHHHHHHSSSCEECTHHHHHHHHHHHHHHHHHHHHHHHHHHHTTCSEEC\nT ss_pred             CCCCCCCCCC---CCCChhhhCCccCChHHHHHHHHhCCChhhcCCChhHHHHHHHHHHHHHHHHHHHHHHHHCCCCeec\n\n\nQ ss_pred             HHHHHHHHHCCHHHHHHhCCCccccCCcCCCcchhhCCCCC\nQ AAN59974.1       81 PRHLQLAIRNDEELNKLLGKVTIAQGGVLPNIQAVLLPKKT  121 (130)\nQ Consensus        81 ~~~~~~~l~~~~~~~~~~~~~~~~~~g~~~~~~~~~~~~~~  121 (130)\n                      ..++...+..+..+.+++........+..+......+....\nT Consensus        78 ~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~~~~~~~~~~~  118 (120)\nT 2F8N_G           78 PRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKKR  118 (120)\nT ss_dssp             HHHHHHHHHTSHHHHHHTTTEEETTCCCCCCCCGGGSCCC-\nT ss_pred             hhHHHHHhcChHHHHHHhCCCeeccCCcCCCCCHHHccccc\n\n\n"
+      },
+      {
+        "hit_name": "6AE8_B Histone H2B.1,Histone H  ",
+        "prob": "97.1",
+        "e_value": "0.019",
+        "p_value": "3.4E-07",
+        "score": "32.2",
+        "ss": "10.2",
+        "cols": "93",
+        "query_start": "18",
+        "query_stop": "111",
+        "template_start": "99",
+        "template_stop": "192",
+        "hmm": "(193)",
+        "alignment": ">6AE8_B Histone H2B.1,Histone H2A.Z; histone variants, CHAPERONE; HET: BCN; 1.65A {Saccharomyces cerevisiae S288c} SCOP: a.22.1.1\nProbab=97.09  E-value=0.019  Score=32.20  Aligned_cols=93  Identities=66%  Similarity=1.025  Sum_probs=0.0  Template_Neff=12.200\n\nQ ss_pred             hhhhcCCcCCHHHHHHHHHcCCCc-cccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHHCCHHHHH\nQ AAN59974.1       18 RSSRAGLQFPVGRVHRLLRKGNYA-ERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIRNDEELNK   96 (130)\nQ Consensus        18 ~~~~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~   96 (130)\n                      .....++.++.+.+.+++...... ...+.....++...++++...++..++..........+++.++...+..+..+..\nT Consensus        99 ~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~l~~~~e~~~~~i~~~~~~~~~~~~~~~i~~~~i~~~~~~~~~l~~  178 (193)\nT 6AE8_B           99 SSARAGLQFPVGRIKRYLKRHATGRTRVGSKAAIYLTAVLEYLTAEVLELAGNAAKDLKVKRITPRHLQLAIRGDDELDS  178 (193)\nT ss_dssp             HHHHTTCSSCHHHHHHHHHTTCCTTCEECHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTCSEECHHHHHHHHHTSHHHHH\nT ss_pred             cccccCcccCHHHHHHHHHHcCCCCcccchhHHHHHHHHHHHHHHHHHHHHHHHHHHcCCCeeCHHHHHHHHhCCHHHHH\n\n\nQ ss_pred             HhCCCccccCCcCCC\nQ AAN59974.1       97 LLGKVTIAQGGVLPN  111 (130)\nQ Consensus        97 ~~~~~~~~~~g~~~~  111 (130)\n                      ++ .......|.+|.\nT Consensus       179 l~-~~~~~~~~~~~~  192 (193)\nT 6AE8_B          179 LI-RATIASGGVLPH  192 (193)\nT ss_dssp             HH-HC----------\nT ss_pred             HH-HcccccCCCCCC\n\n\n"
+      },
+      {
+        "hit_name": "6PX3_C Ubiquitin-60S ribosomal  ",
+        "prob": "97.0",
+        "e_value": "0.027",
+        "p_value": "4.7E-07",
+        "score": "32.5",
+        "ss": "8.9",
+        "cols": "113",
+        "query_start": "18",
+        "query_stop": "130",
+        "template_start": "109",
+        "template_stop": "221",
+        "hmm": "(221)",
+        "alignment": ">6PX3_C Ubiquitin-60S ribosomal protein L40,Histone H2A; Set2, nucleosome, chromatin, KMT, GENE REGULATION;{Xenopus laevis}\nProbab=97.01  E-value=0.027  Score=32.52  Aligned_cols=113  Identities=94%  Similarity=1.318  Sum_probs=0.0  Template_Neff=11.900\n\nQ ss_pred             hhhhcCCcCCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHHCCHHHHHH\nQ AAN59974.1       18 RSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIRNDEELNKL   97 (130)\nQ Consensus        18 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~   97 (130)\n                      .....++.++...+.+++....+..........++...++++...++...+..........+.+.++...+..+..+.++\nT Consensus       109 ~~~~~~l~~~~~~~~~~l~~~~~~~~~~~~~~~~l~~~l~~l~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~  188 (221)\nT 6PX3_C          109 RSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAVRNDEELNKL  188 (221)\nT ss_dssp             HHHHHTCSSCHHHHHHHHHTTTSCSEECSHHHHHHHHHHHHHHHHHHHHHHHHHHHTTCSEECHHHHHHHHHHSHHHHHH\nT ss_pred             ccccccccCCceeeehhcccCCcccccCCCcchHHHHHHHHHHHHHHHHHHHHHHhcCCceecchhHHHHhhCcHHHHHH\n\n\nQ ss_pred             hCCCccccCCcCCCcchhhCCCCCcchhhhcCC\nQ AAN59974.1       98 LGKVTIAQGGVLPNIQAVLLPKKTESHHKAKGK  130 (130)\nQ Consensus        98 ~~~~~~~~~g~~~~~~~~~~~~~~~~~~~~~~~  130 (130)\n                      +........+.++.........+.....=++.|\nT Consensus       189 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  221 (221)\nT 6PX3_C          189 LGRVTIAQGGVLPNIQSVLLPKKTESSKSAKSK  221 (221)\nT ss_dssp             TTTEEETTCCCCCCCCGGGSCCC----------\nT ss_pred             hCCCeeccCCcCCCcchhhCCCCCcCcchhccC\n\n\n"
+      },
+      {
+        "hit_name": "7BP2_C Histone H2A.6; complex,  ",
+        "prob": "96.6",
+        "e_value": "0.032",
+        "p_value": "5.5E-07",
+        "score": "26.9",
+        "ss": "11.1",
+        "cols": "93",
+        "query_start": "13",
+        "query_stop": "105",
+        "template_start": "1",
+        "template_stop": "93",
+        "hmm": "(93)",
+        "alignment": ">7BP2_C Histone H2A.6; complex, Histone, PLANT PROTEIN, NUCLEAR PROTEIN; HET: SO4, GOL; 1.58A {Arabidopsis thaliana}\nProbab=96.56  E-value=0.032  Score=26.92  Aligned_cols=93  Identities=81%  Similarity=1.215  Sum_probs=0.0  Template_Neff=12.500\n\nQ ss_pred             ccCCChhhhcCCcCCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHHCCH\nQ AAN59974.1       13 AKAKTRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIRNDE   92 (130)\nQ Consensus        13 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~   92 (130)\n                      .+........++.++.+.+.+++...............++...++.+...+...++..........+...++...+..+.\nT Consensus         1 ~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   80 (93)\nT 7BP2_C            1 KKATSRSSKAGLQFPVGRIARFLKAGKYAERVGAGAPVYLAAVLEYLAAEVLELAGNAARDNKKTRIVPRHIQLAVRNDE   80 (93)\nT ss_dssp             ---CCHHHHTTCSSCHHHHHHHHHHTTSSSEECSHHHHHHHHHHHHHHHHHHHHHHHHHHHTTCSEECHHHHHHHHHTCH\nT ss_pred             CCCCChhHhCCCcCCHHHHHHHHHcCCcHhhcCCChhHHHHHHHHHHHHHHHHHHHHHHHHCCCCeecHHHHHHHHHCcH\n\n\nQ ss_pred             HHHHHhCCCcccc\nQ AAN59974.1       93 ELNKLLGKVTIAQ  105 (130)\nQ Consensus        93 ~~~~~~~~~~~~~  105 (130)\n                      .+++++.......\nT Consensus        81 ~~~~l~~~~~~~~   93 (93)\nT 7BP2_C           81 ELSKLLGDVTIAN   93 (93)\nT ss_dssp             HHHHHHCCCC---\nT ss_pred             HHHHHhCCCccCC\n\n\n"
+      },
+      {
+        "hit_name": "6A7U_A Histone H2B type 2-E,Hi  ",
+        "prob": "96.4",
+        "e_value": "0.095",
+        "p_value": "1.7E-06",
+        "score": "30.3",
+        "ss": "12.2",
+        "cols": "108",
+        "query_start": "4",
+        "query_stop": "111",
+        "template_start": "133",
+        "template_stop": "240",
+        "hmm": "(240)",
+        "alignment": ">6A7U_A Histone H2B type 2-E,Histone H2A-Bbd type 2/3; Histone, Histone variant, H2A.Bbd, DNA BINDING PROTEIN; 2.6A {Homo sapiens} SCOP: a.22.1.0\nProbab=96.37  E-value=0.095  Score=30.34  Aligned_cols=108  Identities=44%  Similarity=0.699  Sum_probs=0.0  Template_Neff=12.600\n\nQ ss_pred             CCCCCCCccccCCChhhhcCCcCCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHH\nQ AAN59974.1        4 RGKQGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRH   83 (130)\nQ Consensus         4 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   83 (130)\n                      .................+.++.++...+..++...............++...++++...++..++..........+.+.+\nT Consensus       133 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~~~  212 (240)\nT 6A7U_A          133 RGSSGAGGRGRTCSRTVRAELSFSVSQVERSLREGHYAQRLSRTAPVYLAAVIEYLTAKVLELAGNEAQNSGERNITPLL  212 (240)\nT ss_dssp             -------------CTHHHHTCSSCHHHHHHHHHHTTCSSEECTHHHHHHHHHHHHHHHHHHHHHHHHHHHTTCSEECHHH\nT ss_pred             CCCCCCCCCCCCCCccccCceecCHHHHHHHHhhCCCccccCCCChHHHHHHHHHHHHHHHHHHHHHHHHcCCCccCHHH\n\n\nQ ss_pred             HHHHHHCCHHHHHHhCCCccccCCcCCC\nQ AAN59974.1       84 LQLAIRNDEELNKLLGKVTIAQGGVLPN  111 (130)\nQ Consensus        84 ~~~~l~~~~~~~~~~~~~~~~~~g~~~~  111 (130)\n                      +...+..+..+..++...+....+..+.\nT Consensus       213 ~~~~~~~~~~~~~l~~~~~~~~~~~~~~  240 (240)\nT 6A7U_A          213 LDMVVHNDRLLSTLFNTTTISQVAPGED  240 (240)\nT ss_dssp             HHHHHSSSTTGGGC--------------\nT ss_pred             HHHHHHCcHHHHHHhcCCccccCCCCCC\n\n\n"
+      },
+      {
+        "hit_name": "3KSY_A Son of sevenless homolo  ",
+        "prob": "95.5",
+        "e_value": "0.31",
+        "p_value": "5.5E-06",
+        "score": "35.7",
+        "ss": "8.7",
+        "cols": "82",
+        "query_start": "18",
+        "query_stop": "100",
+        "template_start": "97",
+        "template_stop": "178",
+        "hmm": "(1049)",
+        "alignment": ">3KSY_A Son of sevenless homolog 1; Ras, SOS, Ras activator, Son of Sevenless, Disease mutation, Guanine-nucleotide releasing factor, SIGNALING PROTEIN; 3.178A {Homo sapiens}\nProbab=95.46  E-value=0.31  Score=35.73  Aligned_cols=82  Identities=32%  Similarity=0.583  Sum_probs=0.0  Template_Neff=10.100\n\nQ ss_pred             hhhhcCCcCCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHHCCHHHHHH\nQ AAN59974.1       18 RSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIRNDEELNKL   97 (130)\nQ Consensus        18 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~   97 (130)\n                      +..+.++.++++.++++++. .+...++.....++.++++++..+++..++..........+.+.++..++..+..+..+\nT Consensus        97 ~~~~~~l~~p~~~i~~~lk~-~~~~~~~~~~~~yl~avley~~~~ilel~~~~~~~~~~~~i~~~~i~~a~~~d~~l~~l  175 (1049)\nT 3KSY_A           97 RKRRNPLSLPVEKIHPLLKE-VLGYKIDHQVSVYIVAVLEYISADILKLVGNYVRNIRHYEITKQDIKVAMCADKVLMDM  175 (1049)\nT ss_dssp             CCCSSSCSSCHHHHHHHHHH-HHCSCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTCCBCCHHHHHHHHHHCSSHHHH\nT ss_pred             HhhcCCCCCCHHHHHHHHHH-HHcccCCcchHHHHHHHHHHHHHHHHHHHHHHHhhcCCCccCHHHHHHHHHhhHHHHHH\n\n\nQ ss_pred             hCC\nQ AAN59974.1       98 LGK  100 (130)\nQ Consensus        98 ~~~  100 (130)\n                      +..\nT Consensus       176 ~~~  178 (1049)\nT 3KSY_A          176 FHQ  178 (1049)\nT ss_dssp             CC-\nT ss_pred             hcC\n\n\n"
+      },
+      {
+        "hit_name": "7CVO_A Chimera of Nuclear tran  ",
+        "prob": "95.3",
+        "e_value": "0.28",
+        "p_value": "4.9E-06",
+        "score": "27.2",
+        "ss": "8.5",
+        "cols": "84",
+        "query_start": "24",
+        "query_stop": "107",
+        "template_start": "6",
+        "template_stop": "89",
+        "hmm": "(165)",
+        "alignment": ">7CVO_A Chimera of Nuclear transcription factor Y subunit C-4 and Zinc finger protein CONSTANS; CONSTANS, transcription factor, DNA BINDING PROTEIN-DNA complex; 2.6A {Arabidopsis thaliana}\nProbab=95.27  E-value=0.28  Score=27.21  Aligned_cols=84  Identities=20%  Similarity=0.335  Sum_probs=0.0  Template_Neff=10.800\n\nQ ss_pred             CcCCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHHCCHHHHHHhCCCcc\nQ AAN59974.1       24 LQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIRNDEELNKLLGKVTI  103 (130)\nQ Consensus        24 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~  103 (130)\n                      ..+|.+.+.++++.......++.....++...++.++..+...+...........+.+.++...+.....+..+......\nT Consensus         6 ~~~P~~ri~~i~k~~~~~~~i~~~a~~~~~~~~e~f~~~l~~~a~~~~~~~~~k~i~~~~l~~~i~~~~~~~~l~~~~~~   85 (165)\nT 7CVO_A            6 HQLPLARIKKIMKADEDVRMISAEAPILFAKACELFILELTIRSWLHAEENKRRTLQKNDIAAAITRTDIFDFLVDIVPR   85 (165)\nT ss_pred             CCCCHHHHHHHHHhCCCcccccchHHHHHHHHHHHHHHHHHHHHHHHHHHcCCCccCHHHHHHHHHhccccchhhcCCCC\n\n\nQ ss_pred             ccCC\nQ AAN59974.1      104 AQGG  107 (130)\nQ Consensus       104 ~~~g  107 (130)\n                      ....\nT Consensus        86 ~~~~   89 (165)\nT 7CVO_A           86 GSGS   89 (165)\nT ss_pred             CCCC\n\n\n"
+      },
+      {
+        "hit_name": "6W4L_A Histone H2B 1.1,Histone  ",
+        "prob": "95.1",
+        "e_value": "0.3",
+        "p_value": "5.3E-06",
+        "score": "26.8",
+        "ss": "10.3",
+        "cols": "92",
+        "query_start": "14",
+        "query_stop": "105",
+        "template_start": "95",
+        "template_stop": "186",
+        "hmm": "(186)",
+        "alignment": ">6W4L_A Histone H2B 1.1,Histone H2A type 1; histone, chromatin, GENE REGULATION; 1.31A {Xenopus laevis} SCOP: a.22.1.0\nProbab=95.13  E-value=0.3  Score=26.81  Aligned_cols=92  Identities=98%  Similarity=1.345  Sum_probs=0.0  Template_Neff=12.900\n\nQ ss_pred             cCCChhhhcCCcCCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHHCCHH\nQ AAN59974.1       14 KAKTRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIRNDEE   93 (130)\nQ Consensus        14 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~   93 (130)\n                      ..........+.++...+.+++.........+.....++...++++....+...+..........+++.++...+..+.+\nT Consensus        95 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~~~~~~~  174 (186)\nT 6W4L_A           95 KAKTRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAVRNDEE  174 (186)\nT ss_dssp             TCSSHHHHTTCSSCHHHHHHHHHHTTSSSEECTHHHHHHHHHHHHHHHHHHHHHHHHHHHTTCSEECHHHHHHHHHTSHH\nT ss_pred             ccccccCCCCCCCchHHHHHHHHcCCccccccCcHHHHHHHHHHHHHHHHHHHhHHHHHHCCCCccCHHHHHHHHHChHH\n\n\nQ ss_pred             HHHHhCCCcccc\nQ AAN59974.1       94 LNKLLGKVTIAQ  105 (130)\nQ Consensus        94 ~~~~~~~~~~~~  105 (130)\n                      ++.++.+.....\nT Consensus       175 ~~~l~~~~~~~~  186 (186)\nT 6W4L_A          175 LNKLLGGVTIAQ  186 (186)\nT ss_dssp             HHHHC-------\nT ss_pred             HHHHhCCCccCC\n\n\n"
+      },
+      {
+        "hit_name": "1JFI_A Transcription Regulator  ",
+        "prob": "95.0",
+        "e_value": "0.25",
+        "p_value": "4.3E-06",
+        "score": "25.0",
+        "ss": "7.0",
+        "cols": "78",
+        "query_start": "18",
+        "query_stop": "95",
+        "template_start": "4",
+        "template_stop": "81",
+        "hmm": "(98)",
+        "alignment": ">1JFI_A Transcription Regulator NC2 alpha chain; Histone, H2A/H2B, TBP, TATA-DNA, transcription initiation, NC2, Negative Cofactor, Structural Genomics, PSI, Protein Structure Initiative, New; 2.62A {Homo sapiens} SCOP: a.22.1.3\nProbab=94.98  E-value=0.25  Score=25.01  Aligned_cols=78  Identities=18%  Similarity=0.386  Sum_probs=0.0  Template_Neff=9.700\n\nQ ss_pred             hhhhcCCcCCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHHCCHHHH\nQ AAN59974.1       18 RSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIRNDEELN   95 (130)\nQ Consensus        18 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~   95 (130)\n                      +....+..+|.+.+.++++.......++......+....+.++..+...+...........+.+.++...+.....+.\nT Consensus         4 ~~~~~~~~~P~~~i~ri~k~~~~~~~is~~a~~~~~~a~e~fi~~l~~~a~~~a~~~~~k~i~~~~i~~~i~~~~~~~   81 (98)\nT 1JFI_A            4 KKKKYNARFPPARIKKIMQTDEEIGKVAAAVPVIISRALELFLESLLKKACQVTQSRNAKTMTTSHLKQCIELEGDPA   81 (98)\nT ss_dssp             ------CCCCHHHHHHHHTTSTTCCCBCTTHHHHHHHHHHHHHHHHHHHHHHHHHTC---CBCHHHHHTTCC------\nT ss_pred             ccccCCCCCCHHHHHHHHhhCcchhcccchHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCeeCHHHHHHHHHhhCCcc\n\n\n"
+      },
+      {
+        "hit_name": "4CAY_A HISTONE H2A.Z; EPIGENET  ",
+        "prob": "94.7",
+        "e_value": "0.29",
+        "p_value": "5.1E-06",
+        "score": "24.4",
+        "ss": "12.0",
+        "cols": "107",
+        "query_start": "18",
+        "query_stop": "125",
+        "template_start": "3",
+        "template_stop": "110",
+        "hmm": "(111)",
+        "alignment": ">4CAY_A HISTONE H2A.Z; EPIGENETICS, TRANSCRIPTION, NUCLEOSOME, HISTONE VARIANT, HISTONE CHAPERONE; 1.48A {HOMO SAPIENS} SCOP: a.22.1.1\nProbab=94.68  E-value=0.29  Score=24.43  Aligned_cols=107  Identities=63%  Similarity=0.926  Sum_probs=0.0  Template_Neff=12.300\n\nQ ss_pred             hhhhcCCcCCHHHHHHHHHcCCC-ccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHHCCHHHHH\nQ AAN59974.1       18 RSSRAGLQFPVGRVHRLLRKGNY-AERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIRNDEELNK   96 (130)\nQ Consensus        18 ~~~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~   96 (130)\n                      ...+.++.++.+.+.+++..... ....+......+...++.+...+....+..........+...++...+.....+.+\nT Consensus         3 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   82 (111)\nT 4CAY_A            3 RSQRAGLQFPVGRIHRHLKSRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLKVKRITPRHLQLAIRGDEELDS   82 (111)\nT ss_dssp             HHHHTTCSSCHHHHHHHHHHC----CCBCHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTCSEECHHHHHHHHHTCHHHHH\nT ss_pred             hhHhcCCcCCHHHHHHHHhcCCCcccccccchHHHHHHHHHHHHHHHHHHHHHHHHHcCCCeeCHHHHHHHHHCCHHHHH\n\n\nQ ss_pred             HhCCCccccCCcCCCcchhhCCCCCcchh\nQ AAN59974.1       97 LLGKVTIAQGGVLPNIQAVLLPKKTESHH  125 (130)\nQ Consensus        97 ~~~~~~~~~~g~~~~~~~~~~~~~~~~~~  125 (130)\n                      ++. ......+.++.............+.\nT Consensus        83 ~~~-~~~~~~~~~~~~~~~~~~~~~~~~~  110 (111)\nT 4CAY_A           83 LIK-ATIAGGGVIPHIHKSLIGKKGQQKT  110 (111)\nT ss_dssp             HHH-HHHHTC-------------------\nT ss_pred             HHh-chhcCCCcccCccHHHcCCCCCCcC\n\n\n"
+      },
+      {
+        "hit_name": "7N8N_A Histone H4-H3 doublet;   ",
+        "prob": "94.4",
+        "e_value": "0.7",
+        "p_value": "1.2E-05",
+        "score": "27.7",
+        "ss": "7.7",
+        "cols": "88",
+        "query_start": "1",
+        "query_stop": "91",
+        "template_start": "29",
+        "template_stop": "119",
+        "hmm": "(244)",
+        "alignment": ">7N8N_A Histone H4-H3 doublet; nucleosome, Virus, DNA BINDING PROTEIN, DNA BINDING PROTEIN-DNA complex;{Melbournevirus}\nProbab=94.43  E-value=0.7  Score=27.72  Aligned_cols=88  Identities=15%  Similarity=0.039  Sum_probs=0.0  Template_Neff=10.100\n\nQ ss_pred             CCCCCCCCCC---ccccCCChhhhcCCcCCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCC\nQ AAN59974.1        1 MSGRGKQGGK---ARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKT   77 (130)\nQ Consensus         1 ~~~~~~~~~~---~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   77 (130)\n                      |+++++....   .......+....++.++.  +.+++++.++....+.....+....++++...+....+.........\nT Consensus        29 ~~~~g~~~~~~~~~~~~~~~~s~~~~l~~~~--i~rllr~~~~~~~~~~~~~~~~~~v~~~l~~~~~~~~~~~~~~~rkt  106 (244)\nT 7N8N_A           29 SSKAGKKVKAQQHGHLADHVSVGETQIPKAS--TQHLLRKAGSLSAAGDTEVPIRGFVHMKLHKLVQKSLLAMQLAKRKT  106 (244)\nT ss_dssp             -----------------CCCCCCSCCCCHHH--HHHHHHHHTCSCBCTTSHHHHHHHHHHHHHHHHHHHHHHHHHTTCSE\nT ss_pred             CCCCCccccccCCCCcccccccccccCCHHH--HHHHHHHhCCCccccccHHHHHHHHHHHHHHHHHHHHHHHHHcCCCe\n\n\nQ ss_pred             ccCHHHHHHHHHCC\nQ AAN59974.1       78 RIIPRHLQLAIRND   91 (130)\nQ Consensus        78 ~~~~~~~~~~l~~~   91 (130)\n                      .+.+ ++...+..+\nT Consensus       107 ~~~~-~i~~a~~~~  119 (244)\nT 7N8N_A          107 IMKS-DVKKAAELM  119 (244)\nT ss_dssp             ECHH-HHHHHHHHT\nT ss_pred             eech-hHHHHHHHc\n\n\n"
+      },
+      {
+        "hit_name": "4WZS_A ECU11_1470 protein; Tra  ",
+        "prob": "94.1",
+        "e_value": "0.41",
+        "p_value": "7.2E-06",
+        "score": "23.8",
+        "ss": "8.6",
+        "cols": "74",
+        "query_start": "24",
+        "query_stop": "97",
+        "template_start": "12",
+        "template_stop": "85",
+        "hmm": "(95)",
+        "alignment": ">4WZS_A ECU11_1470 protein; Transcription, protein-DNA complex, Swi2/Snf2; HET: MSE; 3.78A {Encephalitozoon cuniculi (strain GB-M1)}\nProbab=94.10  E-value=0.41  Score=23.81  Aligned_cols=74  Identities=24%  Similarity=0.450  Sum_probs=0.0  Template_Neff=10.400\n\nQ ss_pred             CcCCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHHCCHHHHHH\nQ AAN59974.1       24 LQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIRNDEELNKL   97 (130)\nQ Consensus        24 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~   97 (130)\n                      ..+|.+.+.++++.+.....++......+....+.++..+...+...........+...++...+.....+..+\nT Consensus        12 ~~~P~~~v~ri~k~~~~~~~~s~~a~~~~~~~~e~f~~~l~~~a~~~~~~~~~k~i~~~~l~~~i~~~~~~~fL   85 (95)\nT 4WZS_A           12 TRFPISRLKRIMQLNEDIGKIGASVPVVASKAIEMFLTEIVGLTLKEARKKSSSRMSSEFIIRATESDPKFAFL   85 (95)\nT ss_dssp             ---CHHHHHHHHHHSTTTCEECSHHHHHHHHHHHHHHHHHHHHHHHHC---------CHHHHHHHHHCSGGGGS\nT ss_pred             CCCCHHHHHHHHHhCCchhhcchHHHHHHHHHHHHHHHHHHHHHHHHHHHcCCCccCHHHHHHHHHcChhhHhH\n\n\n"
+      },
+      {
+        "hit_name": "5Y27_B Putative transcription   ",
+        "prob": "92.7",
+        "e_value": "0.74",
+        "p_value": "1.3E-05",
+        "score": "22.5",
+        "ss": "8.9",
+        "cols": "91",
+        "query_start": "13",
+        "query_stop": "103",
+        "template_start": "2",
+        "template_stop": "92",
+        "hmm": "(92)",
+        "alignment": ">5Y27_B Putative transcription factor C16C4.22; heterodimer, histone fold complex, DNA binging, epigenetic, DNA BINDING PROTEIN; HET: MSE; 1.9A {Schizosaccharomyces pombe (strain 972 / ATCC 24843)} SCOP: a.22.1.0, l.1.1.1\nProbab=92.66  E-value=0.74  Score=22.47  Aligned_cols=91  Identities=15%  Similarity=0.257  Sum_probs=0.0  Template_Neff=11.000\n\nQ ss_pred             ccCCChhhhcCCcCCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHHCCH\nQ AAN59974.1       13 AKAKTRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIRNDE   92 (130)\nQ Consensus        13 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~   92 (130)\n                      .............++.+.+.++++.......++.....++...++.+...+...............+...++...+....\nT Consensus         2 ~~~~~~~~~~~~~~p~~~i~~i~k~~~~~~~~~~~a~~~~~~~~~~f~~~l~~~a~~~~~~~~~~~i~~~~~~~~~~~~~   81 (92)\nT 5Y27_B            2 PLGSMEKTYGKTVLPLSRVKRIIKQDEDVHYCSNASALLISVATELFVEKLATEAYQLAKLQKRKGIRYRDVEDVVRKDD   81 (92)\nT ss_dssp             CSSCCCCCCSCCSSCHHHHHHHHTTCTTCSEECHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTCSSBCHHHHHHHHHHCG\nT ss_pred             CCCcccccCCCCCCCHHHHHHHHHhCCCccccCHHHHHHHHHHHHHHHHHHHHHHHHHHHHcCCCccCHHHHHHHHhhCc\n\n\nQ ss_pred             HHHHHhCCCcc\nQ AAN59974.1       93 ELNKLLGKVTI  103 (130)\nQ Consensus        93 ~~~~~~~~~~~  103 (130)\n                      .+..+......\nT Consensus        82 ~~~~l~~~~~~   92 (92)\nT 5Y27_B           82 QFEFLSDLFSI   92 (92)\nT ss_dssp             GGGGGTTTTTC\nT ss_pred             hhHHhhhccCC\n\n\n"
+      },
+      {
+        "hit_name": "4CSR_B NUCLEAR TRANSCRIPTION F  ",
+        "prob": "92.4",
+        "e_value": "0.87",
+        "p_value": "1.5E-05",
+        "score": "22.5",
+        "ss": "8.1",
+        "cols": "79",
+        "query_start": "24",
+        "query_stop": "102",
+        "template_start": "15",
+        "template_stop": "93",
+        "hmm": "(94)",
+        "alignment": ">4CSR_B NUCLEAR TRANSCRIPTION FACTOR Y SUBUNIT GAMMA; TRANSCRIPTION, NF-Y, DNA-BINDING, CCAAT-BOX; HET: GOL; 1.5A {HOMO SAPIENS} SCOP: a.22.1.3\nProbab=92.35  E-value=0.87  Score=22.52  Aligned_cols=79  Identities=20%  Similarity=0.354  Sum_probs=0.0  Template_Neff=10.500\n\nQ ss_pred             CcCCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHHCCHHHHHHhCCCc\nQ AAN59974.1       24 LQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIRNDEELNKLLGKVT  102 (130)\nQ Consensus        24 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~  102 (130)\n                      ..+|.+.+.++++........+......+....+.+...+...+...........+...++...+.....++.+.....\nT Consensus        15 ~~~p~~~v~~i~k~~~~~~~v~~~a~~~~~~~~e~f~~~l~~~a~~~~~~~~rk~i~~~~l~~~i~~~~~~~fl~~~vp   93 (94)\nT 4CSR_B           15 QELPLARIKKIMKLDEDVKMISAEAPVLFAKAAQIFITELTLRAWIHTEDNKRRTLQRNDIAMAITKFDQFDFLIDIVP   93 (94)\nT ss_dssp             GGSCHHHHHHHHTTSTTCCCBCTHHHHHHHHHHHHHHHHHHHHHHHHHHHTTCSEECHHHHHHHHHTCGGGGGGTTTSC\nT ss_pred             CCCCHHHHHHHHHhCCCccccChHHHHHHHHHHHHHHHHHHHHHHHHHhhcCCCeeCHHHHHHHHHccccchhhhhcCC\n\n\n"
+      },
+      {
+        "hit_name": "4G92_C HapE; transcription fac  ",
+        "prob": "91.2",
+        "e_value": "1.6",
+        "p_value": "2.8E-05",
+        "score": "23.2",
+        "ss": "8.6",
+        "cols": "79",
+        "query_start": "24",
+        "query_stop": "102",
+        "template_start": "40",
+        "template_stop": "118",
+        "hmm": "(119)",
+        "alignment": ">4G92_C HapE; transcription factor, nucleosome, minor groove binding, CCAAT-binding complex, histone fold motif, specific binding to the CCAAT-box; HET: SO4; 1.8A {Emericella nidulans}\nProbab=91.17  E-value=1.6  Score=23.16  Aligned_cols=79  Identities=20%  Similarity=0.331  Sum_probs=0.0  Template_Neff=8.900\n\nQ ss_pred             CcCCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHHCCHHHHHHhCCCc\nQ AAN59974.1       24 LQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIRNDEELNKLLGKVT  102 (130)\nQ Consensus        24 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~  102 (130)\n                      ..++.+.+.++++.......++......+....+.++..+...+........+..+...++...+.....+..+.....\nT Consensus        40 ~~~P~srikri~k~~~~~~~is~ea~~~~~~~~e~f~~~l~~~a~~~a~~~~rktI~~~di~~~i~~~~~~~fL~~~vp  118 (119)\nT 4G92_C           40 HQLPLARIKKVMKADPEVKMISAEAPILFAKGCDVFITELTMRAWIHAEDNKRRTLQRSDIAAALSKSDMFDFLIDIVP  118 (119)\nT ss_dssp             CSSCHHHHHHHHHTSTTCCEECTHHHHHHHHHHHHHHHHHHHHHHHHHHHTTCSEECHHHHHHHHTTCGGGGGGTTTCC\nT ss_pred             cCCCHHHHHHHHHhCCCccccChHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHhcCcchhhHhhhCC\n\n\n"
+      },
+      {
+        "hit_name": "5Y27_A DNA polymerase epsilon   ",
+        "prob": "87.1",
+        "e_value": "6",
+        "p_value": "0.0001",
+        "score": "24.3",
+        "ss": "7.3",
+        "cols": "66",
+        "query_start": "24",
+        "query_stop": "89",
+        "template_start": "16",
+        "template_stop": "82",
+        "hmm": "(241)",
+        "alignment": ">5Y27_A DNA polymerase epsilon subunit D; heterodimer, histone fold complex, DNA binging, epigenetic, DNA BINDING PROTEIN; HET: MSE; 1.9A {Schizosaccharomyces pombe (strain 972 / ATCC 24843)} SCOP: a.22.1.0\nProbab=87.12  E-value=6  Score=24.30  Aligned_cols=66  Identities=17%  Similarity=0.227  Sum_probs=0.0  Template_Neff=7.400\n\nQ ss_pred             CcCCHHHHHHHHHcC-CCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHH\nQ AAN59974.1       24 LQFPVGRVHRLLRKG-NYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIR   89 (130)\nQ Consensus        24 ~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~   89 (130)\n                      +.||.+.+.++++.. .-...++......+..+.+.|+..+...+...+...++..+...++..++.\nT Consensus        16 ~~LP~a~VkrI~k~~lp~~~~is~dA~~~i~~a~e~FI~~L~~~A~~~a~~~~rKTI~~~DV~~Al~   82 (241)\nT 5Y27_A           16 LALPRSIIMRLVKGVLPEKSLVQKEALKAMINSATLFVSFLTSASGEIATNNNRKILMPQDVLNALD   82 (241)\nT ss_dssp             HCCCHHHHHHHHHHTSCTTCCBCHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTCSEECHHHHHHHHH\nT ss_pred             hcCCHHHHHHHHHhhCCcccccCHHHHHHHHHHHHHHHHHHHHHHHHHHHHcCCCccCHHHHHHHHH\n\n\n"
+      },
+      {
+        "hit_name": "6WJV_3 DNA polymerase epsilon   ",
+        "prob": "86.7",
+        "e_value": "5.6",
+        "p_value": "9.8E-05",
+        "score": "23.5",
+        "ss": "7.3",
+        "cols": "74",
+        "query_start": "24",
+        "query_stop": "97",
+        "template_start": "10",
+        "template_stop": "87",
+        "hmm": "(201)",
+        "alignment": ">6WJV_3 DNA polymerase epsilon subunit C; DNA replication, DNA polymerase, CELL CYCLE; 3.5A {Saccharomyces cerevisiae (strain ATCC 204508 / S288c)}\nProbab=86.66  E-value=5.6  Score=23.52  Aligned_cols=74  Identities=15%  Similarity=0.131  Sum_probs=0.0  Template_Neff=8.200\n\nQ ss_pred             CcCCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHC-CCCc---cCHHHHHHHHHCCHHHHHH\nQ AAN59974.1       24 LQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDN-KKTR---IIPRHLQLAIRNDEELNKL   97 (130)\nQ Consensus        24 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-~~~~---~~~~~~~~~l~~~~~~~~~   97 (130)\n                      +.||.+.+.++++...-...++......+......|+..+...+...+... .+..   +.+.++..++.....+..+\nT Consensus        10 ~~lP~s~v~ri~k~~p~~~~iskea~~al~~aae~Fi~~l~~~A~~~a~~~~~rKt~~~I~~~dv~~al~~~~~~~fL   87 (201)\nT 6WJV_3           10 PVFPISKVKKIAKCDPEYVITSNVAISATAFAAELFVQNLVEESLVLAQLNSKGKTSLRLSLNSIEECVEKRDNFRFL   87 (201)\nT ss_dssp             CCSCHHHHHHTTSSCSSCCBCCTTHHHHHHHHHHHHHHHHHHHTTTSSSSSCSSSTTSSCCHHHHHHHHHHCSTTTTS\nT ss_pred             CCCCHHHHHHHHHcCCCccccCHHHHHHHHHHHHHHHHHHHHHHHHHHHHhcCCCcccccCHHHHHHHHHhcccchHH\n\n\n"
+      },
+      {
+        "hit_name": "6WJV_4 DNA polymerase epsilon   ",
+        "prob": "78.8",
+        "e_value": "13",
+        "p_value": "0.00022",
+        "score": "21.9",
+        "ss": "7.4",
+        "cols": "66",
+        "query_start": "24",
+        "query_stop": "89",
+        "template_start": "31",
+        "template_stop": "100",
+        "hmm": "(196)",
+        "alignment": ">6WJV_4 DNA polymerase epsilon subunit D; DNA replication, DNA polymerase, CELL CYCLE; 3.5A {Saccharomyces cerevisiae (strain ATCC 204508 / S288c)}\nProbab=78.80  E-value=13  Score=21.94  Aligned_cols=66  Identities=18%  Similarity=0.203  Sum_probs=0.0  Template_Neff=8.300\n\nQ ss_pred             CcCCHHHHHHHHHc----CCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHH\nQ AAN59974.1       24 LQFPVGRVHRLLRK----GNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIR   89 (130)\nQ Consensus        24 ~~~~~~~~~~~~~~----~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~   89 (130)\n                      +.+|.+.+.++++.    ..-...++......+..+.+.++..+...+...+....+..+...++..++.\nT Consensus        31 ~~lP~s~i~~i~k~~~~~~~~~~~is~ea~~~l~~a~e~Fi~~L~~~A~~~a~~~~rkTi~~~Dv~~al~  100 (196)\nT 6WJV_4           31 LLFPKSTIVNLAREVPQQSGKKLLINKDASLALQRGATVFVNHLLLFAREIAKSQDKKSCSVDDVLSALD  100 (196)\nT ss_dssp             CCSCSHHHHHTCCCCCSSSCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHTTTTCSBCCHHHHTTSTT\nT ss_pred             ccCCHHHHHHHHHhccccCCCCceeCHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHH\n\n\n"
+      },
+      {
+        "hit_name": "7C9P_B Nuclear transcription f  ",
+        "prob": "78.8",
+        "e_value": "7.9",
+        "p_value": "0.00014",
+        "score": "19.5",
+        "ss": "8.2",
+        "cols": "83",
+        "query_start": "19",
+        "query_stop": "101",
+        "template_start": "11",
+        "template_stop": "93",
+        "hmm": "(104)",
+        "alignment": ">7C9P_B Nuclear transcription factor Y subunit C-2; photoperiodic flowering, CCT family, NF-CCT complex, specific DNA recognition, TRANSCRIPTION; 2.0A {Oryza sativa Japonica Group}\nProbab=78.79  E-value=7.9  Score=19.48  Aligned_cols=83  Identities=22%  Similarity=0.313  Sum_probs=0.0  Template_Neff=10.400\n\nQ ss_pred             hhhcCCcCCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHHCCHHHHHHh\nQ AAN59974.1       19 SSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIRNDEELNKLL   98 (130)\nQ Consensus        19 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~   98 (130)\n                      .......++.+.+.++++.......++......+....+.++..+...+...........+...++...+.....+..+.\nT Consensus        11 ~~~~~~~~p~~~v~~i~k~~~~~~~~~~~~~~~~~~~~e~f~~~l~~~a~~~~~~~~rk~i~~~~l~~~i~~~~~~~fL~   90 (104)\nT 7C9P_B           11 SDFKNHQLPLARIKKIMKADEDVRMISAEAPVLFAKACELFILELTIRSWLHAEENKRRTLQRNDVAAAIARTDVFDFLV   90 (104)\nT ss_dssp             ------CCCHHHHHHHHHTSTTCCEECTHHHHHHHHHHHHHHHHHHHHHHHHHHHTTCSEECHHHHHHHHHTCGGGGGGT\nT ss_pred             hhhhcCCCCHHHHHHHHHhCCCccccChhHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHHcCCcchhhH\n\n\nQ ss_pred             CCC\nQ AAN59974.1       99 GKV  101 (130)\nQ Consensus        99 ~~~  101 (130)\n                      ...\nT Consensus        91 ~~v   93 (104)\nT 7C9P_B           91 DIV   93 (104)\nT ss_dssp             TTS\nT ss_pred             hcC\n\n\n"
+      },
+      {
+        "hit_name": "7AH8_B Isoform 6 of Nuclear tr  ",
+        "prob": "73.0",
+        "e_value": "8.9",
+        "p_value": "0.00016",
+        "score": "17.3",
+        "ss": "8.0",
+        "cols": "78",
+        "query_start": "25",
+        "query_stop": "102",
+        "template_start": "2",
+        "template_stop": "79",
+        "hmm": "(80)",
+        "alignment": ">7AH8_B Isoform 6 of Nuclear transcription factor Y subunit gamma; Transcription factor, NF-Y, HFD, Inhibitor, Suramin, TRANSCRIPTION; HET: FLC, SVR; 2.70001356517A {Homo sapiens}\nProbab=73.01  E-value=8.9  Score=17.26  Aligned_cols=78  Identities=21%  Similarity=0.365  Sum_probs=0.0  Template_Neff=12.400\n\nQ ss_pred             cCCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHHCCHHHHHHhCCCc\nQ AAN59974.1       25 QFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIRNDEELNKLLGKVT  102 (130)\nQ Consensus        25 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~  102 (130)\n                      .++.+.+.++++........+......+....+.+.......+...........+...++...+.....+..+.....\nT Consensus         2 ~~p~~~i~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~   79 (80)\nT 7AH8_B            2 ELPLARIKKIMKLDEDVKMISAEAPVLFAKAAQIFITELTLRAWIHTEDNKRRTLQRNDIAMAITKFDQFDFLIDIVP   79 (80)\nT ss_dssp             CCCHHHHHHHHTTSTTCCCBCSHHHHHHHHHHHHHHHHHHHHHHHHHHHTTCSEECHHHHHHHHHTCGGGGGGTTTSC\nT ss_pred             CCCHHHHHHHHhhCCCccccCHHHHHHHHHHHHHHHHHHHHHHHHHHhhcCCCeeCHHHHHHHHHccccchhhhhcCC\n\n\n"
+      },
+      {
+        "hit_name": "1TAF_B TFIID TBP ASSOCIATED FA  ",
+        "prob": "68.4",
+        "e_value": "13",
+        "p_value": "0.00023",
+        "score": "17.4",
+        "ss": "6.8",
+        "cols": "63",
+        "query_start": "26",
+        "query_stop": "89",
+        "template_start": "7",
+        "template_stop": "69",
+        "hmm": "(70)",
+        "alignment": ">1TAF_B TFIID TBP ASSOCIATED FACTOR 62; TRANSCRIPTION INITIATION, HISTONE FOLD, COMPLEX (TWO TRANSCRIPTION FACTORS); 2.0A {Drosophila melanogaster} SCOP: a.22.1.3\nProbab=68.43  E-value=13  Score=17.35  Aligned_cols=63  Identities=11%  Similarity=0.162  Sum_probs=0.0  Template_Neff=9.000\n\nQ ss_pred             CCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHH\nQ AAN59974.1       26 FPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIR   89 (130)\nQ Consensus        26 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~   89 (130)\n                      ++...+..+....+.. ..+......+...+++.+..++..+.....+..+..+++.++..++.\nT Consensus         7 i~~~~v~~l~~~~g~~-~~s~~~~~~l~~~~~~~l~~v~~~a~~~~~h~~R~~lt~~Dv~~Al~   69 (70)\nT 1TAF_B            7 ISAESMKVIAESIGVG-SLSDDAAKELAEDVSIKLKRIVQDAAKFMNHAKRQKLSVRDIDMSLK   69 (70)\nT ss_dssp             CCHHHHHHHHHHTTCC-CBCHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTCSSBCHHHHHHHHC\nT ss_pred             CCHHHHHHHHHHcCCC-cCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHcCCCcccHHHHHHHhc\n\n\n"
+      },
+      {
+        "hit_name": "2BYK_A CHRAC-16; CHRAC-14, NUC  ",
+        "prob": "66.6",
+        "e_value": "22",
+        "p_value": "0.00039",
+        "score": "19.3",
+        "ss": "7.9",
+        "cols": "87",
+        "query_start": "11",
+        "query_stop": "97",
+        "template_start": "5",
+        "template_stop": "92",
+        "hmm": "(140)",
+        "alignment": ">2BYK_A CHRAC-16; CHRAC-14, NUCLEOSOME SLIDING, HISTONE FOLD, CHRAC-16, DNA-BINDING PROTEIN, DNA BINDING PROTEIN; HET: SO4; 2.4A {DROSOPHILA MELANOGASTER} SCOP: a.22.1.3\nProbab=66.61  E-value=22  Score=19.27  Aligned_cols=87  Identities=13%  Similarity=0.176  Sum_probs=0.0  Template_Neff=9.700\n\nQ ss_pred             ccccCCChhhhcCCcCCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCC-CCccCHHHHHHHHH\nQ AAN59974.1       11 ARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNK-KTRIIPRHLQLAIR   89 (130)\nQ Consensus        11 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~l~   89 (130)\n                      ...............++.+.+.++++.......++......+....+.++..+...+........ +..+...++..++.\nT Consensus         5 ~~~~~~~~~~~~~~~~P~~~v~~i~k~~~~~~~is~~~~~~~~~~~e~fi~~l~~~a~~~~~~~~~rk~i~~~di~~a~~   84 (140)\nT 2BYK_A            5 RSQPPVERPPTAETFLPLSRVRTIMKSSMDTGLITNEVLFLMTKCTELFVRHLAGAAYTEEFGQRPGEALKYEHLSQVVN   84 (140)\nT ss_dssp             ------------------------CCSSSSCSCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHTTCCSCEECHHHHHHHHH\nT ss_pred             CCCCCCCCCCCCCcCCCHHHHHHHHHhCCCcccCCHHHHHHHHHHHHHHHHHHHHHHHHHHhccCCCCccCHHHHHHHHH\n\n\nQ ss_pred             CCHHHHHH\nQ AAN59974.1       90 NDEELNKL   97 (130)\nQ Consensus        90 ~~~~~~~~   97 (130)\n                      ....+..+\nT Consensus        85 ~~~~~~fl   92 (140)\nT 2BYK_A           85 KNKNLEFL   92 (140)\nT ss_dssp             TCSTTGGG\nT ss_pred             hCccchHH\n\n\n"
+      },
+      {
+        "hit_name": "3B0D_W Centromere protein W; h  ",
+        "prob": "64.3",
+        "e_value": "16",
+        "p_value": "0.00028",
+        "score": "16.9",
+        "ss": "8.3",
+        "cols": "66",
+        "query_start": "24",
+        "query_stop": "89",
+        "template_start": "3",
+        "template_stop": "68",
+        "hmm": "(76)",
+        "alignment": ">3B0D_W Centromere protein W; histone fold, DNA binding, DNA BINDING PROTEIN; HET: CIT; 2.197A {Gallus gallus}\nProbab=64.31  E-value=16  Score=16.87  Aligned_cols=66  Identities=21%  Similarity=0.267  Sum_probs=0.0  Template_Neff=10.600\n\nQ ss_pred             CcCCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHH\nQ AAN59974.1       24 LQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIR   89 (130)\nQ Consensus        24 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~   89 (130)\n                      ..+|.+.+.++++.......++......+....+.++..+...+...+.......+.+.++..++.\nT Consensus         3 ~~~p~~~i~ki~k~~~~~~~~s~~~~~~~~~~~~~fi~~l~~~a~~~a~~~~~k~i~~~di~~a~~   68 (76)\nT 3B0D_W            3 RTVPRGTLRKIIKKHKPHLRLAANTDLLVHLSFLLFLHRLAEEARTNAFENKCKIIKPEHTIAAAK   68 (76)\nT ss_dssp             CCCCHHHHHHHHHHHCTTCEECTTHHHHHHHHHHHHHHHHHHHHHHHHHHHTCSSBCHHHHHHHHH\nT ss_pred             CCCCHHHHHHHHHHhCCCCCCCccHHHHHHHHHHHHHHHHHHHHHHHHHHcCCCccCHHHHHHHHH\n\n\n"
+      },
+      {
+        "hit_name": "2BYK_D CHRAC-14; CHRAC-14, NUC  ",
+        "prob": "53.1",
+        "e_value": "42",
+        "p_value": "0.00074",
+        "score": "18.1",
+        "ss": "7.2",
+        "cols": "66",
+        "query_start": "24",
+        "query_stop": "89",
+        "template_start": "8",
+        "template_stop": "74",
+        "hmm": "(128)",
+        "alignment": ">2BYK_D CHRAC-14; CHRAC-14, NUCLEOSOME SLIDING, HISTONE FOLD, CHRAC-16, DNA-BINDING PROTEIN, DNA BINDING PROTEIN; HET: SO4; 2.4A {DROSOPHILA MELANOGASTER} SCOP: a.22.1.3\nProbab=53.07  E-value=42  Score=18.14  Aligned_cols=66  Identities=14%  Similarity=0.211  Sum_probs=0.0  Template_Neff=8.500\n\nQ ss_pred             CcCCHHHHHHHHHcC-CCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHH\nQ AAN59974.1       24 LQFPVGRVHRLLRKG-NYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIR   89 (130)\nQ Consensus        24 ~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~   89 (130)\n                      +.+|...+.++++.. .-...++......+..+.+.++..+...+...+....+..+.+.++...+.\nT Consensus         8 ~~lP~a~v~ri~k~~lp~~~~is~~a~~~l~~~~~~Fi~~l~~~A~~~a~~~~rktI~~~dv~~Al~   74 (128)\nT 2BYK_D            8 LNLPNAVIGRLIKEALPESASVSKEARAAIARAASVFAIFVTSSSTALAHKQNHKTITAKDILQTLT   74 (128)\nT ss_dssp             CSSCTTHHHHHHHHHSCTTCEECHHHHHHHHHHHHHHHHHHHHHHHHHHHHTCCSSCCHHHHHHHHH\nT ss_pred             cCCCHHHHHHHHHHHCCCCCeeCHHHHHHHHHHHHHHHHHHHHHHHHHHHHcCCCcCCHHHHHHHHH\n\n\n"
+      },
+      {
+        "hit_name": "7C9O_B Nuclear transcription f  ",
+        "prob": "51.1",
+        "e_value": "36",
+        "p_value": "0.00062",
+        "score": "16.7",
+        "ss": "7.2",
+        "cols": "66",
+        "query_start": "24",
+        "query_stop": "89",
+        "template_start": "9",
+        "template_stop": "75",
+        "hmm": "(95)",
+        "alignment": ">7C9O_B Nuclear transcription factor Y subunit B-11; photoperiodic flowering, CCT family, NF-CCT complex, specific DNA recognition, TRANSCRIPTION; 2.55A {Oryza sativa Japonica Group}\nProbab=51.11  E-value=36  Score=16.72  Aligned_cols=66  Identities=14%  Similarity=0.226  Sum_probs=0.0  Template_Neff=10.200\n\nQ ss_pred             CcCCHHHHHHHHHcC-CCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHH\nQ AAN59974.1       24 LQFPVGRVHRLLRKG-NYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIR   89 (130)\nQ Consensus        24 ~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~   89 (130)\n                      ..++.+.+.++++.. .....++......+....+.++..+...+...+...++..+...++..++.\nT Consensus         9 ~~lp~~~i~~l~~~~~~~~~~~s~~a~~~l~~~~~~f~~~l~~~a~~~a~~~~rkti~~~dv~~a~~   75 (95)\nT 7C9O_B            9 RFLPIANVSRIMKRSLPANAKISKEAKETVQECVSEFISFVTGEASDKCQREKRKTINGDDLLWAMT   75 (95)\nT ss_dssp             TSCCHHHHHHHHHHTSCTTCEECHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTCSEECHHHHHHHHH\nT ss_pred             ccCCHHHHHHHHHHhCCCCCeeCHHHHHHHHHHHHHHHHHHHHHHHHHHHHcCCCCCCHHHHHHHHH\n\n\n"
+      },
+      {
+        "hit_name": "4WZS_B TATA-binding protein-as  ",
+        "prob": "42.0",
+        "e_value": "75",
+        "p_value": "0.0013",
+        "score": "17.8",
+        "ss": "7.4",
+        "cols": "66",
+        "query_start": "24",
+        "query_stop": "89",
+        "template_start": "12",
+        "template_stop": "78",
+        "hmm": "(149)",
+        "alignment": ">4WZS_B TATA-binding protein-associated phosphoprotein; Transcription, protein-DNA complex, Swi2/Snf2; HET: MSE; 3.78A {Encephalitozoon cuniculi (strain GB-M1)}\nProbab=41.99  E-value=75  Score=17.84  Aligned_cols=66  Identities=17%  Similarity=0.173  Sum_probs=0.0  Template_Neff=8.100\n\nQ ss_pred             CcCCHHHHHHHHHcC-CCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHH\nQ AAN59974.1       24 LQFPVGRVHRLLRKG-NYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIR   89 (130)\nQ Consensus        24 ~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~   89 (130)\n                      +.+|.+.+.++++.. .-...++......+..+...++..+...+...+....+..+.+.++..++.\nT Consensus        12 ~~lP~a~i~ri~k~~lp~~~~is~~a~~~l~~~~~~Fi~~l~~~A~~~a~~~~rktI~~~dv~~Al~   78 (149)\nT 4WZS_B           12 NTLPKATVDKMVSSMLPKNSVVPKESKEIFQNACIYFLNMLTLEANKACEEEKKKTISYEHVYKALK   78 (149)\nT ss_dssp             --CCHHHHHHHHHC-----CCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTCSEECHHHHHHHHH\nT ss_pred             CCCCHHHHHHHHHhhCCCCCccCHHHHHHHHHHHHHHHHHHHHHHHHHHHHhCCCcCCHHHHHHHHH\n\n\n"
+      },
+      {
+        "hit_name": "4CSR_A NUCLEAR TRANSCRIPTION F  ",
+        "prob": "37.0",
+        "e_value": "65",
+        "p_value": "0.0011",
+        "score": "15.7",
+        "ss": "7.0",
+        "cols": "64",
+        "query_start": "26",
+        "query_stop": "89",
+        "template_start": "10",
+        "template_stop": "74",
+        "hmm": "(94)",
+        "alignment": ">4CSR_A NUCLEAR TRANSCRIPTION FACTOR Y SUBUNIT BETA; TRANSCRIPTION, NF-Y, DNA-BINDING, CCAAT-BOX; HET: GOL; 1.5A {HOMO SAPIENS} SCOP: a.22.1.3\nProbab=37.01  E-value=65  Score=15.68  Aligned_cols=64  Identities=14%  Similarity=0.276  Sum_probs=0.0  Template_Neff=10.300\n\nQ ss_pred             CCHHHHHHHHHcC-CCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHH\nQ AAN59974.1       26 FPVGRVHRLLRKG-NYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIR   89 (130)\nQ Consensus        26 ~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~   89 (130)\n                      ++.+.+.++++.. .....++......+....+.++..+...+...+.......+.+.++...+.\nT Consensus        10 ~p~~~i~~i~k~~~~~~~~vs~~a~~~l~~~~~~f~~~l~~~a~~~a~~~~r~ti~~~dv~~a~~   74 (94)\nT 4CSR_A           10 LPIANVARIMKNAIPQTGKIAKDAKECVQECVSEFISFITSEASERCHQEKRKTINGEDILFAMS   74 (94)\nT ss_dssp             CCHHHHHHHHHHTSCTTCEECHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTCSSBCHHHHHHHHH\nT ss_pred             CCHHHHHHHHHHHCCCCCeeCHHHHHHHHHHHHHHHHHHHHHHHHHHHHcCCCccCHHHHHHHHH\n\n\n"
+      },
+      {
+        "hit_name": "5G49_A NUCLEAR TRANSCRIPTION F  ",
+        "prob": "32.3",
+        "e_value": "83",
+        "p_value": "0.0015",
+        "score": "15.5",
+        "ss": "7.2",
+        "cols": "66",
+        "query_start": "24",
+        "query_stop": "89",
+        "template_start": "11",
+        "template_stop": "77",
+        "hmm": "(97)",
+        "alignment": ">5G49_A NUCLEAR TRANSCRIPTION FACTOR Y SUBUNIT B-6; TRANSCRIPTION, HISTONE-FOLD DOMAIN, NF-Y, TRANSCRIPTION FACTOR, CCAAT BOX- BINDING TRANSCRIPTION FACTOR; HET: ACT; 2.3A {ARABIDOPSIS THALIANA} SCOP: a.22.1.3, l.1.1.1\nProbab=32.31  E-value=83  Score=15.51  Aligned_cols=66  Identities=12%  Similarity=0.177  Sum_probs=0.0  Template_Neff=10.000\n\nQ ss_pred             CcCCHHHHHHHHHcCCC-ccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHH\nQ AAN59974.1       24 LQFPVGRVHRLLRKGNY-AERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIR   89 (130)\nQ Consensus        24 ~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~   89 (130)\n                      ..++...+.++++...- ....+......+....+.+...+...+...+...++..+...++...+.\nT Consensus        11 ~~~p~~~i~~lik~~~~~~~~vs~~a~~~l~~~~~~f~~~~~~~a~~~a~~~~rkti~~~dv~~al~   77 (97)\nT 5G49_A           11 RFMPIANVIRIMRRILPAHAKISDDSKETIQECVSEYISFITGEANERCQREQRKTITAEDVLWAMS   77 (97)\nT ss_dssp             GSCCHHHHHHHHC-CCCTTCEECHHHHHHHHHHHHHHHHHHHHHHHHHHHHHTCCEECHHHHHHHHH\nT ss_pred             ccCCHHHHHHHHHHHCCCCCeeCHHHHHHHHHHHHHHHHHHHHHHHHHHHHcCCCCCCHHHHHHHHH\n\n\n"
+      },
+      {
+        "hit_name": "4F0Z_C Ankyrin repeat domain-c  ",
+        "prob": "27.2",
+        "e_value": "36",
+        "p_value": "0.00064",
+        "score": "14.1",
+        "ss": "0.4",
+        "cols": "10",
+        "query_start": "121",
+        "query_stop": "130",
+        "template_start": "2",
+        "template_stop": "11",
+        "hmm": "(43)",
+        "alignment": ">4F0Z_C Ankyrin repeat domain-containing protein A238L; EF-hand, phosphatase, PxIxIT, LxVP, calcium signaling, transcription regulation, T-cell activation, Calcineurin inhibition, calmodulin, RCAN, NFAT, heart; HET: GOL; 1.7A {Homo sapiens}\nProbab=27.17  E-value=36  Score=14.09  Aligned_cols=10  Identities=30%  Similarity=0.189  Sum_probs=0.0  Template_Neff=1.100\n\nQ ss_pred             CcchhhhcCC\nQ AAN59974.1      121 TESHHKAKGK  130 (130)\nQ Consensus       121 ~~~~~~~~~~  130 (130)\n                      +.+.+|+|+|\nT Consensus         2 h~r~fkkkpk   11 (43)\nT 4F0Z_C            2 HMRRFKKKPK   11 (43)\nT ss_dssp             -------CCE\nT ss_pred             CccccccCCc\n\n\n"
+      },
+      {
+        "hit_name": "1N1J_A NF-YB; HISTONE-LIKE PAI  ",
+        "prob": "24.6",
+        "e_value": "1.1E+02",
+        "p_value": "0.002",
+        "score": "14.5",
+        "ss": "7.1",
+        "cols": "66",
+        "query_start": "24",
+        "query_stop": "89",
+        "template_start": "7",
+        "template_stop": "73",
+        "hmm": "(93)",
+        "alignment": ">1N1J_A NF-YB; HISTONE-LIKE PAIR, DNA binding protein; 1.67A {Homo sapiens} SCOP: a.22.1.3\nProbab=24.61  E-value=1.1e+02  Score=14.47  Aligned_cols=66  Identities=14%  Similarity=0.273  Sum_probs=0.0  Template_Neff=11.100\n\nQ ss_pred             CcCCHHHHHHHHHcC-CCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHH\nQ AAN59974.1       24 LQFPVGRVHRLLRKG-NYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIR   89 (130)\nQ Consensus        24 ~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~   89 (130)\n                      ..++.+.+.++++.. ......+......+....+.+...+...+...........+...++..++.\nT Consensus         7 ~~~p~~~v~~i~k~~~~~~~~is~~a~~~~~~~~~~f~~~l~~~a~~~~~~~~~~ti~~~~v~~a~~   73 (93)\nT 1N1J_A            7 IYLPIANVARIMKNAIPQTGKIAKDAKECVQECVSEFISFITSEASERCHQEKRKTINGEDILFAMS   73 (93)\nT ss_dssp             CCCCHHHHHHHHHHTSCTTCEECHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTCSSBCHHHHHHHHH\nT ss_pred             cccCHHHHHHHHHHHCCCCCccCHHHHHHHHHHHHHHHHHHHHHHHHHHHHcCCCCCCHHHHHHHHH\n\n\n"
+      },
+      {
+        "hit_name": "1B67_A PROTEIN (HISTONE HMFA);  ",
+        "prob": "24.4",
+        "e_value": "85",
+        "p_value": "0.0015",
+        "score": "13.0",
+        "ss": "7.1",
+        "cols": "64",
+        "query_start": "25",
+        "query_stop": "89",
+        "template_start": "2",
+        "template_stop": "65",
+        "hmm": "(68)",
+        "alignment": ">1B67_A PROTEIN (HISTONE HMFA); HISTONE, HMF1, DNA BINDING PROTEIN; 1.48A {Methanothermus fervidus} SCOP: a.22.1.2\nProbab=24.37  E-value=85  Score=13.02  Aligned_cols=64  Identities=30%  Similarity=0.452  Sum_probs=0.0  Template_Neff=12.500\n\nQ ss_pred             cCCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHH\nQ AAN59974.1       25 QFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIR   89 (130)\nQ Consensus        25 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~   89 (130)\n                      .++...+.+++.... ...........+....+.++..+...+...........+...++...+.\nT Consensus         2 ~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~~~~~~~~   65 (68)\nT 1B67_A            2 ELPIAPIGRIIKNAG-AERVSDDARIALAKVLEEMGEEIASEAVKLAKHAGRKTIKAEDIELARK   65 (68)\nT ss_dssp             CSCHHHHHHHHHHTT-CSEECHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTCSEECHHHHHHHGG\nT ss_pred             CCChhHHHHHHHHcC-CcccCHHHHHHHHHHHHHHHHHHHHHHHHHHHHcCCCccCHHHHHHHHH\n\n\n"
+      },
+      {
+        "hit_name": "1F1E_A HISTONE FOLD PROTEIN; A  ",
+        "prob": "21.7",
+        "e_value": "1.9E+02",
+        "p_value": "0.0034",
+        "score": "16.1",
+        "ss": "7.6",
+        "cols": "65",
+        "query_start": "24",
+        "query_stop": "89",
+        "template_start": "81",
+        "template_stop": "145",
+        "hmm": "(154)",
+        "alignment": ">1F1E_A HISTONE FOLD PROTEIN; Archaeal Histone Protein, DNA BINDING PROTEIN; HET: MSE; 1.37A {Methanopyrus kandleri} SCOP: a.22.1.2\nProbab=21.71  E-value=1.9e+02  Score=16.12  Aligned_cols=65  Identities=22%  Similarity=0.236  Sum_probs=0.0  Template_Neff=9.100\n\nQ ss_pred             CcCCHHHHHHHHHcCCCccccCCCchHHHHHHHHHHHHHHHHHHHHHHHHCCCCccCHHHHHHHHH\nQ AAN59974.1       24 LQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIR   89 (130)\nQ Consensus        24 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~   89 (130)\n                      ..++.+.+.+++... -...++......+...++.++..+...+.....+..+..+...++.+.+.\nT Consensus        81 ~~lp~~~i~ri~k~~-~~~~is~~a~~~~~~~~~~f~~~i~~~A~~~a~~~kRktI~~~Di~~al~  145 (154)\nT 1F1E_A           81 ELFGRATVRRILKRA-GIERASSDAVDLYNKLICRATEELGEKAAEYADEDGRKTVQGEDVEKAIT  145 (154)\nT ss_dssp             CCCCHHHHHHHHHHT-TCCEECHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTCSEECHHHHHHHHH\nT ss_pred             cccCHHHHHHHHHHc-CCceecHHHHHHHHHHHHHHHHHHHHHHHHHHHHcCCCccCHHHHHHHHH\n\n"
+      }
+    ],
+    "match_columns": "130",
+    "no_of_seqs": "121 out of 1101",
+    "neff": "12.3641",
+    "searched_hmms": "57053",
+    "date": "Wed Nov  3 15:33:31 2021",
+    "command": "hhsearch -cpu 8 -i ../results/full.a3m -d /cluster/toolkit/production/databases/hh-suite/mmcif70/pdb70 -o ../results/3158014.hhr -oa3m ../results/3158014.a3m -p 20 -Z 250 -loc -z 1 -b 1 -B 250 -ssm 2 -sc 1 -seq 1 -dbstrlen 10000 -norealign -maxres 32000 -contxt /cluster/toolkit/production/bioprogs/tools/hh-suite-build-new/data/context_data.crf"
+  }
+}
