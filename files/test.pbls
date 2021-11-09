@@ -1,0 +1,143 @@
+PSIBLAST 2.12.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for compositional score matrix adjustment: Stephen F.
+Altschul, John C. Wootton, E. Michael Gertz, Richa Agarwala,
+Aleksandr Morgulis, Alejandro A. Schaffer, and Yi-Kuo Yu (2005)
+"Protein database searches using compositionally adjusted
+substitution matrices", FEBS J. 272:5101-5109.
+
+
+Reference for composition-based statistics starting in round 2:
+Alejandro A. Schaffer, L. Aravind, Thomas L. Madden, Sergei
+Shavirin, John L. Spouge, Yuri I. Wolf, Eugene V. Koonin, and
+Stephen F. Altschul (2001), "Improving the accuracy of PSI-BLAST
+protein database searches with composition-based statistics and
+other refinements", Nucleic Acids Res. 29:2994-3005.
+
+
+
+Database: uniref_test.fasta
+           2,521 sequences; 969,502 total letters
+
+Results from round 1
+
+
+Query= UniRef90_Q6GZX4 Putative transcription factor 001R n=16
+Tax=Ranavirus RepID=001R_FRG3G
+
+Length=256
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+UniRef90_Q6GZX4 Putative transcription factor 001R n=16 Tax=Ranav...  533     0.0  
+UniRef90_Q23911 Protein 29C n=1 Tax=Dictyostelium discoideum RepI...  25.0    3.0  
+UniRef90_Q8LPT1 ABC transporter B family member 6 n=28 Tax=Brassi...  25.0    5.2  
+UniRef90_Q5SSE9 ATP-binding cassette sub-family A member 13 n=3 T...  24.3    9.4  
+UniRef90_Q8LPQ6 ABC transporter B family member 28 n=10 Tax=Brass...  23.9    9.5  
+
+
+>UniRef90_Q6GZX4 Putative transcription factor 001R n=16 Tax=Ranavirus 
+RepID=001R_FRG3G
+Length=256
+
+ Score = 533 bits (1372),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 256/256 (100%), Positives = 256/256 (100%), Gaps = 0/256 (0%)
+
+Query  1    MAFSAEDVLKEYDRRRRMEALLLSLYYPNDRKLLDYKEWSPPRVQVECPKAPVEWNNPPS  60
+            MAFSAEDVLKEYDRRRRMEALLLSLYYPNDRKLLDYKEWSPPRVQVECPKAPVEWNNPPS
+Sbjct  1    MAFSAEDVLKEYDRRRRMEALLLSLYYPNDRKLLDYKEWSPPRVQVECPKAPVEWNNPPS  60
+
+Query  61   EKGLIVGHFSGIKYKGEKAQASEVDVNKMCCWVSKFKDAMRRYQGIQTCKIPGKVLSDLD  120
+            EKGLIVGHFSGIKYKGEKAQASEVDVNKMCCWVSKFKDAMRRYQGIQTCKIPGKVLSDLD
+Sbjct  61   EKGLIVGHFSGIKYKGEKAQASEVDVNKMCCWVSKFKDAMRRYQGIQTCKIPGKVLSDLD  120
+
+Query  121  AKIKAYNLTVEGVEGFVRYSRVTKQHVAAFLKELRHSKQYENVNLIHYILTDKRVDIQHL  180
+            AKIKAYNLTVEGVEGFVRYSRVTKQHVAAFLKELRHSKQYENVNLIHYILTDKRVDIQHL
+Sbjct  121  AKIKAYNLTVEGVEGFVRYSRVTKQHVAAFLKELRHSKQYENVNLIHYILTDKRVDIQHL  180
+
+Query  181  EKDLVKDFKALVESAHRMRQGHMINVKYILYQLLKKHGHGPDGPDILTVKTGSKGVLYDD  240
+            EKDLVKDFKALVESAHRMRQGHMINVKYILYQLLKKHGHGPDGPDILTVKTGSKGVLYDD
+Sbjct  181  EKDLVKDFKALVESAHRMRQGHMINVKYILYQLLKKHGHGPDGPDILTVKTGSKGVLYDD  240
+
+Query  241  SFRKIYTDLGWKFTPL  256
+            SFRKIYTDLGWKFTPL
+Sbjct  241  SFRKIYTDLGWKFTPL  256
+
+
+>UniRef90_Q23911 Protein 29C n=1 Tax=Dictyostelium discoideum 
+RepID=29C_DICDI
+Length=184
+
+ Score = 25.0 bits (53),  Expect = 3.0, Method: Compositional matrix adjust.
+ Identities = 15/52 (29%), Positives = 24/52 (46%), Gaps = 1/52 (2%)
+
+Query  147  VAAFLKELRH-SKQYENVNLIHYILTDKRVDIQHLEKDLVKDFKALVESAHR  197
+            V  F+ E+   SK+  N   I  ++  + +DI H    L  DFK+ +    R
+Sbjct  113  VGKFISEISAISKEVTNETGIIKLIIHEVIDIFHNSHSLTSDFKSAISDCGR  164
+
+
+>UniRef90_Q8LPT1 ABC transporter B family member 6 n=28 Tax=Brassicales 
+RepID=AB6B_ARATH
+Length=1407
+
+ Score = 25.0 bits (53),  Expect = 5.2, Method: Compositional matrix adjust.
+ Identities = 11/33 (33%), Positives = 17/33 (52%), Gaps = 8/33 (24%)
+
+Query  39  WSPPRVQ--------VECPKAPVEWNNPPSEKG  63
+           WSPP +Q         E P++P  + +P +E G
+Sbjct  10  WSPPHIQPLTPVSEVSEPPESPSPYLDPGAEHG  42
+
+
+>UniRef90_Q5SSE9 ATP-binding cassette sub-family A member 13 n=3 
+Tax=Mus musculus RepID=ABCAD_MOUSE
+Length=5034
+
+ Score = 24.3 bits (51),  Expect = 9.4, Method: Compositional matrix adjust.
+ Identities = 14/45 (31%), Positives = 21/45 (47%), Gaps = 1/45 (2%)
+
+Query  54    EWNNPPSEKGLIVGHFSGIKYKGEKAQASEVDVNKMC-CWVSKFK  97
+             E + P +    +  HF GI++KG++    E  V K   C    FK
+Sbjct  4935  EGSQPSAVSDCLKLHFPGIQFKGQRLNLLEYHVQKSWECLADLFK  4979
+
+
+>UniRef90_Q8LPQ6 ABC transporter B family member 28 n=10 Tax=Brassicaceae 
+RepID=AB28B_ARATH
+Length=714
+
+ Score = 23.9 bits (50),  Expect = 9.5, Method: Compositional matrix adjust.
+ Identities = 10/35 (29%), Positives = 22/35 (63%), Gaps = 0/35 (0%)
+
+Query  156  HSKQYENVNLIHYILTDKRVDIQHLEKDLVKDFKA  190
+            H+K+ ++ NL  ++     V+I+HL+K  + + K+
+Sbjct  423  HTKKVQDENLKLFLSAGPNVNIRHLDKYYMSNLKS  457
+
+
+
+Lambda      K        H        a         alpha
+   0.320    0.137    0.417    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 135136672
+
+
+  Database: uniref_test.fasta
+    Posted date:  Jul 16, 2021  4:22 PM
+  Number of letters in database: 969,502
+  Number of sequences in database:  2,521
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

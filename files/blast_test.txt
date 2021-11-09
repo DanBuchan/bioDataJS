@@ -1,0 +1,1583 @@
+{
+  "identity": "sequence",
+  "sequence": "MAFSAEDVLKEYDRRRRMEALLLSLYYPNDRKLLDYKEWSPPRVQVECPKAPVEWNNPPSEKGLIVGHFSGIKYKGEKAQASEVDVNKMCCWVSKFKDAMRRYQGIQTCKIPGKVLSDLDAKIKAYNLTVEGVEGFVRYSRVTKQHVAAFLKELRHSKQYENVNLIHYILTDKRVDIQHLEKDLVKDFKALVESAHRMRQGHMINVKYILYQLLKKHGHGPDGPDILTVKTGSKGVLYDDSFRKIYTDLGWKFTPL",
+  "type": "aminoacid",
+  "source": "./files/test.pbls",
+  "residues": [
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "N",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "C",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "N",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "N",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "H",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "N",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "C",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "C",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "C",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "N",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "H",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "H",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "N",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "N",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "H",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "H",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "E",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "A",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "H",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "H",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "M",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "N",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Q",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "H",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "H",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "V",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "S",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "R",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "I",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "Y",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "D",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "G",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "W",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "K",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "F",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "T",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "P",
+      "type": "aminoacid",
+      "annotations": {}
+    },
+    {
+      "identity": "residue",
+      "residue": "L",
+      "type": "aminoacid",
+      "annotations": {}
+    }
+  ],
+  "annotations": {
+    "results": [
+      {
+        "hit_name": "UniRef90_Q6GZX4",
+        "description": "UniRef90_Q6GZX4 Putative transcription factor 001R n=16 Tax=Ranav...  ",
+        "score": "533",
+        "evalue": "0.0",
+        "alignment": ">UniRef90_Q6GZX4 Putative transcription factor 001R n=16 Tax=Ranavirus \nRepID=001R_FRG3G\nLength=256\n\n Score = 533 bits (1372),  Expect = 0.0, Method: Compositional matrix adjust.\n Identities = 256/256 (100%), Positives = 256/256 (100%), Gaps = 0/256 (0%)\n\nQuery  1    MAFSAEDVLKEYDRRRRMEALLLSLYYPNDRKLLDYKEWSPPRVQVECPKAPVEWNNPPS  60\n            MAFSAEDVLKEYDRRRRMEALLLSLYYPNDRKLLDYKEWSPPRVQVECPKAPVEWNNPPS\nSbjct  1    MAFSAEDVLKEYDRRRRMEALLLSLYYPNDRKLLDYKEWSPPRVQVECPKAPVEWNNPPS  60\n\nQuery  61   EKGLIVGHFSGIKYKGEKAQASEVDVNKMCCWVSKFKDAMRRYQGIQTCKIPGKVLSDLD  120\n            EKGLIVGHFSGIKYKGEKAQASEVDVNKMCCWVSKFKDAMRRYQGIQTCKIPGKVLSDLD\nSbjct  61   EKGLIVGHFSGIKYKGEKAQASEVDVNKMCCWVSKFKDAMRRYQGIQTCKIPGKVLSDLD  120\n\nQuery  121  AKIKAYNLTVEGVEGFVRYSRVTKQHVAAFLKELRHSKQYENVNLIHYILTDKRVDIQHL  180\n            AKIKAYNLTVEGVEGFVRYSRVTKQHVAAFLKELRHSKQYENVNLIHYILTDKRVDIQHL\nSbjct  121  AKIKAYNLTVEGVEGFVRYSRVTKQHVAAFLKELRHSKQYENVNLIHYILTDKRVDIQHL  180\n\nQuery  181  EKDLVKDFKALVESAHRMRQGHMINVKYILYQLLKKHGHGPDGPDILTVKTGSKGVLYDD  240\n            EKDLVKDFKALVESAHRMRQGHMINVKYILYQLLKKHGHGPDGPDILTVKTGSKGVLYDD\nSbjct  181  EKDLVKDFKALVESAHRMRQGHMINVKYILYQLLKKHGHGPDGPDILTVKTGSKGVLYDD  240\n\nQuery  241  SFRKIYTDLGWKFTPL  256\n            SFRKIYTDLGWKFTPL\nSbjct  241  SFRKIYTDLGWKFTPL  256\n\n\n"
+      },
+      {
+        "hit_name": "UniRef90_Q23911",
+        "description": "UniRef90_Q23911 Protein 29C n=1 Tax=Dictyostelium discoideum RepI...  ",
+        "score": "25.0",
+        "evalue": "3.0",
+        "alignment": ">UniRef90_Q23911 Protein 29C n=1 Tax=Dictyostelium discoideum \nRepID=29C_DICDI\nLength=184\n\n Score = 25.0 bits (53),  Expect = 3.0, Method: Compositional matrix adjust.\n Identities = 15/52 (29%), Positives = 24/52 (46%), Gaps = 1/52 (2%)\n\nQuery  147  VAAFLKELRH-SKQYENVNLIHYILTDKRVDIQHLEKDLVKDFKALVESAHR  197\n            V  F+ E+   SK+  N   I  ++  + +DI H    L  DFK+ +    R\nSbjct  113  VGKFISEISAISKEVTNETGIIKLIIHEVIDIFHNSHSLTSDFKSAISDCGR  164\n\n\n"
+      },
+      {
+        "hit_name": "UniRef90_Q8LPT1",
+        "description": "UniRef90_Q8LPT1 ABC transporter B family member 6 n=28 Tax=Brassi...  ",
+        "score": "25.0",
+        "evalue": "5.2",
+        "alignment": ">UniRef90_Q8LPT1 ABC transporter B family member 6 n=28 Tax=Brassicales \nRepID=AB6B_ARATH\nLength=1407\n\n Score = 25.0 bits (53),  Expect = 5.2, Method: Compositional matrix adjust.\n Identities = 11/33 (33%), Positives = 17/33 (52%), Gaps = 8/33 (24%)\n\nQuery  39  WSPPRVQ--------VECPKAPVEWNNPPSEKG  63\n           WSPP +Q         E P++P  + +P +E G\nSbjct  10  WSPPHIQPLTPVSEVSEPPESPSPYLDPGAEHG  42\n\n\n"
+      },
+      {
+        "hit_name": "UniRef90_Q5SSE9",
+        "description": "UniRef90_Q5SSE9 ATP-binding cassette sub-family A member 13 n=3 T...  ",
+        "score": "24.3",
+        "evalue": "9.4",
+        "alignment": ">UniRef90_Q5SSE9 ATP-binding cassette sub-family A member 13 n=3 \nTax=Mus musculus RepID=ABCAD_MOUSE\nLength=5034\n\n Score = 24.3 bits (51),  Expect = 9.4, Method: Compositional matrix adjust.\n Identities = 14/45 (31%), Positives = 21/45 (47%), Gaps = 1/45 (2%)\n\nQuery  54    EWNNPPSEKGLIVGHFSGIKYKGEKAQASEVDVNKMC-CWVSKFK  97\n             E + P +    +  HF GI++KG++    E  V K   C    FK\nSbjct  4935  EGSQPSAVSDCLKLHFPGIQFKGQRLNLLEYHVQKSWECLADLFK  4979\n\n\n"
+      },
+      {
+        "hit_name": "UniRef90_Q8LPQ6",
+        "description": "UniRef90_Q8LPQ6 ABC transporter B family member 28 n=10 Tax=Brass...  ",
+        "score": "23.9",
+        "evalue": "9.5",
+        "alignment": ">UniRef90_Q8LPQ6 ABC transporter B family member 28 n=10 Tax=Brassicaceae \nRepID=AB28B_ARATH\nLength=714\n\n Score = 23.9 bits (50),  Expect = 9.5, Method: Compositional matrix adjust.\n Identities = 10/35 (29%), Positives = 22/35 (63%), Gaps = 0/35 (0%)\n\nQuery  156  HSKQYENVNLIHYILTDKRVDIQHLEKDLVKDFKA  190\n            H+K+ ++ NL  ++     V+I+HL+K  + + K+\nSbjct  423  HTKKVQDENLKLFLSAGPNVNIRHLDKYYMSNLKS  457\n\n\n\nLambda      K        H        a         alpha\n   0.320    0.137    0.417    0.792     4.96 \n\nGapped\nLambda      K        H        a         alpha    sigma\n   0.267   0.0410    0.140     1.90     42.6     43.6 \n\nEffective search space used: 135136672\n\n\n  Database: uniref_test.fasta\n    Posted date:  Jul 16, 2021  4:22 PM\n  Number of letters in database: 969,502\n  Number of sequences in database:  2,521\n\n\n\nMatrix: BLOSUM62\nGap Penalties: Existence: 11, Extension: 1\nNeighboring words threshold: 11\nWindow for multiple hits: 40\n\n"
+      }
+    ]
+  }
+}
