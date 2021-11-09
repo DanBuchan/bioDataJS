@@ -9,7 +9,7 @@ var _sequence = require("./sequence.js");
 
 function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
 
-// sequence : a sequence object creadted by db.sequence()
+// sequence : a sequence object creadted by bd.sequence()
 //            or an array of sequences to support inteins
 // annoations: an objects of key:value pairs. Of annotations for the mRNA
 // source: A strong the defines where the data revord came from (i.e. a file
