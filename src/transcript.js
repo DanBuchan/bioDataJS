@@ -2,6 +2,12 @@
 import { rna } from './rna.js';
 import { sequence } from './sequence.js';
 
+// transcript_sequence : an nucleotide sequence or a sequence object of
+//                 type nucleotide creadted by db.sequence()
+// rna : One of more rna objects db.rna()
+// annoations: an object of key:value pairs. Of annotations for the rna
+// source: A strong the defines where the data revord came from (i.e. a file
+//         name or URI
 export const transcript = function(transcript_sequence, rna=[], annotations={}, source='') {
 
   if(Array.isArray(rna))

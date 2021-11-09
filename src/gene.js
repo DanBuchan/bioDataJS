@@ -1,6 +1,12 @@
 /*jshint esversion: 6 */
 import { sequence } from './sequence.js';
 
+// gene_sequence : an nucleotide sequence or a sequence object of
+//                 type nucleotide creadted by db.sequence()
+// transcripts : One of more rna objects db.transcript()
+// annoations: an object of key:value pairs. Of annotations for the rna
+// source: A strong the defines where the data revord came from (i.e. a file
+//         name or URI
 export const gene = function(gene_sequence, transcripts=[], annotations={}, source='') {
 
   if(Array.isArray(transcripts))
